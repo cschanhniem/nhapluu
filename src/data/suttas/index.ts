@@ -11,6 +11,12 @@ import dn16 from './dn-16'
 import snp_2_4 from './snp-2-4'
 import snp_2_1 from './snp-2-1'
 import snp_1_8 from './snp-1-8'
+import sn12_15 from './sn-12-15'
+import sn22_1 from './sn-22-1'
+import an10_92 from './an-10-92'
+import sn12_2 from './sn-12-2'
+import mn2 from './mn-2'
+import dn31 from './dn-31'
 
 export const suttas = [
   mn118,
@@ -26,4 +32,10 @@ export const suttas = [
   snp_2_4,
   snp_2_1,
   snp_1_8,
+  sn12_15,
+  sn22_1,
+an10_92,
+  sn12_2,
+  mn2,
+  dn31,
 ]
