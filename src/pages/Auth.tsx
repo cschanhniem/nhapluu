@@ -7,6 +7,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 
 export default function Auth() {
   const [email, setEmail] = useState('')
+  const [password, setPassword] = useState('')
   const [isLogin, setIsLogin] = useState(true)
   const [error, setError] = useState('')
   const [isLoading, setIsLoading] = useState(false)
@@ -22,13 +23,18 @@ export default function Auth() {
       return
     }
 
+    if (!password || password.length < 6) {
+      setError('Mật khẩu phải có ít nhất 6 ký tự')
+      return
+    }
+
     setIsLoading(true)
 
     try {
       if (isLogin) {
-        await login(email)
+        await login(email, password)
       } else {
-        await register(email)
+        await register(email, password)
       }
       navigate('/')
     } catch (err: any) {
@@ -48,7 +54,7 @@ export default function Auth() {
           </CardTitle>
           <CardDescription>
             {isLogin
-              ? 'Nhập email để đăng nhập vào tài khoản của bạn'
+              ? 'Nhập email và mật khẩu để đăng nhập'
               : 'Tạo tài khoản mới để bắt đầu hành trình tu tập'}
           </CardDescription>
         </CardHeader>
@@ -67,6 +73,27 @@ export default function Auth() {
                 disabled={isLoading}
                 required
               />
+            </div>
+
+            <div className="space-y-2">
+              <label htmlFor="password" className="text-sm font-medium">
+                Mật khẩu
+              </label>
+              <Input
+                id="password"
+                type="password"
+                placeholder="••••••••"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                disabled={isLoading}
+                required
+                minLength={6}
+              />
+              {!isLogin && (
+                <p className="text-xs text-muted-foreground">
+                  Tối thiểu 6 ký tự
+                </p>
+              )}
             </div>
 
             {error && (
@@ -93,6 +120,7 @@ export default function Auth() {
                 onClick={() => {
                   setIsLogin(!isLogin)
                   setError('')
+                  setPassword('')
                 }}
                 className="text-primary hover:underline"
                 disabled={isLoading}

@@ -10,6 +10,21 @@ type Bindings = {
 
 const app = new Hono<{ Bindings: Bindings }>()
 
+// Helper: Hash password using SHA-256
+async function hashPassword(password: string): Promise<string> {
+  const encoder = new TextEncoder()
+  const data = encoder.encode(password)
+  const hashBuffer = await crypto.subtle.digest('SHA-256', data)
+  const hashArray = Array.from(new Uint8Array(hashBuffer))
+  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('')
+}
+
+// Helper: Verify password
+async function verifyPassword(password: string, hash: string): Promise<boolean> {
+  const passwordHash = await hashPassword(password)
+  return passwordHash === hash
+}
+
 // Middleware
 app.use('*', logger())
 app.use('*', async (c, next) => {
@@ -42,12 +57,19 @@ app.get('/api/health', (c) => {
 // Auth routes
 app.post('/api/auth/register', async (c) => {
   try {
-    const { email } = await c.req.json()
+    const { email, password } = await c.req.json()
 
-    // Simple validation
+    // Validation
     if (!email || !email.includes('@')) {
       return c.json({ error: 'Invalid email' }, 400)
     }
+
+    if (!password || password.length < 6) {
+      return c.json({ error: 'Password must be at least 6 characters' }, 400)
+    }
+
+    // Hash password
+    const passwordHash = await hashPassword(password)
 
     // Generate user ID
     const userId = crypto.randomUUID()
@@ -55,10 +77,10 @@ app.post('/api/auth/register', async (c) => {
 
     // Insert user
     await c.env.DB.prepare(
-      'INSERT INTO users (id, email, created_at, last_sync) VALUES (?, ?, ?, ?)'
-    ).bind(userId, email, now, now).run()
+      'INSERT INTO users (id, email, password_hash, created_at, last_sync) VALUES (?, ?, ?, ?, ?)'
+    ).bind(userId, email, passwordHash, now, now).run()
 
-    // Generate simple token (in production, use proper JWT)
+    // Generate simple token
     const token = btoa(JSON.stringify({ userId, email, exp: now + 30 * 24 * 60 * 60 * 1000 }))
 
     return c.json({
@@ -68,7 +90,7 @@ app.post('/api/auth/register', async (c) => {
     })
   } catch (error: any) {
     if (error.message?.includes('UNIQUE constraint')) {
-      return c.json({ error: 'Email already registered' }, 409)
+      return c.json({ error: 'Email đã được đăng ký' }, 409)
     }
     return c.json({ error: 'Registration failed' }, 500)
   }
@@ -76,15 +98,26 @@ app.post('/api/auth/register', async (c) => {
 
 app.post('/api/auth/login', async (c) => {
   try {
-    const { email } = await c.req.json()
+    const { email, password } = await c.req.json()
+
+    // Validation
+    if (!email || !password) {
+      return c.json({ error: 'Email và mật khẩu là bắt buộc' }, 400)
+    }
 
     // Find user
     const user = await c.env.DB.prepare(
-      'SELECT id, email FROM users WHERE email = ?'
+      'SELECT id, email, password_hash FROM users WHERE email = ?'
     ).bind(email).first()
 
     if (!user) {
-      return c.json({ error: 'User not found' }, 404)
+      return c.json({ error: 'Email hoặc mật khẩu không đúng' }, 401)
+    }
+
+    // Verify password
+    const isValid = await verifyPassword(password, user.password_hash as string)
+    if (!isValid) {
+      return c.json({ error: 'Email hoặc mật khẩu không đúng' }, 401)
     }
 
     // Generate token

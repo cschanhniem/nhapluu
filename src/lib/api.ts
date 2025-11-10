@@ -20,11 +20,11 @@ interface SyncData {
 }
 
 // Auth API
-export async function registerUser(email: string): Promise<AuthResponse> {
+export async function registerUser(email: string, password: string): Promise<AuthResponse> {
   const response = await fetch(`${API_BASE}/api/auth/register`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email })
+    body: JSON.stringify({ email, password })
   })
 
   if (!response.ok) {
@@ -35,11 +35,11 @@ export async function registerUser(email: string): Promise<AuthResponse> {
   return response.json()
 }
 
-export async function loginUser(email: string): Promise<AuthResponse> {
+export async function loginUser(email: string, password: string): Promise<AuthResponse> {
   const response = await fetch(`${API_BASE}/api/auth/login`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email })
+    body: JSON.stringify({ email, password })
   })
 
   if (!response.ok) {
