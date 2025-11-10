@@ -71,19 +71,39 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       localStorage.setItem('auth_token', response.token)
       localStorage.setItem('auth_user', JSON.stringify(response.user))
 
-      // Pull data from server after login
+      // Pull data from server after login and merge with local
       if (response.token) {
         try {
           const serverData = await pullData(response.token)
-          // Merge server data with local data
-          const localData = localStorage.getItem('appState')
-          if (localData) {
-            const parsed = JSON.parse(localData)
-            // Server data takes precedence
-            if (serverData.meditationSessions?.length) {
-              parsed.meditationSessions = serverData.meditationSessions
+          const localData = localStorage.getItem('nhapluu-app-state')
+
+          if (serverData.meditationSessions?.length) {
+            if (localData) {
+              const parsed = JSON.parse(localData)
+              // Merge: Server data takes precedence, but keep local data that's not on server
+              const serverIds = new Set(serverData.meditationSessions.map(s => s.id))
+              const localOnly = parsed.meditationSessions?.filter((s: any) => !serverIds.has(s.id)) || []
+
+              // Combine server data + local-only data, sorted by date
+              const merged = [...serverData.meditationSessions, ...localOnly].sort(
+                (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+              )
+
+              parsed.meditationSessions = merged
+              localStorage.setItem('nhapluu-app-state', JSON.stringify(parsed))
+              console.log(`✅ Synced: ${serverData.meditationSessions.length} from server + ${localOnly.length} local`)
+            } else {
+              // No local data, just use server data
+              localStorage.setItem('nhapluu-app-state', JSON.stringify({
+                meditationSessions: serverData.meditationSessions,
+                preceptsRecords: [],
+                programProgress: null,
+                insightEntries: [],
+                bookmarkedSuttas: [],
+                settings: { theme: 'light', language: 'vi' }
+              }))
+              console.log(`✅ Loaded ${serverData.meditationSessions.length} sessions from server`)
             }
-            localStorage.setItem('appState', JSON.stringify(parsed))
           }
         } catch (error) {
           console.error('Failed to pull data from server:', error)

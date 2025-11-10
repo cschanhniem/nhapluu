@@ -1,11 +1,13 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Home, BookOpen, Timer, Users, Trophy, LogOut } from 'lucide-react'
+import { Home, BookOpen, Timer, Users, Trophy, LogOut, Cloud } from 'lucide-react'
 import { useAuth } from '@/contexts/AuthContext'
+import { useAppState } from '@/hooks/useAppState'
 import { Button } from '@/components/ui/button'
 
 export function Header() {
   const location = useLocation()
   const { user, logout } = useAuth()
+  const { isSyncing } = useAppState()
 
   const navigation = [
     { name: 'Trang Chủ', href: '/', icon: Home },
@@ -57,6 +59,15 @@ export function Header() {
 
             {/* User Menu */}
             <div className="flex items-center space-x-2 border-l border-border pl-4">
+              {/* Sync Indicator */}
+              <div className="relative" title={isSyncing ? "Đang đồng bộ..." : "Đã đồng bộ"}>
+                {isSyncing ? (
+                  <Cloud className="h-4 w-4 text-primary animate-pulse" />
+                ) : (
+                  <Cloud className="h-4 w-4 text-muted-foreground" />
+                )}
+              </div>
+
               <div className="hidden sm:block text-sm text-muted-foreground">
                 {user?.email}
               </div>
