@@ -1,35 +1,103 @@
+import { useState } from 'react'
 import { useAppState } from '@/hooks/useAppState'
+import { useCheckIn } from '@/hooks/useCheckIn'
 import { Button } from '@/components/ui/button'
 import { Link } from 'react-router-dom'
-import { Timer, BookOpen, Trophy, Flame, Clock } from 'lucide-react'
+import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles } from 'lucide-react'
 
 export function Dashboard() {
-  const { state, getStats } = useAppState()
+  const { getStats } = useAppState()
+  const { points, doCheckIn, hasCheckedInToday, getTodayCheckIn } = useCheckIn()
   const stats = getStats()
+  const [checkInMessage, setCheckInMessage] = useState<string | null>(null)
 
-  const hasStartedProgram = state.programProgress !== null
-  const recentSessions = state.meditationSessions.slice(0, 5)
+  const checkedInToday = hasCheckedInToday()
+  const todayCheckIn = getTodayCheckIn()
+
+  const handleCheckIn = () => {
+    const result = doCheckIn(null, 30) // Solo check-in for 30 mins
+    if (result.success) {
+      setCheckInMessage(result.message || 'Check-in thành công!')
+      setTimeout(() => setCheckInMessage(null), 3000)
+    } else {
+      setCheckInMessage(result.message || 'Đã check-in hôm nay')
+    }
+  }
 
   return (
     <div className="container mx-auto px-4 py-8 max-w-6xl">
       {/* Welcome Section */}
       <div className="mb-8">
         <h1 className="text-4xl font-bold text-foreground mb-2">
-          Chào mừng trở lại
+          Tỉnh Thức Mỗi Ngày
         </h1>
         <p className="text-muted-foreground">
-          Hôm nay là ngày tốt lành để tu tập chánh niệm
+          Stream Entry Community • Công nghệ vị nhân sinh
         </p>
+      </div>
+
+      {/* Check-in Hero Card */}
+      <div className={`rounded-xl border-2 p-6 mb-8 ${checkedInToday
+        ? 'bg-green-50 border-green-200 dark:bg-green-950/20 dark:border-green-900'
+        : 'bg-primary/5 border-primary/20'
+        }`}>
+        <div className="flex items-center justify-between flex-wrap gap-4">
+          <div className="flex items-center gap-4">
+            <div className={`w-16 h-16 rounded-full flex items-center justify-center ${checkedInToday ? 'bg-green-500' : 'bg-primary'
+              }`}>
+              {checkedInToday ? (
+                <CheckCircle2 className="h-8 w-8 text-white" />
+              ) : (
+                <Sparkles className="h-8 w-8 text-primary-foreground" />
+              )}
+            </div>
+            <div>
+              <h2 className="text-2xl font-bold text-foreground">
+                {checkedInToday ? 'Đã Check-in Hôm Nay!' : 'Check-in Tu Tập'}
+              </h2>
+              <p className="text-muted-foreground">
+                {checkedInToday
+                  ? `${todayCheckIn?.duration || 30} phút thiền tập • Chuỗi ${points.currentStreak} ngày 🔥`
+                  : 'Ghi nhận buổi thực hành hôm nay'
+                }
+              </p>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-4">
+            {/* Points Display */}
+            <div className="text-center px-4 py-2 bg-background rounded-lg border border-border">
+              <div className="flex items-center gap-1 text-primary">
+                <Zap className="h-4 w-4" />
+                <span className="text-2xl font-bold">{points.totalPoints}</span>
+              </div>
+              <span className="text-xs text-muted-foreground">điểm</span>
+            </div>
+
+            {!checkedInToday && (
+              <Button size="lg" onClick={handleCheckIn} className="gap-2">
+                <CheckCircle2 className="h-5 w-5" />
+                Check-in Ngay
+              </Button>
+            )}
+          </div>
+        </div>
+
+        {checkInMessage && (
+          <div className="mt-4 text-center text-primary font-medium animate-pulse">
+            {checkInMessage}
+          </div>
+        )}
       </div>
 
       {/* Stats Grid */}
       <div className="grid md:grid-cols-4 gap-4 mb-8">
         <div className="bg-card rounded-lg border border-border p-6">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-sm text-muted-foreground">Tổng số buổi</span>
+            <span className="text-sm text-muted-foreground">Check-ins</span>
             <Timer className="h-4 w-4 text-primary" />
           </div>
-          <div className="text-3xl font-bold text-foreground">{stats.totalMeditations}</div>
+          <div className="text-3xl font-bold text-foreground">{points.checkIns}</div>
         </div>
 
         <div className="bg-card rounded-lg border border-border p-6">
@@ -46,17 +114,17 @@ export function Dashboard() {
             <span className="text-sm text-muted-foreground">Chuỗi hiện tại</span>
             <Flame className="h-4 w-4 text-destructive" />
           </div>
-          <div className="text-3xl font-bold text-foreground">{stats.currentStreak}</div>
+          <div className="text-3xl font-bold text-foreground">{points.currentStreak}</div>
           <div className="text-xs text-muted-foreground mt-1">ngày</div>
         </div>
 
         <div className="bg-card rounded-lg border border-border p-6">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-sm text-muted-foreground">Tiến độ 90 ngày</span>
-            <Trophy className="h-4 w-4 text-primary" />
+            <span className="text-sm text-muted-foreground">Huy hiệu</span>
+            <Award className="h-4 w-4 text-primary" />
           </div>
-          <div className="text-3xl font-bold text-foreground">{stats.programDaysCompleted}</div>
-          <div className="text-xs text-muted-foreground mt-1">/ 90 ngày</div>
+          <div className="text-3xl font-bold text-foreground">{points.badges.length}</div>
+          <div className="text-xs text-muted-foreground mt-1">đạt được</div>
         </div>
       </div>
 
@@ -66,55 +134,51 @@ export function Dashboard() {
         <div className="bg-card rounded-lg border border-border p-6">
           <h2 className="text-xl font-semibold text-foreground mb-4">Hành Động Nhanh</h2>
           <div className="space-y-3">
+            <Link to="/tim-sangha">
+              <Button className="w-full justify-start bg-primary text-primary-foreground" size="lg">
+                <MapPin className="mr-2 h-5 w-5" />
+                Tìm Sangha Gần Bạn
+              </Button>
+            </Link>
             <Link to="/thien-dinh">
               <Button className="w-full justify-start" variant="outline">
                 <Timer className="mr-2 h-4 w-4" />
                 Bắt đầu ngồi thiền
               </Button>
             </Link>
-            <Link to="/kinh-tang">
-              <Button className="w-full justify-start" variant="outline">
-                <BookOpen className="mr-2 h-4 w-4" />
-                Đọc kinh một bài
-              </Button>
-            </Link>
-            {!hasStartedProgram && (
-              <Link to="/chuong-trinh">
-                <Button className="w-full justify-start bg-primary text-primary-foreground">
-                  <Trophy className="mr-2 h-4 w-4" />
-                  Bắt đầu chương trình 90 ngày
-                </Button>
-              </Link>
-            )}
           </div>
         </div>
 
-        {/* Recent Sessions */}
+        {/* Recent Check-ins */}
         <div className="bg-card rounded-lg border border-border p-6">
-          <h2 className="text-xl font-semibold text-foreground mb-4">Buổi Thiền Gần Đây</h2>
-          {recentSessions.length === 0 ? (
+          <h2 className="text-xl font-semibold text-foreground mb-4">Check-in Gần Đây</h2>
+          {points.checkIns === 0 ? (
             <p className="text-muted-foreground text-sm">
-              Chưa có buổi thiền nào. Hãy bắt đầu ngay hôm nay!
+              Chưa có check-in nào. Hãy check-in ngay hôm nay!
             </p>
           ) : (
             <div className="space-y-3">
-              {recentSessions.map((session) => (
-                <div key={session.id} className="flex items-center justify-between py-2 border-b border-border last:border-0">
-                  <div>
-                    <div className="text-sm font-medium text-foreground">
-                      {session.type === 'anapanasati' ? 'Niệm hơi thở' :
-                       session.type === 'vipassana' ? 'Vipassanā' :
-                       session.type === 'walking' ? 'Thiền đi' : 'Khác'}
-                    </div>
-                    <div className="text-xs text-muted-foreground">
-                      {new Date(session.date).toLocaleDateString('vi-VN')}
-                    </div>
-                  </div>
-                  <div className="text-sm font-semibold text-primary">
-                    {session.duration} phút
-                  </div>
+              <div className="flex items-center justify-between py-2 border-b border-border">
+                <div className="flex items-center gap-2">
+                  <Flame className="h-4 w-4 text-destructive" />
+                  <span className="text-sm font-medium text-foreground">Chuỗi hiện tại</span>
                 </div>
-              ))}
+                <span className="text-sm font-bold text-primary">{points.currentStreak} ngày</span>
+              </div>
+              <div className="flex items-center justify-between py-2 border-b border-border">
+                <div className="flex items-center gap-2">
+                  <Award className="h-4 w-4 text-primary" />
+                  <span className="text-sm font-medium text-foreground">Chuỗi dài nhất</span>
+                </div>
+                <span className="text-sm font-bold text-primary">{points.longestStreak} ngày</span>
+              </div>
+              <div className="flex items-center justify-between py-2">
+                <div className="flex items-center gap-2">
+                  <Zap className="h-4 w-4 text-yellow-500" />
+                  <span className="text-sm font-medium text-foreground">Tổng check-in</span>
+                </div>
+                <span className="text-sm font-bold text-primary">{points.checkIns} buổi</span>
+              </div>
             </div>
           )}
         </div>

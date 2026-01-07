@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Home, BookOpen, Timer, Users, Trophy, LogOut, Cloud } from 'lucide-react'
+import { Home, Timer, Users, LogOut, Cloud, MapPin, Shield } from 'lucide-react'
 import { useAuth } from '@/contexts/AuthContext'
 import { useAppState } from '@/hooks/useAppState'
 import { Button } from '@/components/ui/button'
@@ -11,10 +11,10 @@ export function Header() {
 
   const navigation = [
     { name: 'Trang Chủ', href: '/', icon: Home },
+    { name: 'Tìm Sangha', href: '/tim-sangha', icon: MapPin },
     { name: 'Thiền Định', href: '/thien-dinh', icon: Timer },
-    { name: 'Kinh Tạng', href: '/kinh-tang', icon: BookOpen },
-    { name: 'Chương Trình 90 Ngày', href: '/chuong-trinh', icon: Trophy },
     { name: 'Cộng Đồng', href: '/cong-dong', icon: Users },
+    { name: 'Quy Tắc', href: '/quy-tac', icon: Shield },
   ]
 
   const isActive = (path: string) => {
