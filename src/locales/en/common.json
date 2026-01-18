@@ -30,14 +30,70 @@
     "error": "An error occurred. Please try again."
   },
   "dashboard": {
+    "title": "Mindful Every Day",
+    "subtitle": "Stream Entry Community • Technology for Humanity",
     "welcome": "Welcome back",
-    "checkIn": "Check-in today",
-    "checkedIn": "Checked in",
+    "checkIn": "Practice Check-in",
+    "checkedIn": "Checked in Today!",
+    "checkInNow": "Check-in Now",
+    "checkInSuccess": "Check-in successful!",
+    "alreadyCheckedIn": "Already checked in today",
+    "practiceRecord": "Record today's practice session",
+    "practiceTime": "minutes of practice",
+    "streakDays": "{count} day streak",
     "stats": {
-      "meditations": "Meditations",
-      "minutes": "Minutes",
-      "streak": "Day streak",
-      "precepts": "Precept days"
+      "checkIns": "Check-ins",
+      "totalTime": "Total Time",
+      "currentStreak": "Current Streak",
+      "badges": "Badges",
+      "minutes": "minutes",
+      "days": "days",
+      "earned": "earned",
+      "points": "points"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "findSangha": "Find Sangha Near You",
+      "startMeditation": "Start Meditation",
+      "downloadBook": "Download NhapLuu Book (PDF)"
+    },
+    "recentCheckIns": {
+      "title": "Recent Check-ins",
+      "noCheckIns": "No check-ins yet. Check-in today!",
+      "currentStreak": "Current streak",
+      "longestStreak": "Longest streak",
+      "totalCheckIns": "Total check-ins"
+    },
+    "weeklyChart": {
+      "title": "This Week's Practice",
+      "avg": "Average",
+      "minPerDay": "min/day",
+      "minutes": "minutes",
+      "practice": "Practice",
+      "previous": "Previous days",
+      "today": "Today"
+    },
+    "heatmap": {
+      "title": "Practice Calendar (12 Weeks)",
+      "activeDays": "active days",
+      "totalMin": "total min",
+      "minutes": "minutes",
+      "less": "Less",
+      "more": "More"
+    },
+    "streamEntry": {
+      "title": "Stream Entry (Sotāpatti)",
+      "description": "The entrance to the Noble Path begins when the three fetters (self-view, doubt, attachment to rites) are abandoned through direct insight into dependent origination and the Four Noble Truths.",
+      "fourFactors": "Four preparatory factors",
+      "pillars": "Pillars of practice",
+      "signs": "Signs of attainment (AN 10.92)",
+      "signsDescription": "Unwavering faith in Buddha-Dhamma-Sangha, unbroken virtue, no longer bound for lower realms, destined for liberation within seven lives at most.",
+      "reference": "External reference:"
+    },
+    "quote": {
+      "pali": "Appamādo amatapadaṃ",
+      "translation": "Heedfulness is the path to the Deathless",
+      "source": "Dhammapada 21"
     }
   },
   "practice": {
@@ -50,11 +106,33 @@
       "guide": "Guide"
     },
     "timer": {
+      "title": "Meditation Timer",
+      "duration": "Meditation duration",
+      "min": "min",
+      "prepTime": "Preparation time",
+      "noPrep": "None",
+      "preparing": "Preparing...",
+      "skipPrep": "Skip",
       "start": "Start",
       "pause": "Pause",
       "resume": "Resume",
       "reset": "Reset",
-      "complete": "Complete"
+      "complete": "Complete & Save",
+      "bellOn": "Bell on",
+      "bellOff": "Bell off",
+      "testBell": "Test bell sound",
+      "howWasSession": "How was your session?",
+      "notes": "Notes (optional)",
+      "notesPlaceholder": "Record your experience, feelings...",
+      "instructions": "Sit upright, close your eyes, focus on your natural breath. When the mind wanders, gently bring it back to the breath.",
+      "quality": {
+        "1": "Very restless",
+        "2": "Somewhat distracted",
+        "3": "Average",
+        "4": "Fairly focused",
+        "5": "Very calm"
+      },
+      "sessionSaved": "Session saved!"
     },
     "precepts": {
       "title": "Precepts Observance",

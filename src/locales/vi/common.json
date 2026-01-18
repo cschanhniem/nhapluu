@@ -30,14 +30,70 @@
     "error": "Có lỗi xảy ra. Vui lòng thử lại."
   },
   "dashboard": {
+    "title": "Tỉnh Thức Mỗi Ngày",
+    "subtitle": "Stream Entry Community • Công nghệ vị nhân sinh",
     "welcome": "Chào mừng trở lại",
-    "checkIn": "Check-in hôm nay",
-    "checkedIn": "Đã check-in",
+    "checkIn": "Check-in Tu Tập",
+    "checkedIn": "Đã Check-in Hôm Nay!",
+    "checkInNow": "Check-in Ngay",
+    "checkInSuccess": "Check-in thành công!",
+    "alreadyCheckedIn": "Đã check-in hôm nay",
+    "practiceRecord": "Ghi nhận buổi thực hành hôm nay",
+    "practiceTime": "phút thiền tập",
+    "streakDays": "Chuỗi {count} ngày",
     "stats": {
-      "meditations": "Lần thiền",
-      "minutes": "Phút thiền",
-      "streak": "Chuỗi ngày",
-      "precepts": "Ngày giữ giới"
+      "checkIns": "Check-ins",
+      "totalTime": "Tổng thời gian",
+      "currentStreak": "Chuỗi hiện tại",
+      "badges": "Huy hiệu",
+      "minutes": "phút",
+      "days": "ngày",
+      "earned": "đạt được",
+      "points": "điểm"
+    },
+    "quickActions": {
+      "title": "Hành Động Nhanh",
+      "findSangha": "Tìm Sangha Gần Bạn",
+      "startMeditation": "Bắt đầu ngồi thiền",
+      "downloadBook": "Tải sách Nhập Lưu (PDF)"
+    },
+    "recentCheckIns": {
+      "title": "Check-in Gần Đây",
+      "noCheckIns": "Chưa có check-in nào. Hãy check-in ngay hôm nay!",
+      "currentStreak": "Chuỗi hiện tại",
+      "longestStreak": "Chuỗi dài nhất",
+      "totalCheckIns": "Tổng check-in"
+    },
+    "weeklyChart": {
+      "title": "Thực Hành Tuần Này",
+      "avg": "Trung bình",
+      "minPerDay": "phút/ngày",
+      "minutes": "phút",
+      "practice": "Thực hành",
+      "previous": "Ngày trước",
+      "today": "Hôm nay"
+    },
+    "heatmap": {
+      "title": "Lịch Thực Hành (12 Tuần)",
+      "activeDays": "ngày hoạt động",
+      "totalMin": "phút tổng",
+      "minutes": "phút",
+      "less": "Ít",
+      "more": "Nhiều"
+    },
+    "streamEntry": {
+      "title": "Nhập Dòng Giải Thoát (Sotāpatti)",
+      "description": "Cửa vào Thánh đạo bắt đầu khi ba kiết sử (thân kiến, nghi, giới cấm thủ) được đoạn trừ nhờ chánh kiến trực chứng duyên khởi và Tứ Thánh Đế.",
+      "fourFactors": "Bốn yếu tố chuẩn bị",
+      "pillars": "Các trụ cột tu tập",
+      "signs": "Dấu hiệu thành tựu (AN 10.92)",
+      "signsDescription": "Niềm tin bất động nơi Phật–Pháp–Tăng, giới không đứt đoạn, không còn rơi ác thú, hướng chắc chắn đến giải thoát trong tối đa bảy đời.",
+      "reference": "Tham khảo tổng hợp khái luận bên ngoài:"
+    },
+    "quote": {
+      "pali": "Appamādo amatapadaṃ",
+      "translation": "Không phóng dật là con đường đến bất tử",
+      "source": "Pháp Cú 21"
     }
   },
   "practice": {
@@ -50,11 +106,33 @@
       "guide": "Hướng Dẫn"
     },
     "timer": {
+      "title": "Đồng Hồ Thiền",
+      "duration": "Thời gian thiền",
+      "min": "phút",
+      "prepTime": "Thời gian chuẩn bị",
+      "noPrep": "Không",
+      "preparing": "Đang chuẩn bị...",
+      "skipPrep": "Bỏ qua",
       "start": "Bắt Đầu",
       "pause": "Tạm Dừng",
       "resume": "Tiếp Tục",
       "reset": "Đặt Lại",
-      "complete": "Hoàn Thành"
+      "complete": "Hoàn Thành & Lưu",
+      "bellOn": "Chuông bật",
+      "bellOff": "Chuông tắt",
+      "testBell": "Thử tiếng chuông",
+      "howWasSession": "Buổi thiền hôm nay thế nào?",
+      "notes": "Ghi chú (tuỳ chọn)",
+      "notesPlaceholder": "Ghi lại trải nghiệm, cảm nhận...",
+      "instructions": "Ngồi thẳng lưng, nhắm mắt, tập trung vào hơi thở tự nhiên. Khi tâm tán loạn, nhẹ nhàng đưa về hơi thở.",
+      "quality": {
+        "1": "Rất xao động",
+        "2": "Hơi tán loạn",
+        "3": "Bình thường",
+        "4": "Khá tập trung",
+        "5": "Rất an định"
+      },
+      "sessionSaved": "Đã lưu buổi thiền!"
     },
     "precepts": {
       "title": "Ghi Nhận Giữ Giới",

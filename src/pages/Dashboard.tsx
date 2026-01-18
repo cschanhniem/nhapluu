@@ -1,13 +1,17 @@
 import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { useAppState } from '@/hooks/useAppState'
 import { useCheckIn } from '@/hooks/useCheckIn'
 import { Button } from '@/components/ui/button'
 import { Link } from 'react-router-dom'
 import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download } from 'lucide-react'
+import { WeeklyChart } from '@/components/charts/WeeklyChart'
+import { HeatmapCalendar } from '@/components/charts/HeatmapCalendar'
 
 export function Dashboard() {
-  const { getStats } = useAppState()
-  const { points, doCheckIn, hasCheckedInToday, getTodayCheckIn } = useCheckIn()
+  const { t } = useTranslation()
+  const { state, getStats } = useAppState()
+  const { points, checkIns, doCheckIn, hasCheckedInToday, getTodayCheckIn } = useCheckIn()
   const stats = getStats()
   const [checkInMessage, setCheckInMessage] = useState<string | null>(null)
 
@@ -17,10 +21,10 @@ export function Dashboard() {
   const handleCheckIn = () => {
     const result = doCheckIn(null, 30) // Solo check-in for 30 mins
     if (result.success) {
-      setCheckInMessage(result.message || 'Check-in thành công!')
+      setCheckInMessage(result.message || t('dashboard.checkInSuccess'))
       setTimeout(() => setCheckInMessage(null), 3000)
     } else {
-      setCheckInMessage(result.message || 'Đã check-in hôm nay')
+      setCheckInMessage(result.message || t('dashboard.alreadyCheckedIn'))
     }
   }
 
@@ -29,10 +33,10 @@ export function Dashboard() {
       {/* Welcome Section */}
       <div className="mb-8">
         <h1 className="text-4xl font-bold text-foreground mb-2">
-          Tỉnh Thức Mỗi Ngày
+          {t('dashboard.title')}
         </h1>
         <p className="text-muted-foreground">
-          Stream Entry Community • Công nghệ vị nhân sinh
+          {t('dashboard.subtitle')}
         </p>
       </div>
 
@@ -53,12 +57,12 @@ export function Dashboard() {
             </div>
             <div>
               <h2 className="text-2xl font-bold text-foreground">
-                {checkedInToday ? 'Đã Check-in Hôm Nay!' : 'Check-in Tu Tập'}
+                {checkedInToday ? t('dashboard.checkedIn') : t('dashboard.checkIn')}
               </h2>
               <p className="text-muted-foreground">
                 {checkedInToday
-                  ? `${todayCheckIn?.duration || 30} phút thiền tập • Chuỗi ${points.currentStreak} ngày 🔥`
-                  : 'Ghi nhận buổi thực hành hôm nay'
+                  ? `${todayCheckIn?.duration || 30} ${t('dashboard.practiceTime')} • ${t('dashboard.streakDays', { count: points.currentStreak })} 🔥`
+                  : t('dashboard.practiceRecord')
                 }
               </p>
             </div>
@@ -71,13 +75,13 @@ export function Dashboard() {
                 <Zap className="h-4 w-4" />
                 <span className="text-2xl font-bold">{points.totalPoints}</span>
               </div>
-              <span className="text-xs text-muted-foreground">điểm</span>
+              <span className="text-xs text-muted-foreground">{t('dashboard.stats.points')}</span>
             </div>
 
             {!checkedInToday && (
               <Button size="lg" onClick={handleCheckIn} className="gap-2">
                 <CheckCircle2 className="h-5 w-5" />
-                Check-in Ngay
+                {t('dashboard.checkInNow')}
               </Button>
             )}
           </div>
@@ -94,7 +98,7 @@ export function Dashboard() {
       <div className="grid md:grid-cols-4 gap-4 mb-8">
         <div className="bg-card rounded-lg border border-border p-6">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-sm text-muted-foreground">Check-ins</span>
+            <span className="text-sm text-muted-foreground">{t('dashboard.stats.checkIns')}</span>
             <Timer className="h-4 w-4 text-primary" />
           </div>
           <div className="text-3xl font-bold text-foreground">{points.checkIns}</div>
@@ -102,54 +106,60 @@ export function Dashboard() {
 
         <div className="bg-card rounded-lg border border-border p-6">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-sm text-muted-foreground">Tổng thời gian</span>
+            <span className="text-sm text-muted-foreground">{t('dashboard.stats.totalTime')}</span>
             <Clock className="h-4 w-4 text-primary" />
           </div>
           <div className="text-3xl font-bold text-foreground">{stats.totalMinutes}</div>
-          <div className="text-xs text-muted-foreground mt-1">phút</div>
+          <div className="text-xs text-muted-foreground mt-1">{t('dashboard.stats.minutes')}</div>
         </div>
 
         <div className="bg-card rounded-lg border border-border p-6">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-sm text-muted-foreground">Chuỗi hiện tại</span>
+            <span className="text-sm text-muted-foreground">{t('dashboard.stats.currentStreak')}</span>
             <Flame className="h-4 w-4 text-destructive" />
           </div>
           <div className="text-3xl font-bold text-foreground">{points.currentStreak}</div>
-          <div className="text-xs text-muted-foreground mt-1">ngày</div>
+          <div className="text-xs text-muted-foreground mt-1">{t('dashboard.stats.days')}</div>
         </div>
 
         <div className="bg-card rounded-lg border border-border p-6">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-sm text-muted-foreground">Huy hiệu</span>
+            <span className="text-sm text-muted-foreground">{t('dashboard.stats.badges')}</span>
             <Award className="h-4 w-4 text-primary" />
           </div>
           <div className="text-3xl font-bold text-foreground">{points.badges.length}</div>
-          <div className="text-xs text-muted-foreground mt-1">đạt được</div>
+          <div className="text-xs text-muted-foreground mt-1">{t('dashboard.stats.earned')}</div>
         </div>
+      </div>
+
+      {/* Charts Section */}
+      <div className="grid md:grid-cols-2 gap-6 mb-8">
+        <WeeklyChart sessions={state.meditationSessions} checkIns={checkIns} />
+        <HeatmapCalendar sessions={state.meditationSessions} checkIns={checkIns} />
       </div>
 
       {/* Main Content Grid */}
       <div className="grid md:grid-cols-2 gap-6">
         {/* Quick Actions */}
         <div className="bg-card rounded-lg border border-border p-6">
-          <h2 className="text-xl font-semibold text-foreground mb-4">Hành Động Nhanh</h2>
+          <h2 className="text-xl font-semibold text-foreground mb-4">{t('dashboard.quickActions.title')}</h2>
           <div className="space-y-3">
             <Link to="/tim-sangha">
               <Button className="w-full justify-start bg-primary text-primary-foreground" size="lg">
                 <MapPin className="mr-2 h-5 w-5" />
-                Tìm Sangha Gần Bạn
+                {t('dashboard.quickActions.findSangha')}
               </Button>
             </Link>
             <Link to="/thien-dinh">
               <Button className="w-full justify-start" variant="outline">
                 <Timer className="mr-2 h-4 w-4" />
-                Bắt đầu ngồi thiền
+                {t('dashboard.quickActions.startMeditation')}
               </Button>
             </Link>
             <a href="/nhapluu-book.pdf" download="con-duong-nhap-luu.pdf">
               <Button className="w-full justify-start" variant="outline">
                 <Download className="mr-2 h-4 w-4" />
-                Tải sách Nhập Lưu (PDF)
+                {t('dashboard.quickActions.downloadBook')}
               </Button>
             </a>
           </div>
@@ -157,33 +167,33 @@ export function Dashboard() {
 
         {/* Recent Check-ins */}
         <div className="bg-card rounded-lg border border-border p-6">
-          <h2 className="text-xl font-semibold text-foreground mb-4">Check-in Gần Đây</h2>
+          <h2 className="text-xl font-semibold text-foreground mb-4">{t('dashboard.recentCheckIns.title')}</h2>
           {points.checkIns === 0 ? (
             <p className="text-muted-foreground text-sm">
-              Chưa có check-in nào. Hãy check-in ngay hôm nay!
+              {t('dashboard.recentCheckIns.noCheckIns')}
             </p>
           ) : (
             <div className="space-y-3">
               <div className="flex items-center justify-between py-2 border-b border-border">
                 <div className="flex items-center gap-2">
                   <Flame className="h-4 w-4 text-destructive" />
-                  <span className="text-sm font-medium text-foreground">Chuỗi hiện tại</span>
+                  <span className="text-sm font-medium text-foreground">{t('dashboard.recentCheckIns.currentStreak')}</span>
                 </div>
-                <span className="text-sm font-bold text-primary">{points.currentStreak} ngày</span>
+                <span className="text-sm font-bold text-primary">{points.currentStreak} {t('dashboard.stats.days')}</span>
               </div>
               <div className="flex items-center justify-between py-2 border-b border-border">
                 <div className="flex items-center gap-2">
                   <Award className="h-4 w-4 text-primary" />
-                  <span className="text-sm font-medium text-foreground">Chuỗi dài nhất</span>
+                  <span className="text-sm font-medium text-foreground">{t('dashboard.recentCheckIns.longestStreak')}</span>
                 </div>
-                <span className="text-sm font-bold text-primary">{points.longestStreak} ngày</span>
+                <span className="text-sm font-bold text-primary">{points.longestStreak} {t('dashboard.stats.days')}</span>
               </div>
               <div className="flex items-center justify-between py-2">
                 <div className="flex items-center gap-2">
                   <Zap className="h-4 w-4 text-yellow-500" />
-                  <span className="text-sm font-medium text-foreground">Tổng check-in</span>
+                  <span className="text-sm font-medium text-foreground">{t('dashboard.recentCheckIns.totalCheckIns')}</span>
                 </div>
-                <span className="text-sm font-bold text-primary">{points.checkIns} buổi</span>
+                <span className="text-sm font-bold text-primary">{points.checkIns}</span>
               </div>
             </div>
           )}
@@ -193,17 +203,16 @@ export function Dashboard() {
       {/* Stream-entry Summary (Nhập Dòng Giải Thoát) */}
       <div className="mt-12 bg-card rounded-lg border border-border p-6">
         <h2 className="text-xl font-semibold text-foreground mb-3">
-          Nhập Dòng Giải Thoát (Sotāpatti)
+          {t('dashboard.streamEntry.title')}
         </h2>
         <p className="text-sm text-muted-foreground mb-4 leading-relaxed">
-          Cửa vào Thánh đạo bắt đầu khi ba kiết sử (thân kiến, nghi, giới cấm thủ) được đoạn trừ nhờ
-          chánh kiến trực chứng duyên khởi và Tứ Thánh Đế. Dòng chảy: Thiện hữu + Nghe Pháp →
+          {t('dashboard.streamEntry.description')} Dòng chảy: Thiện hữu + Nghe Pháp →
           Như lý tác ý → Giới thanh tịnh → Hộ trì căn → Chánh niệm tỉnh giác → Đoạn triền cái →
           Định → Tuệ quán vô thường-khổ-vô ngã → Pháp nhãn khai mở.
         </p>
         <div className="grid md:grid-cols-2 gap-4 mb-4">
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-foreground">Bốn yếu tố chuẩn bị</h3>
+            <h3 className="text-sm font-medium text-foreground">{t('dashboard.streamEntry.fourFactors')}</h3>
             <ul className="text-xs text-muted-foreground list-disc pl-5 space-y-1">
               <li>Thiện hữu (SN 55.1)</li>
               <li>Nghe Diệu Pháp (MN 95, MN 47)</li>
@@ -212,7 +221,7 @@ export function Dashboard() {
             </ul>
           </div>
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-foreground">Các trụ cột tu tập</h3>
+            <h3 className="text-sm font-medium text-foreground">{t('dashboard.streamEntry.pillars')}</h3>
             <ul className="text-xs text-muted-foreground list-disc pl-5 space-y-1">
               <li>Năm căn → năm lực (SN 48.10)</li>
               <li>Bảy giác chi quân bình (SN 46.14, MN 118)</li>
@@ -222,13 +231,13 @@ export function Dashboard() {
           </div>
         </div>
         <div className="space-y-2 mb-4">
-          <h3 className="text-sm font-medium text-foreground">Dấu hiệu thành tựu (AN 10.92)</h3>
+          <h3 className="text-sm font-medium text-foreground">{t('dashboard.streamEntry.signs')}</h3>
           <p className="text-xs text-muted-foreground">
-            Niềm tin bất động nơi Phật–Pháp–Tăng, giới không đứt đoạn, không còn rơi ác thú, hướng chắc chắn đến giải thoát trong tối đa bảy đời.
+            {t('dashboard.streamEntry.signsDescription')}
           </p>
         </div>
         <p className="text-xs text-muted-foreground">
-          Tham khảo tổng hợp khái luận bên ngoài:{" "}
+          {t('dashboard.streamEntry.reference')}{" "}
           <a
             href="https://budsas.net/dlpp/bai203/index.htm"
             target="_blank"
@@ -244,13 +253,13 @@ export function Dashboard() {
       {/* Daily Quote */}
       <div className="mt-8 bg-muted rounded-lg p-6 text-center">
         <blockquote className="text-lg italic text-foreground font-serif mb-2">
-          "Appamādo amatapadaṃ"
+          "{t('dashboard.quote.pali')}"
         </blockquote>
         <p className="text-muted-foreground text-sm">
-          Không phóng dật là con đường đến bất tử
+          {t('dashboard.quote.translation')}
         </p>
         <p className="text-xs text-muted-foreground mt-1">
-          — Pháp Cú 21
+          — {t('dashboard.quote.source')}
         </p>
       </div>
     </div>
