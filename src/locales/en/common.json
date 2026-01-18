@@ -189,7 +189,21 @@
       "beginner": "Beginner",
       "intermediate": "Intermediate",
       "advanced": "Advanced"
-    }
+    },
+    "notFound": "Sutta not found",
+    "backToLibrary": "Back to Library",
+    "backToTop": "Back to top",
+    "addBookmark": "Bookmark",
+    "removeBookmark": "Remove bookmark",
+    "fontSize": "Font size",
+    "fontSizes": {
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large"
+    },
+    "singleView": "Single",
+    "parallelView": "Parallel",
+    "progress": "Progress"
   },
   "theme": {
     "light": "Light mode",
