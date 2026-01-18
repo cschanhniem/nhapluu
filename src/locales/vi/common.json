@@ -1,0 +1,92 @@
+{
+  "app": {
+    "name": "NhapLuu",
+    "tagline": "Công nghệ vị nhân sinh - Tỉnh thức giữa đời thường",
+    "community": "Cộng đồng Nhập Lưu • Stream Entry Community"
+  },
+  "nav": {
+    "home": "Trang Chủ",
+    "program": "Chương Trình",
+    "practice": "Thiền Định",
+    "library": "Kinh Tạng",
+    "findSangha": "Tìm Sangha",
+    "community": "Cộng Đồng",
+    "rules": "Quy Tắc"
+  },
+  "auth": {
+    "login": "Đăng Nhập",
+    "register": "Đăng Ký",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "processing": "Đang xử lý...",
+    "noAccount": "Chưa có tài khoản? Đăng ký ngay",
+    "hasAccount": "Đã có tài khoản? Đăng nhập",
+    "enterEmail": "Nhập email và mật khẩu để đăng nhập",
+    "createAccount": "Tạo tài khoản mới để bắt đầu hành trình tu tập",
+    "minPassword": "Tối thiểu 6 ký tự",
+    "invalidEmail": "Vui lòng nhập email hợp lệ",
+    "shortPassword": "Mật khẩu phải có ít nhất 6 ký tự",
+    "error": "Có lỗi xảy ra. Vui lòng thử lại."
+  },
+  "dashboard": {
+    "welcome": "Chào mừng trở lại",
+    "checkIn": "Check-in hôm nay",
+    "checkedIn": "Đã check-in",
+    "stats": {
+      "meditations": "Lần thiền",
+      "minutes": "Phút thiền",
+      "streak": "Chuỗi ngày",
+      "precepts": "Ngày giữ giới"
+    }
+  },
+  "practice": {
+    "title": "Thiền Định & Giữ Giới",
+    "subtitle": "Giới - Định - Tuệ: Ba trụ cột của con đường giải thoát",
+    "tabs": {
+      "timer": "Đồng Hồ Thiền",
+      "log": "Ghi Nhận",
+      "precepts": "Giữ Giới",
+      "guide": "Hướng Dẫn"
+    },
+    "timer": {
+      "start": "Bắt Đầu",
+      "pause": "Tạm Dừng",
+      "resume": "Tiếp Tục",
+      "reset": "Đặt Lại",
+      "complete": "Hoàn Thành"
+    },
+    "precepts": {
+      "title": "Ghi Nhận Giữ Giới",
+      "five": "5 Giới (Hằng Ngày)",
+      "eight": "8 Giới (Ngày Bố Tát)",
+      "save": "Lưu Ghi Nhận Giữ Giới",
+      "saved": "Đã lưu ghi nhận giữ giới!",
+      "history": "Lịch Sử Gần Đây",
+      "noRecords": "Chưa có ghi nhận nào."
+    }
+  },
+  "library": {
+    "title": "Kinh Tạng",
+    "subtitle": "Kho tàng Pháp Bảo - Sutta Piṭaka",
+    "search": "Tìm kiếm kinh...",
+    "filters": {
+      "all": "Tất Cả",
+      "beginner": "Sơ Cơ",
+      "intermediate": "Trung Cấp",
+      "advanced": "Nâng Cao"
+    }
+  },
+  "theme": {
+    "light": "Chế độ sáng",
+    "dark": "Chế độ tối",
+    "system": "Theo hệ thống"
+  },
+  "sync": {
+    "syncing": "Đang đồng bộ...",
+    "synced": "Đã đồng bộ"
+  },
+  "loading": "Đang tải...",
+  "error": "Có lỗi xảy ra",
+  "success": "Thành công"
+}

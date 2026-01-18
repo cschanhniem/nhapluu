@@ -1,0 +1,92 @@
+{
+  "app": {
+    "name": "NhapLuu",
+    "tagline": "Technology for Humanity - Mindfulness in Daily Life",
+    "community": "NhapLuu Community • Stream Entry Community"
+  },
+  "nav": {
+    "home": "Home",
+    "program": "Program",
+    "practice": "Practice",
+    "library": "Library",
+    "findSangha": "Find Sangha",
+    "community": "Community",
+    "rules": "Guidelines"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "processing": "Processing...",
+    "noAccount": "Don't have an account? Register now",
+    "hasAccount": "Already have an account? Login",
+    "enterEmail": "Enter your email and password to login",
+    "createAccount": "Create an account to start your practice journey",
+    "minPassword": "Minimum 6 characters",
+    "invalidEmail": "Please enter a valid email",
+    "shortPassword": "Password must be at least 6 characters",
+    "error": "An error occurred. Please try again."
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "checkIn": "Check-in today",
+    "checkedIn": "Checked in",
+    "stats": {
+      "meditations": "Meditations",
+      "minutes": "Minutes",
+      "streak": "Day streak",
+      "precepts": "Precept days"
+    }
+  },
+  "practice": {
+    "title": "Meditation & Precepts",
+    "subtitle": "Sīla - Samādhi - Paññā: Three pillars of the path to liberation",
+    "tabs": {
+      "timer": "Meditation Timer",
+      "log": "Log",
+      "precepts": "Precepts",
+      "guide": "Guide"
+    },
+    "timer": {
+      "start": "Start",
+      "pause": "Pause",
+      "resume": "Resume",
+      "reset": "Reset",
+      "complete": "Complete"
+    },
+    "precepts": {
+      "title": "Precepts Observance",
+      "five": "5 Precepts (Daily)",
+      "eight": "8 Precepts (Uposatha)",
+      "save": "Save Precepts Record",
+      "saved": "Precepts record saved!",
+      "history": "Recent History",
+      "noRecords": "No records yet."
+    }
+  },
+  "library": {
+    "title": "Sutta Library",
+    "subtitle": "Treasury of Dhamma - Sutta Piṭaka",
+    "search": "Search suttas...",
+    "filters": {
+      "all": "All",
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    }
+  },
+  "theme": {
+    "light": "Light mode",
+    "dark": "Dark mode",
+    "system": "System"
+  },
+  "sync": {
+    "syncing": "Syncing...",
+    "synced": "Synced"
+  },
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "success": "Success"
+}

@@ -1,5 +1,6 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Home, Timer, Users, LogOut, Cloud, MapPin, Shield, LogIn, Trophy, Sun, Moon } from 'lucide-react'
+import { useTranslation } from 'react-i18next'
+import { Home, Timer, Users, LogOut, Cloud, MapPin, Shield, LogIn, Trophy, Sun, Moon, Languages } from 'lucide-react'
 import { useAuth } from '@/contexts/AuthContext'
 import { useTheme } from '@/contexts/ThemeContext'
 import { useAppState } from '@/hooks/useAppState'
@@ -7,17 +8,23 @@ import { Button } from '@/components/ui/button'
 
 export function Header() {
   const location = useLocation()
+  const { t, i18n } = useTranslation()
   const { user, logout, isAuthenticated } = useAuth()
   const { isDark, setTheme } = useTheme()
   const { isSyncing } = useAppState()
 
+  const toggleLanguage = () => {
+    const newLang = i18n.language === 'vi' ? 'en' : 'vi'
+    i18n.changeLanguage(newLang)
+  }
+
   const navigation = [
-    { name: 'Trang Chủ', href: '/', icon: Home },
-    { name: 'Chương Trình', href: '/chuong-trinh', icon: Trophy },
-    { name: 'Thiền Định', href: '/thien-dinh', icon: Timer },
-    { name: 'Tìm Sangha', href: '/tim-sangha', icon: MapPin },
-    { name: 'Cộng Đồng', href: '/cong-dong', icon: Users },
-    { name: 'Quy Tắc', href: '/quy-tac', icon: Shield },
+    { name: t('nav.home'), href: '/', icon: Home },
+    { name: t('nav.program'), href: '/chuong-trinh', icon: Trophy },
+    { name: t('nav.practice'), href: '/thien-dinh', icon: Timer },
+    { name: t('nav.findSangha'), href: '/tim-sangha', icon: MapPin },
+    { name: t('nav.community'), href: '/cong-dong', icon: Users },
+    { name: t('nav.rules'), href: '/quy-tac', icon: Shield },
   ]
 
   const isActive = (path: string) => {
@@ -62,13 +69,25 @@ export function Header() {
 
             {/* Theme Toggle & User Menu */}
             <div className="flex items-center space-x-2 border-l border-border pl-4">
+              {/* Language Toggle */}
+              <Button
+                variant="ghost"
+                size="icon-sm"
+                onClick={toggleLanguage}
+                className="text-muted-foreground hover:text-foreground"
+                aria-label={i18n.language === 'vi' ? 'Switch to English' : 'Chuyển sang Tiếng Việt'}
+                title={i18n.language === 'vi' ? 'EN' : 'VI'}
+              >
+                <Languages className="h-4 w-4" />
+              </Button>
+
               {/* Theme Toggle */}
               <Button
                 variant="ghost"
                 size="icon-sm"
                 onClick={() => setTheme(isDark ? 'light' : 'dark')}
                 className="text-muted-foreground hover:text-foreground"
-                aria-label={isDark ? 'Chuyển sang chế độ sáng' : 'Chuyển sang chế độ tối'}
+                aria-label={isDark ? t('theme.light') : t('theme.dark')}
               >
                 {isDark ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
               </Button>
@@ -76,7 +95,7 @@ export function Header() {
               {isAuthenticated ? (
                 <>
                   {/* Sync Indicator */}
-                  <div className="relative" title={isSyncing ? "Đang đồng bộ..." : "Đã đồng bộ"}>
+                  <div className="relative" title={isSyncing ? t('sync.syncing') : t('sync.synced')}>
                     {isSyncing ? (
                       <Cloud className="h-4 w-4 text-primary animate-pulse" />
                     ) : (
@@ -94,14 +113,14 @@ export function Header() {
                     className="text-muted-foreground hover:text-foreground"
                   >
                     <LogOut className="h-4 w-4" />
-                    <span className="hidden sm:inline ml-2">Đăng xuất</span>
+                    <span className="hidden sm:inline ml-2">{t('auth.logout')}</span>
                   </Button>
                 </>
               ) : (
                 <Link to="/auth">
                   <Button variant="ghost" size="sm" className="text-foreground">
                     <LogIn className="h-4 w-4 mr-2" />
-                    Đăng nhập
+                    {t('auth.login')}
                   </Button>
                 </Link>
               )}
