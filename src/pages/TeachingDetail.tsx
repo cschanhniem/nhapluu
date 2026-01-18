@@ -114,10 +114,9 @@ export function TeachingDetail() {
                                     <li key={chapter.id}>
                                         <a
                                             href={`#${chapter.id}`}
-                                            className="text-primary hover:underline text-sm flex items-start gap-2"
+                                            className="text-primary hover:underline text-sm"
                                         >
-                                            <span className="text-muted-foreground min-w-[1.5rem]">{chapter.order}.</span>
-                                            <span>{chapter.title}</span>
+                                            {chapter.title}
                                         </a>
                                     </li>
                                 ))}
