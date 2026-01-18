@@ -55,6 +55,7 @@
       "title": "Quick Actions",
       "findSangha": "Find Sangha Near You",
       "startMeditation": "Start Meditation",
+      "insightJournal": "Insight Journal",
       "downloadBook": "Download NhapLuu Book (PDF)"
     },
     "recentCheckIns": {
@@ -182,6 +183,43 @@
         "description": "A technique to balance the nervous system, helping the body relax deeply while the mind stays sharp. An important preparation for meditation.",
         "start": "Start practice"
       }
+    }
+  },
+  "journal": {
+    "title": "Insight Journal",
+    "subtitle": "Record your insights, understanding and contemplations during practice",
+    "searchPlaceholder": "Search entries...",
+    "addEntry": "Add New Entry",
+    "newEntry": "New Entry",
+    "contemplations": {
+      "all": "All",
+      "general": "General",
+      "anicca": "Impermanence",
+      "dukkha": "Suffering",
+      "anatta": "Non-self"
+    },
+    "form": {
+      "title": "Title (optional)",
+      "titlePlaceholder": "Enter title...",
+      "contemplation": "Contemplation type",
+      "content": "Content",
+      "contentPlaceholder": "Record your insights and contemplations...",
+      "tags": "Tags (comma separated)",
+      "tagsPlaceholder": "meditation, impermanence, mindfulness...",
+      "save": "Save Entry"
+    },
+    "empty": {
+      "title": "No entries yet",
+      "description": "Start recording your insights and contemplations during your practice journey."
+    },
+    "noResults": "No matching entries found",
+    "tryDifferentSearch": "Try a different search term",
+    "confirmDelete": "Are you sure you want to delete this entry?",
+    "delete": "Delete",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "stats": {
+      "totalEntries": "Total entries"
     }
   },
   "bookmarks": {

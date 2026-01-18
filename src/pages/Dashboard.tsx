@@ -4,7 +4,7 @@ import { useAppState } from '@/hooks/useAppState'
 import { useCheckIn } from '@/hooks/useCheckIn'
 import { Button } from '@/components/ui/button'
 import { Link } from 'react-router-dom'
-import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download, BookOpen, ArrowRight } from 'lucide-react'
+import { Timer, MapPin, Flame, Clock, Zap, Award, CheckCircle2, Sparkles, Download, BookOpen, ArrowRight, BookText } from 'lucide-react'
 import { WeeklyChart } from '@/components/charts/WeeklyChart'
 import { HeatmapCalendar } from '@/components/charts/HeatmapCalendar'
 import { suttas } from '@/data/suttas/index'
@@ -250,6 +250,12 @@ export function Dashboard() {
               <Button className="w-full justify-start" variant="outline">
                 <Timer className="mr-2 h-4 w-4" />
                 {t('dashboard.quickActions.startMeditation')}
+              </Button>
+            </Link>
+            <Link to="/nhat-ky">
+              <Button className="w-full justify-start" variant="outline">
+                <BookText className="mr-2 h-4 w-4" />
+                {t('dashboard.quickActions.insightJournal')}
               </Button>
             </Link>
             <a href="/nhapluu-book.pdf" download="con-duong-nhap-luu.pdf">

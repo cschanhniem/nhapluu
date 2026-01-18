@@ -55,6 +55,7 @@
       "title": "Hành Động Nhanh",
       "findSangha": "Tìm Sangha Gần Bạn",
       "startMeditation": "Bắt đầu ngồi thiền",
+      "insightJournal": "Nhật Ký Tuệ Giác",
       "downloadBook": "Tải sách Nhập Lưu (PDF)"
     },
     "recentCheckIns": {
@@ -182,6 +183,43 @@
         "description": "Wakeful Relaxation - Kỹ thuật cân bằng hệ thần kinh, giúp cơ thể thư giãn sâu nhưng tâm trí vẫn sắc bén. Bước chuẩn bị quan trọng cho Thiền Định.",
         "start": "Bắt đầu tập"
       }
+    }
+  },
+  "journal": {
+    "title": "Nhật Ký Tuệ Giác",
+    "subtitle": "Ghi lại những tuệ giác, hiểu biết và chiêm nghiệm trong quá trình tu tập",
+    "searchPlaceholder": "Tìm kiếm ghi chép...",
+    "addEntry": "Thêm Ghi Chép Mới",
+    "newEntry": "Ghi Chép Mới",
+    "contemplations": {
+      "all": "Tất cả",
+      "general": "Tổng quát",
+      "anicca": "Vô thường",
+      "dukkha": "Khổ",
+      "anatta": "Vô ngã"
+    },
+    "form": {
+      "title": "Tiêu đề (tuỳ chọn)",
+      "titlePlaceholder": "Nhập tiêu đề...",
+      "contemplation": "Loại chiêm nghiệm",
+      "content": "Nội dung",
+      "contentPlaceholder": "Ghi lại tuệ giác, chiêm nghiệm của bạn...",
+      "tags": "Thẻ (phân cách bằng dấu phẩy)",
+      "tagsPlaceholder": "thiền định, vô thường, tỉnh thức...",
+      "save": "Lưu Ghi Chép"
+    },
+    "empty": {
+      "title": "Chưa có ghi chép nào",
+      "description": "Hãy bắt đầu ghi lại những tuệ giác và chiêm nghiệm trong quá trình tu tập của bạn."
+    },
+    "noResults": "Không tìm thấy ghi chép phù hợp",
+    "tryDifferentSearch": "Thử tìm kiếm với từ khoá khác",
+    "confirmDelete": "Bạn có chắc muốn xoá ghi chép này?",
+    "delete": "Xoá",
+    "showMore": "Xem thêm",
+    "showLess": "Thu gọn",
+    "stats": {
+      "totalEntries": "Tổng ghi chép"
     }
   },
   "bookmarks": {

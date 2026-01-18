@@ -22,6 +22,7 @@ const CodeOfConduct = lazy(() => import('@/pages/CodeOfConduct').then(m => ({ de
 const Onboarding = lazy(() => import('@/pages/Onboarding').then(m => ({ default: m.Onboarding })))
 const WakefulRelaxation = lazy(() => import('@/pages/WakefulRelaxation').then(m => ({ default: m.WakefulRelaxation })))
 const Bookmarks = lazy(() => import('@/pages/Bookmarks').then(m => ({ default: m.Bookmarks })))
+const InsightJournal = lazy(() => import('@/pages/InsightJournal').then(m => ({ default: m.InsightJournal })))
 const Auth = lazy(() => import('@/pages/Auth'))
 
 // Loading fallback component with skeleton
@@ -135,6 +136,14 @@ function App() {
                               element={
                                 <ProtectedRoute>
                                   <Bookmarks />
+                                </ProtectedRoute>
+                              }
+                            />
+                            <Route
+                              path="/nhat-ky"
+                              element={
+                                <ProtectedRoute>
+                                  <InsightJournal />
                                 </ProtectedRoute>
                               }
                             />
