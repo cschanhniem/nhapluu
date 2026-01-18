@@ -3,7 +3,7 @@ import type { TeachingChapter } from './index'
 const chapter: TeachingChapter = {
     id: 'diet-tue',
     order: 9,
-    title: 'VI. Diệt Tuệ',
+    title: '5. Diệt Tuệ',
     titlePali: 'Bhaṅga-ñāṇa',
     content: `
 ## VI. Đạo Tri Kiến Tịnh (Paṭipadā-ñāṇadassana-visuddhi)

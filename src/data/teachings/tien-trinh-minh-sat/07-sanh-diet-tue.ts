@@ -3,7 +3,7 @@ import type { TeachingChapter } from './index'
 const chapter: TeachingChapter = {
     id: 'sanh-diet-tue',
     order: 7,
-    title: 'IV. Sanh Diệt Tuệ',
+    title: '4. Sanh Diệt Tuệ',
     titlePali: 'Udayabbaya-ñāṇa',
     content: `
 ## 4. Sanh Diệt Tuệ (Udayabbaya-ñāṇa)

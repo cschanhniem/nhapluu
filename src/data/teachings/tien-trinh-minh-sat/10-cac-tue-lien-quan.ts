@@ -3,7 +3,7 @@ import type { TeachingChapter } from './index'
 const chapter: TeachingChapter = {
     id: 'cac-tue-lien-quan',
     order: 10,
-    title: 'VI. Các Tuệ Liên Quan',
+    title: '6-10. Các Tuệ Liên Quan',
     titlePali: 'Bhaya-Ādīnava-Nibbidā-Muñcitukamyatā-Paṭisaṅkhā-ñāṇa',
     content: `
 ## 6. Sợ Hãi Tuệ (Bhayatupaṭṭhāna-ñāṇa)

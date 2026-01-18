@@ -3,7 +3,7 @@ import type { TeachingChapter } from './index'
 const chapter: TeachingChapter = {
     id: 'hanh-xa-tue',
     order: 11,
-    title: 'VI. Hành Xả Tuệ',
+    title: '11-14. Hành Xả đến Chuyển Tộc Tuệ',
     titlePali: 'Saṅkhārupekkhā-ñāṇa',
     content: `
 ## 11. Hành Xả Tuệ (Saṅkhārupekkhā-ñāṇa)

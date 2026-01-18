@@ -3,7 +3,7 @@ import type { TeachingChapter } from './index'
 const chapter: TeachingChapter = {
     id: 'tham-sat-tue',
     order: 6,
-    title: 'IV. Thẩm Sát Tuệ',
+    title: '3. Thẩm Sát Tuệ',
     titlePali: 'Sammasana-ñāṇa',
     content: `
 ## 3. Thẩm Sát Tuệ (Sammasana-ñāṇa)
