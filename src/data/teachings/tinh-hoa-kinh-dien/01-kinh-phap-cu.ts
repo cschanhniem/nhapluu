@@ -29,6 +29,27 @@ Kinh Pháp Cú (Dhammapada) là tuyển tập 423 câu kệ ngắn gọn, gói t
 
 **Bài học:** Hạnh phúc hay khổ đau không do Thượng đế ban phát, không do số phận ngẫu nhiên. Nó do chính cái **TÂM (Mind)** của bạn tạo tác ngay bây giờ. Thay đổi tâm là thay đổi số phận.
 
+## Kệ 178: Quả Dự Lưu Tối Thắng
+
+Đây là câu kệ quan trọng nhất cho hành giả đang đi trên con đường này. Đức Phật khẳng định giá trị tuyệt đối của đạo quả Nhập Lưu so với quyền lực thế gian.
+
+> *"Pathavyā ekarajjena*
+> *Saggassa gamanena vā*
+> *Sabbalokādhipaccena*
+> *Sotāpattiphalaṃ varaṃ."*
+
+Dịch thơ (Hòa thượng Thích Minh Châu):
+> *"Hơn thống lãnh cõi đất,*
+> *Hơn được sanh cõi trời,*
+> *Hơn chủ trì vũ trụ,*
+> *Quả Dự Lưu tối thắng."*
+
+**Tại sao?**
+*   Làm Vua cõi đất (độc tài toàn cầu) rồi cũng chết và có thể đọa địa ngục.
+*   Làm Vua trời (Đế Thích, Phạm Thiên) hưởng phước tỷ năm rồi cũng hết phước, rớt xuống làm con giun.
+*   **Quả Dự Lưu (Sotapanna):** Đã đóng vĩnh viễn cửa 4 đường ác. Chắc chắn sẽ giải thoát hoàn toàn trong tối đa 7 kiếp. Đây là sự "Bảo hiểm Vĩnh cửu".
+Đức Phật nhắc nhở: Đừng ham quyền lực, tiền tài. Hãy ham cái "địa vị" an toàn này trước đã.
+
 ## Kệ 183: Tóm Tắt Đạo Phật
 
 Nếu ai hỏi Đạo Phật là gì, hãy đọc câu này:
