@@ -36,7 +36,8 @@ export function TeachingDetail() {
         manual: 'Sổ tay thực hành',
         commentary: 'Chú giải',
         discourse: 'Pháp thoại',
-        guide: 'Hướng dẫn'
+        guide: 'Hướng dẫn',
+        foundation: 'Nền tảng'
     }
 
     return (

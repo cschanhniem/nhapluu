@@ -5,15 +5,17 @@ import baMuoiBayPham from './37-pham-tro-dao'
 import viDieuPhap from './vi-dieu-phap-ung-dung'
 import tuDieuDe from './tu-dieu-de-duyen-khoi'
 import tuVoLuong from './tu-vo-luong-tam'
+import nhanQuaLuanHoi from './nhan-qua-luan-hoi'
 
 export const teachings = [
-    tuDieuDe,        // Foundational Theory (Tứ Đế, Duyên Khởi)
-    tuVoLuong,       // Heart Dimension (Từ Bi Hỷ Xả)
-    baMuoiBayPham,   // Canonical Framework (37 Phẩm)
-    viDieuPhap,      // Applied Abhidhamma
-    conDuongMahasi,  // Practical Guide
-    huongDanNhapThat,// Retreat Guide
-    tienTrinhMinhSat,// Detailed 16 Nanas (Mahasi Classic)
+    nhanQuaLuanHoi,   // Foundation (The Why - Mundane Right View)
+    tuDieuDe,         // Foundation (The What - Four Noble Truths)
+    tuVoLuong,        // Heart (Metta/Karuna)
+    baMuoiBayPham,    // Analysis (37 Factors)
+    viDieuPhap,       // Deep Dive (Abhidhamma)
+    tienTrinhMinhSat, // Classic Map (16 Nanas)
+    conDuongMahasi,   // Practical Guide
+    huongDanNhapThat, // Intensive Practice
 ]
 
 export {
@@ -23,5 +25,6 @@ export {
     baMuoiBayPham,
     viDieuPhap,
     tuDieuDe,
-    tuVoLuong
+    tuVoLuong,
+    nhanQuaLuanHoi
 }
