@@ -12,16 +12,18 @@ import vanDapTinhHoa from './van-dap-tinh-hoa'
 import guongSangThanhTang from './guong-sang-thanh-tang'
 import dinhHocTinhHoa from './dinh-hoc-tinh-hoa'
 import tamGioiVuTruQuan from './tam-gioi-vu-tru-quan'
+import tinhHoaKinhDien from './tinh-hoa-kinh-dien'
 
 export const teachings = [
-    tamGioiVuTruQuan,   // Context (The Map of Samsara) - NEW
+    tinhHoaKinhDien,    // Source (Buddhavacana) - NEW
+    tamGioiVuTruQuan,   // Context (Map of Samsara)
     guongSangThanhTang, // Sangha (Living Proof)
-    dinhHocTinhHoa,     // Concentration (Samadhi)
-    thienBaoHo,         // Armor (Faith & Protection)
-    vanDapTinhHoa,      // Dialogue (Resolving Doubts)
-    nhanQuaLuanHoi,     // Foundation 1 (Mundane Right View)
+    dinhHocTinhHoa,     // Samadhi (Concentration)
+    thienBaoHo,         // Protection (Paritta)
+    vanDapTinhHoa,      // Dialogue (Q&A)
+    nhanQuaLuanHoi,     // Foundation 1 (Mundane View)
     tuDieuDe,           // Foundation 2 (The Truths)
-    muoiBaLaMat,        // Fuel (The Perfections)
+    muoiBaLaMat,        // Fuel (Perfections)
     tuVoLuong,          // Heart (Divine Abodes)
     baMuoiBayPham,      // Framework (37 Factors)
     viDieuPhap,         // Deep Dive (Abhidhamma)
@@ -44,5 +46,6 @@ export {
     vanDapTinhHoa,
     guongSangThanhTang,
     dinhHocTinhHoa,
-    tamGioiVuTruQuan
+    tamGioiVuTruQuan,
+    tinhHoaKinhDien
 }
