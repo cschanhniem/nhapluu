@@ -4,6 +4,8 @@ import { teachings } from '@/data/teachings/index'
 import { ArrowLeft, User, BookOpen } from 'lucide-react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import remarkMath from 'remark-math'
+import rehypeKatex from 'rehype-katex'
 import { PrintButton } from '@/components/PrintButton'
 
 export function TeachingDetail() {
@@ -142,7 +144,8 @@ export function TeachingDetail() {
 
                                         <div className="prose prose-neutral dark:prose-invert max-w-none print:prose-black">
                                             <ReactMarkdown
-                                                remarkPlugins={[remarkGfm]}
+                                                remarkPlugins={[remarkGfm, remarkMath]}
+                                                rehypePlugins={[rehypeKatex]}
                                                 components={{
                                                     h1: ({ children }) => (
                                                         <h3 className="text-xl font-bold text-foreground mt-8 mb-4">{children}</h3>

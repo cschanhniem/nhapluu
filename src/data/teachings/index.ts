@@ -11,10 +11,12 @@ import thienBaoHo from './thien-bao-ho'
 import vanDapTinhHoa from './van-dap-tinh-hoa'
 import guongSangThanhTang from './guong-sang-thanh-tang'
 import dinhHocTinhHoa from './dinh-hoc-tinh-hoa'
+import tamGioiVuTruQuan from './tam-gioi-vu-tru-quan'
 
 export const teachings = [
-    dinhHocTinhHoa,     // Concentration (Jhana) - NEW
+    tamGioiVuTruQuan,   // Context (The Map of Samsara) - NEW
     guongSangThanhTang, // Sangha (Living Proof)
+    dinhHocTinhHoa,     // Concentration (Samadhi)
     thienBaoHo,         // Armor (Faith & Protection)
     vanDapTinhHoa,      // Dialogue (Resolving Doubts)
     nhanQuaLuanHoi,     // Foundation 1 (Mundane Right View)
@@ -41,5 +43,6 @@ export {
     thienBaoHo,
     vanDapTinhHoa,
     guongSangThanhTang,
-    dinhHocTinhHoa
+    dinhHocTinhHoa,
+    tamGioiVuTruQuan
 }

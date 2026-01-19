@@ -4,6 +4,8 @@ import { useTranslation } from 'react-i18next'
 import { suttas } from '@/data/suttas/index'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import remarkMath from 'remark-math'
+import rehypeKatex from 'rehype-katex'
 import { ChevronLeft, Bookmark, Type, Minus, Plus, Columns, FileText } from 'lucide-react'
 import { useAppState } from '@/hooks/useAppState'
 import { PrintButton } from '@/components/PrintButton'
@@ -262,7 +264,7 @@ export function SuttaDetail() {
                   </span>
                 </div>
                 <article className={`${proseClasses} font-serif print:prose-black`}>
-                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                  <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
                     {sutta.contentPali || ''}
                   </ReactMarkdown>
                 </article>
@@ -276,7 +278,7 @@ export function SuttaDetail() {
                   </span>
                 </div>
                 <article className={`${proseClasses} print:prose-black`}>
-                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                  <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>
                     {sutta.content || ''}
                   </ReactMarkdown>
                 </article>
@@ -285,7 +287,7 @@ export function SuttaDetail() {
           ) : (
             // Single View
             <article className={`${proseClasses} print:prose-black`}>
-              <ReactMarkdown remarkPlugins={[remarkGfm]}>{sutta.content || ''}</ReactMarkdown>
+              <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]}>{sutta.content || ''}</ReactMarkdown>
             </article>
           )}
         </div>
