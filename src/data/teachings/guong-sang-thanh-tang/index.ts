@@ -5,6 +5,7 @@ import aNanDa from './02-a-nan-da'
 import thanhNu from './03-thanh-nu'
 import satNhanThanhTu from './04-sat-nhan-thanh-tu'
 import cuSiGuongMau from './05-cu-si-guong-mau'
+import cuSiDacQua from './06-cu-si-dac-qua'
 
 export const guongSangThanhTang: Teaching = {
     id: 'guong-sang-thanh-tang',
@@ -20,7 +21,8 @@ export const guongSangThanhTang: Teaching = {
         aNanDa,
         thanhNu,
         satNhanThanhTu,
-        cuSiGuongMau
+        cuSiGuongMau,
+        cuSiDacQua
     ]
 }
 

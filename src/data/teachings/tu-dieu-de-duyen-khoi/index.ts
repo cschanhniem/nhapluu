@@ -5,6 +5,7 @@ import chap02 from './02-tap-de'
 import chap03 from './03-diet-de'
 import chap04 from './04-dao-de'
 import chap05 from './05-duyen-khoi'
+import chap06 from './06-duyen-khoi-12-chi'
 
 export const tuDieuDeMeta: Omit<TeachingWithChapters, 'chapters'> = {
     id: 'tu-dieu-de-duyen-khoi',
@@ -26,7 +27,8 @@ const tuDieuDe: TeachingWithChapters = {
         chap02,
         chap03,
         chap04,
-        chap05
+        chap05,
+        chap06
     ]
 }
 
