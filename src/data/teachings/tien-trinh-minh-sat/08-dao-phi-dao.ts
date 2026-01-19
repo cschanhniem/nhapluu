@@ -8,11 +8,13 @@ const chapter: TeachingChapter = {
     content: `
 ## V. Đạo Phi Đạo Tri Kiến Tịnh (Maggāmagga-ñāṇadassana-visuddhi)
 
-Trong khi tham gia vào việc ghi nhận, thiền sinh tự mình hoặc thông qua sự hướng dẫn của người khác, đi đến quyết định này:
+Trong lúc thực hành, khi gặp phải nhnng trạng thái như ánh sáng rực rỡ, hỷ lạc, hạnh phúc... (10 phiền não minh sát), thiền sinh — tự mình nhận ra hoặc nhờ thiền sư chỉ điểm — đi đến một quyết định sáng suốt:
 
-> *"Ánh sáng rực rỡ, và những điều khác (như hỷ lạc, tịnh, v.v.) mà tôi trải nghiệm, không phải là đạo. Sự thích thú trong chúng chỉ đơn thuần là một phiền não của minh sát. Việc thực hành liên tục ghi nhận đối tượng khi nó trở nên hiển nhiên — đó mới chính là con đường minh sát. Tôi phải tiếp tục với công việc ghi nhận mà thôi."*
+> *"Những ánh sáng, hỷ lạc, hay sự an tịnh tuyệt vời này... KHÔNG PHẢI là Đạo (Con đường giải thoát). Chúng chỉ là những dấu hiệu phụ của thiền, nếu dính mắc vào chúng thì tâm sẽ bị ô nhiễm (phiền não).*
+>
+> *Con đường đúng đắn duy nhất là: **tiếp tục ghi nhận liên tục** mọi đối tượng ngay khi chúng sinh khởi (kể cả những trạng thái hỷ lạc này). Ta không được dừng lại tận hưởng mà phải tiếp tục ghi nhận."*
 
-Quyết định này được gọi là **Đạo Phi Đạo Tri Kiến Tịnh** (Thanh tịnh bằng kiến thức và tầm nhìn về những gì là đạo và những gì không phải là đạo).
+Sự phân biệt rõ ràng đâu là con đường đúng (tiếp tục ghi nhận), đâu là con đường sai (dính mắc vào hỷ lạc, ánh sáng) được gọi là **Đạo Phi Đạo Tri Kiến Tịnh** (Sự trong sạch nhờ hiểu biết đúng đắn về Đạo và Không phải Đạo).
 `
 }
 

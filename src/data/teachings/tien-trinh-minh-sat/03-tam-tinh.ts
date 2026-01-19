@@ -8,49 +8,63 @@ const chapter: TeachingChapter = {
     content: `
 ## II. Tâm Tịnh (Citta-visuddhi)
 
-Trong giai đoạn đầu của phương pháp thực hành, chừng nào tâm của thiền sinh chưa hoàn toàn thanh tịnh, những suy nghĩ lang thang nảy sinh do việc suy nghĩ về các đối tượng dục lạc, v.v., cũng sẽ xuất hiện ngắt quãng giữa các ý niệm ghi nhận (các đối tượng thiền).
+### Khó khăn ban đầu: Phóng tâm và Triền cái
 
-Đôi khi thiền sinh mới bắt đầu sẽ nhận thức được sự xuất hiện (của những sự gián đoạn này) và đôi khi thì không. Nhưng ngay cả khi người ấy nhận thức được chúng, thì cũng chỉ sau khi một khoảng thời gian ngắn đã trôi qua sau khi chúng xuất hiện. Vì khi đó **định sát-na** của tâm người ấy vẫn còn rất non nớt và yếu ớt. Vì vậy, những suy nghĩ lang thang này tiếp tục cản trở tâm trí người ấy trong khi nó đang bận rộn phát triển việc thực hành ghi nhận. Do đó, những suy nghĩ lang thang này được gọi là **"những suy nghĩ cản trở"** (phóng tâm).
+Trong giai đoạn đầu, khi tâm chưa hoàn toàn thanh tịnh, những suy nghĩ lan man (**phóng tâm**) về dục lạc hay các chuyện thế gian vẫn sẽ thường xuyên xen vào giữa những sát-na chánh niệm.
 
-### Khi định sát-na đã mạnh
+Đôi khi thiền sinh nhận biết được sự gián đoạn này, đôi khi không. Nhưng ngay cả khi nhận biết được, thì thường cũng đã muộn — sau khi phóng tâm đã sinh khởi một lúc. Nguyên nhân là do **Sát-na Định** (Khaṇika Samādhi) lúc này còn non yếu.
 
-Tuy nhiên, khi định sát-na của tâm người ấy đã trở nên mạnh mẽ, tiến trình suy nghĩ ghi nhận trở nên tập trung tốt. Do đó, khi chú ý đến các đối tượng cần ghi nhận — chuyển động của bụng, ngồi, chạm, co, duỗi, thấy, nghe, v.v. — những ý niệm ghi nhận của người ấy bây giờ xuất hiện như thể **rơi vào các đối tượng này**, như thể **đập vào chúng**, như thể **đối mặt với chúng lặp đi lặp lại**.
+Những tạp niệm này tiếp tục gây trở ngại cho việc ghi nhận, và chúng được gọi là **"năm triền cái"** (các chướng ngại tinh thần).
 
-Khi đó, theo quy luật, tâm trí người ấy sẽ không còn đi nơi khác nữa. Chỉ thỉnh thoảng, và ở một mức độ nhẹ, điều này mới xảy ra, và ngay cả trong những trường hợp đó, người ấy sẽ có thể ghi nhận bất kỳ suy nghĩ đi lạc nào như vậy ngay khi nó vừa mới sinh khởi, như cách nói thông thường; hoặc, chính xác hơn, người ấy sẽ ghi nhận suy nghĩ đi lạc ngay sau khi nó thực sự sinh khởi.
+---
 
-Khi đó, suy nghĩ đi lạc đó sẽ lắng xuống ngay sau khi nó được ghi nhận và sẽ không sinh khởi lại. Ngay sau đó, người ấy cũng sẽ có thể tiếp tục ghi nhận liên tục bất kỳ đối tượng nào khi nó trở nên rõ ràng đối với mình. Đó là lý do tại sao tâm trí của người ấy vào thời điểm đó được gọi là **"không bị cản trở"**.
+### Khi Sát-na Định trở nên vững mạnh
+
+Khi Sát-na Định trở nên vững mạnh, sự ghi nhận sẽ trở nên sắc bén và liên tục. Khi đó, tâm ghi nhận dường như:
+*   **Rơi trúng** vào đối tượng.
+*   **Bám sát** đối tượng.
+*   **Đối mặt trực tiếp** với từng đối tượng (Phồng/Xẹp, Ngồi, Đụng, Co, Duỗi, Thấy, Nghe...).
+
+Lúc này, tâm thường không còn chạy lan man. Nếu có, thì chỉ thỉnh thoảng và rất nhẹ. Ngay khi một ý nghĩ vừa chớm khởi lên, thiền sinh lập tức nhận biết và ghi nhận nó ngay tại chỗ (ngay khi nó vừa sinh khởi).
+
+Sau khi bị ghi nhận, tạp niệm sẽ tan biến và không sinh khởi trở lại. Hành giả có thể ngay lập tức quay về ghi nhận đối tượng chính. Trạng thái tâm này được gọi là **"Tâm không bị chướng ngại"**.
+
+---
 
 ### Định nghĩa Tâm Tịnh
 
-Trong khi thiền sinh thực hành bài tập ghi nhận với tâm không bị cản trở như vậy, tâm ghi nhận sẽ áp sát và định vào bất cứ đối tượng nào đang được ghi nhận, và hành động ghi nhận sẽ tiến hành không gián đoạn.
+Khi thiền sinh thực hành với tâm không bị chướng ngại, chánh niệm sẽ bám sát đối tượng một cách liên tục không gián đoạn.
 
-Vào lúc đó, trong người ấy nảy sinh sự nối tiếp không gián đoạn của **"định tâm kéo dài trong một sát-na"** (khaṇika-samādhi), hướng đến từng đối tượng được ghi nhận. **Đây được gọi là Tâm Tịnh** [18].
+Lúc đó, một chuỗi các **Sát-na Định** (định trong từng khoảnh khắc) nối tiếp nhau liên tục, an trú trên từng đối tượng được ghi nhận. **Trạng thái này được gọi là Tâm Tịnh** (Tâm thanh tịnh) [18].
 
-Mặc dù định đó chỉ có thời lượng sát-na, nhưng sức đề kháng của nó đối với việc bị áp đảo bởi sự đối lập tương ứng với sức mạnh của cận định.
+> *Mặc dù loại định này chỉ tồn tại trong từng sát-na ngắn ngủi, nhưng nhờ sự nối tiếp liên tục, sức mạnh của nó cũng tương đương với Cận Định, đủ để không bị các phiền não áp đảo.*
 
 ### Giải thích từ Chú giải
 
-Trong Chú giải Thanh Tịnh Đạo, trong phần giải thích chương liên quan đến niệm hơi thở, có nói như sau:
+Chú giải *Thanh Tịnh Đạo* giải thích về định trong pháp niệm hơi thở như sau:
 
-> *"'Sự nhất tâm sát-na' có nghĩa là sự định tâm chỉ kéo dài trong một khoảnh khắc. Đối với (loại định) đó cũng vậy, khi nó xảy ra không gián đoạn với đối tượng tương ứng của nó trong một chế độ duy nhất và không bị vượt qua bởi sự đối lập, nó cố định tâm trí bất động, như thể đang nhập thiền."*
+> *"Sát-na Định (Khaṇika Samādhi) có nghĩa là sự định tâm chỉ kéo dài trong khoảnh khắc. Nhưng khi nó diễn ra liên tục, dán chặt vào đối tượng không gián đoạn và không bị các chướng ngại áp đảo, thì nó cũng làm cho tâm an trú vững chắc, giống như đang nhập định (An Chỉ Định)."*
 
-**"Nó xảy ra không gián đoạn với đối tượng tương ứng của nó"** đề cập đến sự liên tục không gián đoạn của các suy nghĩ tham gia vào việc ghi nhận; sau khi ghi nhận một đối tượng, người ta chú ý, theo cùng một cách, đến một đối tượng khác theo sau ngay lập tức [19]; một lần nữa, sau khi ghi nhận đối tượng đó, người ta chuyển sang đối tượng tiếp theo, v.v.
+Chi tiết:
+1.  **"Diễn ra liên tục, dán chặt vào đối tượng"**: Nghĩa là sự chú tâm ghi nhận nối tiếp nhau không đứt đoạn. Vừa ghi nhận xong đối tượng này, tâm liền bắt sang đối tượng tiếp theo ngay lập tức [19].
+2.  **"Trong một chế độ duy nhất"**: Dù đối tượng thay đổi liên tục và đa dạng, nhưng sức định tĩnh của tâm vẫn duy trì đều đặn, không thay đổi.
+3.  **"Không bị các chướng ngại áp đảo"**: Dòng tâm Sát-na Định này mạnh mẽ đến mức các phiền não (tham, sân, hôn trầm, trào cử, hoài nghi) không thể len vào [20].
+4.  **"Giống như đang nhập định"**: Sức mạnh của Sát-na Định lúc này tương đương với năng lực của **An Chỉ Định** (Appanā Samādhi). Tuy nhiên, sự tương đồng này chỉ thực sự rõ ràng khi hành giả đạt đến các tầng tuệ Minh Sát cao [21].
 
-**"Trong một chế độ duy nhất"** có nghĩa là: mặc dù các đối tượng cần ghi nhận, khi chúng tự trình hiện, là rất nhiều và đa dạng, nhưng lực định của tâm tham gia không gián đoạn vào việc ghi nhận hầu như vẫn ở cùng một mức độ.
+---
 
-**"Không bị vượt qua bởi sự đối lập"**: điều này có nghĩa là định sát-na trong dòng chảy không gián đoạn của nó không bị áp đảo bởi các triền cái [20].
+### Sát-na Định và Cận Định
 
-**"Như thể trong định"**: điều này có nghĩa là sức mạnh của định sát-na tương tự như sức mạnh của định đã đạt đến sự nhập định hoàn toàn (toàn định). Tuy nhiên, sự tương đồng như vậy của định sát-na với định toàn phần sẽ chỉ trở nên rõ ràng khi phương pháp thực hành minh sát đạt đến đỉnh cao của nó [21].
+Có người thắc mắc: *"Chẳng phải thuật ngữ 'Tâm Tịnh' chỉ dành cho Cận Định và An Chỉ Định sao?"*
 
-### Định sát-na và Cận định
+Đúng vậy. Nhưng cần hiểu rằng **Sát-na Định (khi liên tục) cũng được tính vào Cận Định**.
 
-Nhưng chẳng phải trong các Chú giải có nói rằng thuật ngữ "tâm tịnh" chỉ áp dụng cho cận định và toàn định sao? Điều đó đúng; nhưng người ta phải hiểu tuyên bố này theo nghĩa là **định sát-na được bao gồm trong cận định**.
+Chú giải *Kinh Niệm Xứ* nói:
+> *"Các đề mục thiền (ngoài niệm hơi thở và 32 thể trược) chỉ dẫn đến Cận Định"* [22].
 
-Vì trong Chú giải Kinh Niệm Xứ có nói: *"Mười hai bài tập còn lại là các đề mục thiền chỉ dẫn đến Cận Định"* [22].
+Trong việc quán niệm tứ oai nghi, tỉnh giác hay tứ đại, sự định tâm chắc chắn chỉ là Sát-na Định (vì đối tượng luôn thay đổi). Nhưng vì Sát-na Định này cũng có khả năng chế ngự năm triền cái giống như Cận Định [23], và nó là nền tảng cận kề để bước vào Thánh Đạo [24], nên nó cũng được gọi là **"Cận Định"** và được công nhận là **"Tâm Tịnh"**.
 
-Bây giờ, trong trường hợp của các đề mục được đề cập trong các phần của Kinh Niệm Xứ về oai nghi, sự tỉnh giác và các yếu tố, sự định tâm của người cống hiến hết mình cho các bài tập này chắc chắn sẽ chỉ là định sát-na. Nhưng vì cái sau có khả năng chế ngự các triền cái giống như cận định [23], và vì nó là vùng lân cận của định thuộc thánh đạo [24], do đó cùng một định sát-na đó được gọi bằng tên "cận" (hoặc "lân cận").
-
-Do đó, cần hiểu rằng **định sát-na, có khả năng chế ngự các triền cái, cũng có quyền được gọi là "cận" và "tâm tịnh"**. Nếu không, tâm tịnh không thể xảy ra ở một người đã lấy minh sát thuần túy làm cỗ xe của mình bằng cách chỉ sử dụng minh sát, mà không tạo ra cận định hoặc toàn định.
+> *Nếu không chấp nhận điều này, thì người tu tập theo lối "Thuần Quán" (chỉ dùng Minh Sát, không qua thiền Định) sẽ không bao giờ đạt được Tâm Tịnh, và do đó không thể tiến tu. Điều này là vô lý.*
 `
 }
 

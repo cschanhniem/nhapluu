@@ -7,23 +7,25 @@ const chapter: TeachingChapter = {
     content: `
 ## Kết Luận
 
-Tác phẩm hiện tại về "Tiến Trình Minh Sát qua các Giai đoạn Thanh Tịnh" đã được viết dưới dạng tóm tắt, để các thiền sinh có thể dễ dàng lĩnh hội nó. Do đó, các chi tiết đầy đủ đã không được đưa ra ở đây. Và vì nó được viết với mục đích làm cho nó dễ hiểu, trong nhiều đoạn của tác phẩm này, các tham chiếu kinh điển liên quan đã không được trích dẫn, và có những sự lặp lại và các lỗi khác về cấu trúc văn học. Nhưng những thiếu sót về trình bày và sự không đầy đủ của các tham chiếu kinh điển này có thể được người đọc bỏ qua. Chỉ có ý nghĩa và mục đích nên được các bậc trí giả chú ý kỹ. Đó là điều mà tôi muốn mời sự chú ý của người đọc.
+Tác phẩm "Tiến Trình Minh Sát" này được trình bày dưới dạng tóm tắt để thiền sinh có thể dễ dàng lĩnh hội. Vì mục đích ưu tiên sự dễ hiểu, nhiều đoạn không trích dẫn đầy đủ các nguồn kinh điển tương ứng, và có thể còn những khiếm khuyết về văn phong hay sự lặp lại. Mong quý độc giả lượng thứ cho những thiếu sót về mặt trình bày đó và chỉ tập trung vào ý nghĩa cũng như mục đích cốt lõi mà tác phẩm muốn truyền tải.
 
-Mặc dù lúc đầu đã đề cập rằng tác phẩm này được viết cho những người đã đạt được những kết quả đặc biệt trong thực hành của họ, những người khác cũng có thể đọc nó với lợi ích.
+Mặc dù tác phẩm này chủ yếu hướng đến những ai đã đạt được những kết quả nhất định trong thực hành, nhưng những người khác cũng có thể tìm thấy lợi ích khi tham khảo.
 
-Bây giờ đây là những lời chúc tốt đẹp kết luận của tôi dành cho loại độc giả sau: Cũng giống như một bữa ăn rất ngon, hấp dẫn, đậm đà và bổ dưỡng chỉ có thể được đánh giá đầy đủ bởi người đã tự mình ăn nó, chứ không phải không cần ăn nó; theo cùng một cách, toàn bộ chuỗi kiến thức được mô tả ở đây chỉ có thể được hiểu đầy đủ bởi người đã tự mình thấy nó bằng kinh nghiệm trực tiếp, chứ không phải cách khác. Vì vậy, mong tất cả những người tốt lành đạt đến giai đoạn hiểu biết không thể nghi ngờ về toàn bộ chuỗi kiến thức này! Mong họ cũng nỗ lực để đạt được nó!
+Lời chúc tốt đẹp cuối cùng của tôi dành cho quý độc giả là: Cũng giống như hương vị của một bữa ăn ngon, đậm đà và bổ dưỡng chỉ có thể được cảm nhận trọn vẹn bởi người trực tiếp thưởng thức, chứ không thể chỉ qua lời kể; tương tự, toàn bộ chuỗi kiến thức minh sát được mô tả ở đây chỉ có thể được thấu hiểu đầy đủ bởi người đã tự mình chứng nghiệm thực tế.
+
+Nguyện cầu cho tất cả những người thiện tâm sẽ đạt đến giai đoạn hiểu biết không còn nghi hoặc về con đường này! Mong quý vị nỗ lực tinh tấn để thành tựu mục tiêu cao quý ấy!
 
 ---
 
-*Tác phẩm về thanh tịnh và minh sát này,*
-*Dành cho các thiền sinh đã thấy rõ ràng các pháp,*
-*Mặc dù kho tàng học thức của họ có thể nhỏ nhoi —*
-*Trưởng lão, tên là Mahasi, thiện xảo trong phương pháp minh sát,*
-*Đã viết nó bằng tiếng Miến Điện và dịch sang tiếng Pali.*
+*Tác phẩm về Thanh Tịnh và Minh Sát này,*
+*Dành cho các thiền sinh thấy rõ các pháp,*
+*Dù kho tàng kiến thức đời thường có thể khiêm tốn,*
+*Nhưng Đại Trưởng lão Mahasi, bậc thiện xảo trong Minh Sát,*
+*Đã soạn thảo bằng tiếng Miến và dịch sang Pali.*
 
-*Tác phẩm về Thanh Tịnh và Minh Sát*
-*soạn ngày 22.5.1950*
-*được kết thúc tại đây.*
+*Tác phẩm "Thanh Tịnh Minh Sát"*
+*(Visuddhiñāṇa-kathā)*
+*Hoàn thành ngày 22 tháng 5 năm 1950.*
 `
 }
 

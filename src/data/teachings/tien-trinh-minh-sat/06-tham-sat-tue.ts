@@ -8,37 +8,30 @@ const chapter: TeachingChapter = {
     content: `
 ## 3. Thẩm Sát Tuệ (Sammasana-ñāṇa)
 
-Khi "Đoạn Nghi Tịnh" này đã đạt đến độ chín muồi, thiền sinh sẽ phân biệt rõ ràng các giai đoạn đầu, giữa và cuối của bất kỳ đối tượng nào được ghi nhận. Sau đó, trong trường hợp của các đối tượng khác nhau được ghi nhận, người ấy sẽ phân biệt rõ ràng rằng chỉ sau khi mỗi tiến trình trước đó đã diệt, thì một tiến trình tiếp theo mới sinh khởi.
+Khi "Đoạn Nghi Tịnh" (Tuệ Phân Biệt Duyên) đã chín muồi, thiền sinh sẽ thấy rõ sự nối tiếp sống động của các hiện tượng: chỉ khi cái trước đã diệt hoàn toàn, cái sau mới sinh khởi.
 
-Ví dụ, chỉ khi chuyển động phồng của bụng đã kết thúc, chuyển động xẹp mới sinh khởi; chỉ khi cái đó đã kết thúc, lại có một chuyển động phồng. Cũng vậy trong trường hợp đi bộ: chỉ khi việc nhấc chân đã kết thúc, việc đưa chân tới trước mới sinh khởi; chỉ khi việc đó đã hoàn tất, việc đặt chân xuống đất mới theo sau.
+- Chỉ khi bụng phồng lên xong và dứt hẳn, thì bụng mới xẹp xuống.
+- Chỉ khi nhấc chân lên xong, thì mới đưa chân tới.
+- Chỉ khi cảm giác đau ở chỗ này dứt hẳn, thì cảm giác đau ở chỗ khác mới khởi lên.
+- Chỉ khi hình ảnh trong đầu (vọng tưởng) này tan biến, thì hình ảnh khác mới xuất hiện.
 
-Trong trường hợp của các cảm giác đau đớn, chỉ sau khi mỗi cảm giác riêng lẻ xảy ra tại vị trí cụ thể của nó đã diệt, thì một cảm giác mới khác mới sinh khởi ở một nơi khác. Khi ghi nhận cảm giác đau đớn tương ứng lặp đi lặp lại, hai, ba lần hoặc nhiều hơn, thiền sinh sẽ thấy rằng nó dần dần bớt đi, và cuối cùng chấm dứt hoàn toàn.
+Thiền sinh thấy rõ mọi đối tượng — dù là thân hay tâm — đều liên tục di chuyển, biến đổi, mờ dần hoặc tan biến hẳn. **Không có bất cứ thứ gì là thường hằng, bền vững hay tồn tại mãi mãi.**
 
-Trong trường hợp của các hình ảnh có hình dạng khác nhau đi vào trường của tâm, chỉ sau khi mỗi hình ảnh riêng lẻ được ghi nhận đã biến mất, thì một đối tượng mới khác mới đi vào tiêu điểm của tâm. Khi ghi nhận chúng một cách chăm chú hai, ba lần hoặc nhiều hơn, người ấy sẽ thấy rõ rằng những đối tượng tâm trí đang được ghi nhận này di chuyển từ nơi này sang nơi khác, hoặc chúng dần dần trở nên nhỏ hơn và kém rõ ràng hơn, cho đến khi cuối cùng chúng biến mất hoàn toàn.
+### Ba Đặc Tướng (Tam Tướng)
 
-Tuy nhiên, thiền sinh không nhận thức được bất cứ điều gì là thường hằng và bền vững, hoặc thoát khỏi sự hoại diệt và biến mất.
+1.  **Vô Thường (Anicca)**: Thấy rõ mọi đối tượng vừa sinh ra liền đi đến hoại diệt và tan biến.
+2.  **Khổ (Dukkha)**: Thấy sự sinh diệt liên tục đó là một sự áp bức, một gánh nặng, một khối đau khổ (vì nó luôn bị tan rã, không giữ lại được).
+3.  **Vô Ngã (Anatta)**: Thấy rõ các hiện tượng này tự vận hành theo quy luật, không có "ông chủ" nào điều khiển, không tự sinh khởi theo ý muốn mà phụ thuộc vào các duyên (điều kiện).
 
-Thấy cách mỗi đối tượng, ngay cả khi đang được ghi nhận, đi đến sự hoại diệt và biến mất, thiền sinh thấu hiểu (thẩm sát) nó là **vô thường** theo nghĩa là trải qua sự hoại diệt. Người ấy tiếp tục thấu hiểu nó là **khổ** (đau đớn) theo nghĩa là tan rã sau mỗi lần sanh.
+Sự thấu hiểu này đạt được thông qua việc **ghi nhận trực tiếp** (thấy sao biết vậy), không cần phải suy ngẫm hay phân tích lý luận. Đây gọi là **"Thẩm Sát Tuệ bằng kinh nghiệm trực tiếp"**.
 
-Đã thấy cách các cảm giác đau đớn khác nhau sinh khởi trong sự nối tiếp liên tục — làm thế nào nếu một cảm giác đau đớn diệt, một cái khác sinh khởi, và khi cái đó đã diệt, lại một cái khác sinh khởi — đã thấy điều đó, người ấy thấu hiểu các đối tượng tương ứng chỉ là một khối đau khổ.
+### Thẩm Sát bằng Suy Luận (Minh Sát Quy Nạp)
 
-Hơn nữa, người ấy thấu hiểu đối tượng là bao gồm các hiện tượng thuần túy **vô ngã**, không có chủ nhân, theo nghĩa là không tự mình sinh khởi, nhưng sinh khởi phụ thuộc vào các duyên và sau đó tan rã.
+Từ những kinh nghiệm trực tiếp sống động đó (thấy cái gì cũng sinh diệt, vô thường, khổ, vô ngã), thiền sinh suy rộng ra cho tất cả mọi sự vật hiện tượng khác:
 
-Sự thấu hiểu (thẩm sát) về một đối tượng được ghi nhận này, là vô thường, khổ, và vô ngã, thông qua việc biết bản chất vô thường, v.v. của nó, bằng phương tiện **ghi nhận đơn thuần, không cần suy ngẫm và lý luận**, được gọi là **"Thẩm Sát Tuệ thông qua kinh nghiệm trực tiếp"**.
+> *"Trong quá khứ, hiện tại hay tương lai; bên trong hay bên ngoài; thô hay tế... tất cả mọi Danh-Sắc trên thế gian cũng đều Vô thường, Khổ và Vô ngã y như những gì mình đang thấy đây."*
 
-Đã thấy ba đặc tính như vậy một hoặc nhiều lần bằng kinh nghiệm trực tiếp, thiền sinh, bằng cách **suy luận** từ kinh nghiệm trực tiếp về những đối tượng được ghi nhận đó, thấu hiểu tất cả các tiến trình danh-sắc của quá khứ, hiện tại và tương lai, và toàn bộ thế giới, bằng cách đi đến kết luận:
-
-> *"Chúng cũng vậy, theo cùng một cách, là vô thường, khổ, và vô ngã."*
-
-Đây được gọi là **"Thẩm Sát Tuệ thông qua suy luận"**.
-
-Ám chỉ đến chính kiến thức này, trong bộ Vô Ngại Giải Đạo (Paṭisambhidāmagga) có nói: *"Bất cứ điều gì thuộc về sắc pháp, quá khứ, hiện tại hay tương lai, bên trong hay bên ngoài, thô hay tế, liệt hay thắng, xa hay gần, tất cả sắc pháp người ấy định nghĩa là vô thường. Đó là một loại thấu hiểu,"* và cứ thế.
-
-Cũng trong Chú giải bộ Kathāvatthu có nói: *"Ngay cả khi sự vô thường của chỉ một hành (hiện tượng hữu vi) được biết, có thể có sự xem xét phần còn lại bằng quy nạp như sau: 'Tất cả các hành là vô thường.'"*
-
-Những từ "Tất cả các hành là vô thường" đề cập đến một sự hiểu biết bằng quy nạp, và không phải là một sự hiểu biết bằng cách nhận thức một đối tượng (đồng hiện hữu) cùng một lúc. (Đoạn văn này là cơ sở cho việc sử dụng thuật ngữ "minh sát quy nạp".)
-
-Cũng trong Chú giải Trung Bộ Kinh có nói: *"Bởi vì trong trường hợp của cõi phi tưởng phi phi tưởng xứ, tuệ quán vào trình tự của các tâm sở chỉ thuộc về chư Phật và không thuộc về các đệ tử, Ngài (Đức Phật) đã nói như vậy qua đó chỉ ra tuệ quán theo nhóm"* (Đoạn này là cơ sở cho việc sử dụng thuật ngữ "thẩm sát theo nhóm" - kalāpa-sammasana).
+Đây gọi là **"Thẩm Sát Tuệ bằng suy luận"** (hay Minh Sát Quy Nạp).
 `
 }
 

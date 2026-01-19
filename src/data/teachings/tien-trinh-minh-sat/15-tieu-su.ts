@@ -7,35 +7,54 @@ const chapter: TeachingChapter = {
     content: `
 ## Đại Trưởng Lão Mahasi Sayadaw
 
-Mahasi Sayadaw, Đại Trưởng Lão U Sobhana Mahathera, là con trai của U Kan Htaw và Daw Shwe Ok của làng Seikkhun, cách thị trấn Shwebo khoảng bảy dặm về phía tây, một thời là kinh đô của người sáng lập triều đại Miến Điện cuối cùng. Ngài sinh vào ngày thứ ba của tháng Waso thứ hai vào năm 1266 của Kỷ nguyên Miến Điện (29 tháng 7 năm 1904). Lên sáu tuổi, ngài bắt đầu học tại một trường tu viện trong cùng làng, và khi mười hai tuổi, ngài được xuất gia làm sa-di (tập sự). Khi đến tuổi hai mươi, ngài được thọ cụ túc giới tỳ-kheo vào ngày thứ năm của tháng Tazaungmon vào năm 1285 của Kỷ nguyên Miến Điện (23 tháng 11 năm 1923). Sau đó, ngài đã vượt qua các kỳ thi Pali của Chính phủ trong tất cả ba lớp Pathamange, Pathamalat và Pathamagyi trong ba năm liên tiếp sau đó.
+**Đại Trưởng Lão U Sobhana Mahathera**, thường được biết đến với tôn hiệu **Mahasi Sayadaw**, là con trai của cụ ông U Kan Htaw và cụ bà Daw Shwe Ok, người làng Seikkhun, cách thị trấn Shwebo (một thời là kinh đô của triều đại Miến Điện cuối cùng) khoảng 7 dặm về phía Tây.
 
-Vào năm thứ tư sau khi thọ giới tỳ-kheo, ngài đến Mandalay — một kinh đô cũ của Miến Điện — nơi ngài tiếp tục học cao hơn tại Khinmagan Kyaung Taik dưới sự hướng dẫn của nhiều vị sư có danh tiếng học thuật cao. Vào năm thứ năm, ngài đến Moulmein, nơi ngài đảm nhận công việc dạy kinh điển Phật giáo tại một tu viện được gọi là Taung Waing Galay Taik Kyaung.
+Ngài sinh vào ngày mùng 3 tháng Waso thứ hai, năm 1266 Kỷ nguyên Miến Điện (tức ngày 29 tháng 7 năm 1904).
 
-Vào năm thứ tám sau khi thọ giới, ngài và một vị sư khác rời Moulmein chỉ với những vật dụng cần thiết tối thiểu của một tỳ-kheo (tức là bát khất thực, một bộ ba y, v.v.) và đi tìm kiếm một phương pháp rõ ràng và hiệu quả trong việc thực hành thiền định. Tại Thaton, ngài gặp vị thiền sư nổi tiếng, Trưởng lão U Narada, người cũng được gọi là "Mingun Jetawun Sayadaw Đệ Nhất". Ngài sau đó đặt mình dưới sự hướng dẫn của Sayadaw và ngay lập tức tiến hành một khóa thiền định chuyên sâu.
+*   **Năm 6 tuổi:** Ngài bắt đầu học tại tu viện trong làng.
+*   **Năm 12 tuổi:** Ngài xuất gia làm Sa-di (Sāmaṇera).
+*   **Năm 20 tuổi:** Ngài thọ cụ túc giới Tỳ-kheo vào ngày mùng 5 tháng Tazaungmon, năm 1285 Kỷ nguyên Miến Điện (23/11/1923).
+*   **Thành tựu học vấn:** Trong 3 năm liên tiếp sau khi thọ giới, ngài đã xuất sắc vượt qua các kỳ thi Pali của Chính phủ ở cả ba cấp độ: Sơ cấp (Pathamange), Trung cấp (Pathamalat) và Cao cấp (Pathamagyi).
 
-Sau khóa thiền thực hành này, ngài trở về Moulmein và tiếp tục công việc ban đầu là dạy kinh điển Phật giáo. Ngài dự thi Kỳ thi Giảng viên Pali do Chính phủ Miến Điện tổ chức vào tháng 6 năm 1941 và đã thành công vượt qua ngay lần thử đầu tiên. Ngài được trao tặng danh hiệu Sāsanadhaja Siri Pavara Dhammacariya.
+---
 
-Vào năm 1303 của Kỷ nguyên Miến Điện (1941) và vào năm thứ mười tám sau khi thọ giới tỳ-kheo, ngài trở về làng quê hương (Seikkhun) và cư trú tại một tu viện được gọi là "Maha-Si Kyaung" bởi vì một cái trống (tiếng Miến Điện: *si*) có kích thước lớn bất thường (*maha*) được đặt ở đó. Ngài sau đó giới thiệu khóa thực hành có hệ thống về thiền niệm xứ (Satipatthana). Nhiều người, tỳ-kheo cũng như cư sĩ, tụ tập quanh ngài và tham gia khóa thực hành nghiêm ngặt, và đã được hưởng lợi lớn từ những hướng dẫn cẩn thận của ngài. Họ hạnh phúc vì họ bắt đầu hiểu những đặc điểm nổi bật của Satipatthana và cũng đã học được phương pháp đúng đắn để tiếp tục thực hành một mình.
+### Quá trình tu học
 
-Vào năm 1311 Kỷ nguyên Miến Điện (1949), Thủ tướng Miến Điện lúc bấy giờ, U Nu, và Sir U Thwin, các thành viên điều hành của Hiệp hội Buddha Sāsanānuggha, đã yêu cầu Đại Trưởng lão Mahasi Sayadaw đến Rangoon và huấn luyện việc thực hành thiền định. Vào năm thứ hai mươi sáu sau khi thọ giới tỳ-kheo, ngài do đó đã đến Rangoon và cư trú tại Thathana Yeiktha, trụ sở của Hiệp hội, nơi kể từ đó các khóa huấn luyện chuyên sâu đã được tổ chức cho đến ngày nay.
+Vào hạ thứ 4, ngài đến Mandalay — kinh đô cổ kính của Miến Điện — để tiếp tục nghiên cứu chuyên sâu tại Khinmagan Kyaung Taik dưới sự hướng dẫn của nhiều vị danh tăng lỗi lạc. Đến hạ thứ 5, ngài chuyển đến Moulmein và bắt đầu công việc dạy kinh điển Phật giáo tại tu viện Taung Waing Galay Taik Kyaung.
 
-Hơn 15.000 người kể từ đó đã được huấn luyện tại trung tâm đó một mình và tổng cộng hơn 200.000 người đã được huấn luyện trên khắp Miến Điện, nơi có hơn 100 chi nhánh cho việc huấn luyện cùng phương pháp. Phương pháp này cũng đã lan rộng ở Thái Lan và Sri Lanka.
+Vào hạ thứ 8, cùng với một người bạn đạo, ngài rời Moulmein chỉ với "tam y nhất bát" để lên đường tìm kiếm một phương pháp thực hành thiền định thiết thực và hiệu quả. Tại Thaton, ngài đã gặp được vị thiền sư nổi tiếng: **Trưởng lão U Narada** (còn gọi là Mingun Jetawun Sayadaw). Ngài lập tức dâng mình làm đệ tử và tiến hành một khóa thiền tích cực dưới sự chỉ dạy của Thầy.
 
-Mahasi Sayadaw được trao tặng danh hiệu Agga-Maha-Pandita vào năm 1952.
+---
 
-Ngài đã thực hiện nhiệm vụ của người Vấn Đạo (*pucchaka*) tại Kết Tập Kinh Điển Phật Giáo Lần Thứ Sáu (Chattha Sangayana) được tổ chức tại Rangoon trong hai năm, đỉnh cao vào năm 2500 của Kỷ nguyên Phật giáo (1956). Để đánh giá đầy đủ tầm quan trọng của vai trò này, có thể nhắc lại rằng Đại Ca Diếp (Maha-Kassapa), với tư cách là người Vấn Đạo, đã đặt câu hỏi tại Kết Tập Lần Đầu được tổ chức ba tháng sau khi Đức Phật nhập diệt. Khi đó Ngài Ưu Bà Ly (Upali) và Ngài A Nan (Ananda) đã trả lời các câu hỏi. Tại Kết Tập Lần Thứ Sáu, chính Tipitakadhara Dhammabhandagarika Ashin Vicittasarabhivamsa là người trả lời các câu hỏi do Ngài Mahasi Sayadaw đặt ra. Ngài Mahasi Sayadaw cũng là một thành viên của ủy ban chịu trách nhiệm, với tư cách là thẩm quyền cuối cùng, cho việc hệ thống hóa tất cả các văn bản được thông qua tại Kết Tập Lần Thứ Sáu.
+### Hoằng pháp và Sự nghiệp
 
-Ngài đã viết nhiều sách về thiền định và các tác phẩm đáng chú ý sau đây có thể được đề cập:
-1. Hướng dẫn Thực hành Thiền Minh Sát (tiếng Miến Điện) — 2 tập.
-2. Bản dịch tiếng Miến Điện của Đại Kinh Niệm Xứ, với các ghi chú.
-3. *Visuddhiñana-katha* (tiếng Miến Điện và Pali).
-4. Bản dịch tiếng Miến Điện của Thanh Tịnh Đạo, với các ghi chú.
-5. Bản dịch tiếng Miến Điện của Thanh Tịnh Đạo Đại Phụ Chú Giải (*Visuddhimagga Maha-Tika*), với các ghi chú — 4 tập.
-6. *Paticca-Samuppada* (Lý Duyên Khởi) — 2 tập.
+Sau khóa tu này, ngài trở về Moulmein và tiếp tục dạy học. Năm 1941, ngài đỗ kỳ thi Giảng sư Pali (Dhammacariya) ngay trong lần thi đầu tiên và được Chính phủ trao tặng danh hiệu **Sāsanadhaja Siri Pavara Dhammacariya**.
 
-Một số lượng lớn các bài giảng của ngài, dựa trên các Kinh Pali, đã được dịch sang tiếng Anh và xuất bản bởi Hiệp hội Buddha Sāsanānuggha.
+Năm 1941 (hạ thứ 18), ngài trở về quê nhà Seikkhun và cư ngụ tại tu viện "Maha-Si Kyaung" (tên gọi này xuất phát từ một chiếc trống *Si* khổng lồ - *Maha* - đặt tại đó). Tại đây, ngài bắt đầu giới thiệu phương pháp thực hành **Thiền Tứ Niệm Xứ (Satipaṭṭhāna)** một cách hệ thống. Rất nhiều Tỳ-kheo và cư sĩ đã đến nương tựa, thực hành nghiêm mật và đạt được nhiều lợi lạc to lớn.
 
-Mahasi Sayadaw viên tịch vào ngày 14 tháng 8 năm 1982 sau một cơn bệnh ngắn.
+Năm 1949, theo lời thỉnh cầu của Thủ tướng U Nu và Sir U Thwin (Hiệp hội Buddha Sāsanānuggha), ngài chuyển đến Rangoon và trú tại trung tâm **Thathana Yeiktha**. Từ đó, các khóa thiền tích cực được tổ chức liên tục.
+
+Hơn 15.000 thiền sinh đã được huấn luyện trực tiếp tại trung tâm này, và hơn 200.000 người đã thực hành tại hơn 100 chi nhánh khắp Miến Điện. Phương pháp của ngài cũng lan rộng mạnh mẽ sang Thái Lan, Sri Lanka và phương Tây.
+
+---
+
+### Danh hiệu và Đóng góp
+
+*   **Năm 1952:** Ngài được trao tặng danh hiệu cao quý **Agga-Maha-Pandita** (Đại Tam Tạng Pháp Sư).
+*   **Năm 1954-1956:** Tại **Đại Hội Kết Tập Kinh Điển Lần Thứ 6 (Chattha Sangayana)**, ngài đảm nhận vai trò trọng yếu là **Vị Vấn Đạo (Pucchaka)** (người đặt câu hỏi về Pháp và Luật), vai trò tương tự như ngài Đại Ca-diếp (Maha-Kassapa) trong kỳ Kết tập lần đầu tiên. Người trả lời các câu hỏi của ngài là vị thông thuộc Tam Tạng Vicittasarabhivamsa.
+*   Ngài cũng là thành viên Ban biên tập chịu trách nhiệm hệ thống hóa toàn bộ văn bản Tam Tạng sau kỳ kết tập.
+
+### Các tác phẩm tiêu biểu
+
+Ngài đã để lại một di sản đồ sộ với nhiều tác phẩm giá trị về Thiền học:
+1.  **Hướng dẫn Thực hành Thiền Minh Sát** (2 tập).
+2.  **Đại Kinh Niệm Xứ (Chú giải)**.
+3.  **Visuddhiñāṇa-kathā** (Tiến trình Minh Sát - Song ngữ Miến/Pali).
+4.  **Thanh Tịnh Đạo (Dịch và Chú giải)**.
+5.  **Thanh Tịnh Đạo Đại Phụ Chú Giải (Visuddhimagga Maha-Tika)** (4 tập).
+6.  **Paticca-Samuppada (Lý Duyên Khởi)** (2 tập).
+
+Ngài Đại Trưởng Lão Mahasi Sayadaw viên tịch vào ngày **14 tháng 8 năm 1982**, để lại niềm kính tiếc vô hạn cho hàng triệu Tăng Ni và Phật tử trên toàn thế giới.
 `
 }
 
