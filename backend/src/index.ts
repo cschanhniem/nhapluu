@@ -1,6 +1,7 @@
 import { Hono } from 'hono'
 import { cors } from 'hono/cors'
 import { logger } from 'hono/logger'
+import { sign, verify } from 'hono/jwt'
 
 type Bindings = {
   DB: D1Database
@@ -28,7 +29,7 @@ async function verifyPassword(password: string, hash: string): Promise<boolean> 
 // Middleware
 app.use('*', logger())
 app.use('*', async (c, next) => {
-  const allowedOrigins = c.env.ALLOWED_ORIGINS.split(',')
+  const allowedOrigins = c.env.ALLOWED_ORIGINS ? c.env.ALLOWED_ORIGINS.split(',') : ['http://localhost:5173']
   const origin = c.req.header('origin') || ''
 
   return cors({
@@ -80,8 +81,13 @@ app.post('/api/auth/register', async (c) => {
       'INSERT INTO users (id, email, password_hash, created_at, last_sync) VALUES (?, ?, ?, ?, ?)'
     ).bind(userId, email, passwordHash, now, now).run()
 
-    // Generate simple token
-    const token = btoa(JSON.stringify({ userId, email, exp: now + 30 * 24 * 60 * 60 * 1000 }))
+    // Generate JWT
+    const payload = {
+      userId,
+      email,
+      exp: Math.floor(Date.now() / 1000) + 60 * 60 * 24 * 30 // 30 days
+    }
+    const token = await sign(payload, c.env.JWT_SECRET)
 
     return c.json({
       success: true,
@@ -120,13 +126,13 @@ app.post('/api/auth/login', async (c) => {
       return c.json({ error: 'Email hoặc mật khẩu không đúng' }, 401)
     }
 
-    // Generate token
-    const now = Date.now()
-    const token = btoa(JSON.stringify({
+    // Generate JWT
+    const payload = {
       userId: user.id,
       email: user.email,
-      exp: now + 30 * 24 * 60 * 60 * 1000
-    }))
+      exp: Math.floor(Date.now() / 1000) + 60 * 60 * 24 * 30 // 30 days
+    }
+    const token = await sign(payload, c.env.JWT_SECRET)
 
     return c.json({
       success: true,
@@ -138,15 +144,28 @@ app.post('/api/auth/login', async (c) => {
   }
 })
 
+// Helper to verify token
+async function verifyToken(c: any) {
+  const authHeader = c.req.header('Authorization')
+  if (!authHeader) return null
+
+  const token = authHeader.replace('Bearer ', '')
+  try {
+    return await verify(token, c.env.JWT_SECRET)
+  } catch (e) {
+    return null
+  }
+}
+
 // Meditation routes
 app.get('/api/meditations', async (c) => {
   try {
-    const token = c.req.header('Authorization')?.replace('Bearer ', '')
-    if (!token) {
+    const payload = await verifyToken(c)
+    if (!payload) {
       return c.json({ error: 'Unauthorized' }, 401)
     }
 
-    const { userId } = JSON.parse(atob(token))
+    const { userId } = payload as any
 
     const sessions = await c.env.DB.prepare(
       'SELECT * FROM meditation_sessions WHERE user_id = ? ORDER BY date DESC LIMIT 100'
@@ -161,12 +180,12 @@ app.get('/api/meditations', async (c) => {
 
 app.post('/api/meditations', async (c) => {
   try {
-    const token = c.req.header('Authorization')?.replace('Bearer ', '')
-    if (!token) {
+    const payload = await verifyToken(c)
+    if (!payload) {
       return c.json({ error: 'Unauthorized' }, 401)
     }
 
-    const { userId } = JSON.parse(atob(token))
+    const { userId } = payload as any
     const session = await c.req.json()
 
     const id = session.id || crypto.randomUUID()
@@ -190,12 +209,12 @@ app.post('/api/meditations', async (c) => {
 // Sync endpoint
 app.post('/api/sync', async (c) => {
   try {
-    const token = c.req.header('Authorization')?.replace('Bearer ', '')
-    if (!token) {
+    const payload = await verifyToken(c)
+    if (!payload) {
       return c.json({ error: 'Unauthorized' }, 401)
     }
 
-    const { userId } = JSON.parse(atob(token))
+    const { userId } = payload as any
     const { data, lastSync } = await c.req.json()
 
     // Simple sync: push all local data to server
