@@ -16,26 +16,49 @@ import tamGioiVuTruQuan from './tam-gioi-vu-tru-quan'
 import tinhHoaKinhDien from './tinh-hoa-kinh-dien'
 import chanhNiemHangNgay from './chanh-niem-hang-ngay'
 import daoDoi from './dao-doi'
+import trangThaiThienSau from './trang-thai-thien-sau'
+import congCuDanhGia from './cong-cu-danh-gia'
+import nhuLyTacY from './nhu-ly-tac-y'
+import thienTriThuc from './thien-tri-thuc'
+import samvega from './samvega'
+import muoiKietSu from './muoi-kiet-su'
 
 export const teachings = [
+    // === CRITICAL FOUNDATIONS ===
+    nhuLyTacY,            // Key to Right View (Yoniso Manasikara)
+    thienTriThuc,         // Spiritual Friend (Kalyanamitra)
+    samvega,              // Spiritual Urgency
+    muoiKietSu,           // 10 Fetters (Map to Liberation)
+
+    // === CORE TEACHINGS ===
     khoTangPhapSo,        // Structure (Matrix)
     tinhHoaKinhDien,      // Source (Buddhavacana)
     tamGioiVuTruQuan,     // Context (Map of Samsara)
     guongSangThanhTang,   // Sangha (Living Proof)
+
+    // === PRACTICE ===
     dinhHocTinhHoa,       // Samadhi (Concentration)
+    trangThaiThienSau,    // Deep Meditation States
     thienBaoHo,           // Protection (Paritta)
     vanDapTinhHoa,        // Dialogue (Q&A)
+
+    // === THEORY ===
     nhanQuaLuanHoi,       // Foundation 1 (Mundane View)
     tuDieuDe,             // Foundation 2 (The Truths)
     muoiBaLaMat,          // Fuel (Perfections)
     tuVoLuong,            // Heart (Divine Abodes)
     baMuoiBayPham,        // Framework (37 Factors)
     viDieuPhap,           // Deep Dive (Abhidhamma)
+
+    // === PATH ===
     tienTrinhMinhSat,     // Map (16 Nanas)
     conDuongMahasi,       // Guide 1 (Path)
     huongDanNhapThat,     // Guide 2 (Retreat)
+
+    // === DAILY LIFE ===
     daoDoi,               // Ethics (Daily Life)
     chanhNiemHangNgay,    // Mindfulness (Daily Practice)
+    congCuDanhGia,        // Tools (Progress Assessment)
 ]
 
 export {
@@ -56,5 +79,12 @@ export {
     tinhHoaKinhDien,
     khoTangPhapSo,
     daoDoi,
-    chanhNiemHangNgay
+    chanhNiemHangNgay,
+    trangThaiThienSau,
+    congCuDanhGia,
+    nhuLyTacY,
+    thienTriThuc,
+    samvega,
+    muoiKietSu
 }
+

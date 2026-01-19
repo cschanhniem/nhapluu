@@ -24,6 +24,9 @@ export function Footer() {
       <div className="container mx-auto px-4 py-8 text-center text-sm text-muted-foreground">
         <p className="mb-2 font-medium text-foreground">{t('app.tagline')}</p>
         <p className="text-xs">{t('app.community')}</p>
+        <p className="text-xs mt-2 opacity-70">
+          Tác giả: <span className="font-medium">Cư Sĩ Chánh Niệm</span> (Lê Việt Hồng)
+        </p>
         <p className="text-[10px] mt-3 opacity-50" title={`Build: ${__BUILD_TIME__}`}>
           v{__GIT_HASH__} • {formatBuildDate()}
         </p>
