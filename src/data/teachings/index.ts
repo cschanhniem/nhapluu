@@ -13,9 +13,11 @@ import guongSangThanhTang from './guong-sang-thanh-tang'
 import dinhHocTinhHoa from './dinh-hoc-tinh-hoa'
 import tamGioiVuTruQuan from './tam-gioi-vu-tru-quan'
 import tinhHoaKinhDien from './tinh-hoa-kinh-dien'
+import khoTangPhapSo from './kho-tang-phap-so'
 
 export const teachings = [
-    tinhHoaKinhDien,    // Source (Buddhavacana) - NEW
+    khoTangPhapSo,      // Structure (Matrix) - NEW
+    tinhHoaKinhDien,    // Source (Buddhavacana)
     tamGioiVuTruQuan,   // Context (Map of Samsara)
     guongSangThanhTang, // Sangha (Living Proof)
     dinhHocTinhHoa,     // Samadhi (Concentration)
@@ -47,5 +49,6 @@ export {
     guongSangThanhTang,
     dinhHocTinhHoa,
     tamGioiVuTruQuan,
-    tinhHoaKinhDien
+    tinhHoaKinhDien,
+    khoTangPhapSo
 }
