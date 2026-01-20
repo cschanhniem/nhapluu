@@ -22,6 +22,8 @@ import nhuLyTacY from './nhu-ly-tac-y'
 import thienTriThuc from './thien-tri-thuc'
 import samvega from './samvega'
 import muoiKietSu from './muoi-kiet-su'
+import sotapattiSamyutta from './sotapatti-samyutta'
+import anupubbikatha from './anupubbikatha'
 
 export const teachings = [
     // === CRITICAL FOUNDATIONS ===
@@ -29,6 +31,8 @@ export const teachings = [
     thienTriThuc,         // Spiritual Friend (Kalyanamitra)
     samvega,              // Spiritual Urgency
     muoiKietSu,           // 10 Fetters (Map to Liberation)
+    sotapattiSamyutta,    // Stream Entry Suttas (SN 55)
+    anupubbikatha,        // Gradual Training (Path Preparation)
 
     // === CORE TEACHINGS ===
     khoTangPhapSo,        // Structure (Matrix)
@@ -85,6 +89,8 @@ export {
     nhuLyTacY,
     thienTriThuc,
     samvega,
-    muoiKietSu
+    muoiKietSu,
+    sotapattiSamyutta,
+    anupubbikatha
 }
 
