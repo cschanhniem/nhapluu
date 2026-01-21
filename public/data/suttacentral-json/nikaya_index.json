@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "dn1",
+    "title": "Kinh Phạm võng",
+    "paliTitle": "Brahmajālasutta",
+    "blurb": "While others may praise or criticize the Buddha, they tend to focus on trivial details. The Buddha presents an analysis of 62 kinds of wrong view, seeing through which one becomes detached from meaningless speculations.",
+    "difficulty": 3,
+    "collection": "dn"
+  },
+  {
+    "id": "dn2",
+    "title": "Kinh Sa-môn quả",
+    "paliTitle": "Sāmaññaphalasutta",
+    "blurb": "The newly crowned King Ajātasattu is disturbed by the violent means by which he achieved the crown. He visits the Buddha to find peace of mind, and asks him about the benefits of spiritual practice. This is one of the greatest literary and spiritual texts of early Buddhism.",
+    "difficulty": 1,
+    "collection": "dn"
+  },
+  {
+    "id": "dn3",
+    "title": "Kinh Ambaṭṭha (A-ma-trú)",
+    "paliTitle": "Ambaṭṭhasutta",
+    "blurb": "A young brahmin student attacks the Buddha’s family, but is put in his place.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn4",
+    "title": "Kinh Soṇadaṇḍa (Chủng Ðức)",
+    "paliTitle": "Soṇadaṇḍasutta",
+    "blurb": "A reputed brahmin visits the Buddha, despite the reservations of other brahmins. They discuss the true meaning of a brahmin, and the Buddha skillfully draws him around to his own point of view.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn5",
+    "title": "Kinh Kūṭadanta (Cứu-la-đàn-đầu)",
+    "paliTitle": "Kūṭadantasutta",
+    "blurb": "A brahmin wishes to undertake a great sacrifice, and asks for the Buddha’s advice. The Buddha tells a legend of the past, in which a king is persuaded to give up violent sacrifice, and instead to devote his resources to supporting the needy citizens of his realm. However, even such a beneficial and non-violent sacrifice pales in comparison to the spiritual sacrifice of giving up attachments.",
+    "difficulty": 1,
+    "collection": "dn"
+  },
+  {
+    "id": "dn6",
+    "title": "Kinh Mahāli",
+    "paliTitle": "Mahālisutta",
+    "blurb": "The Buddha explains to a diverse group of lay people how the results of meditation depend on the manner of development.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn7",
+    "title": "Kinh Jāliya",
+    "paliTitle": "Jāliyasutta",
+    "blurb": "This discourse is mostly quoted by the Buddha in the previous.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn8",
+    "title": "Kinh Ca-diếp Sư tử hống",
+    "paliTitle": "Mahāsīhanādasutta",
+    "blurb": "The Buddha is challenged by a naked ascetic on the topic of spiritual austerities. He points out that it is quite possible to perform all kinds of austere practices without having any inner purity of mind.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn9",
+    "title": "Kinh Poṭṭhapāda (Bố-sá-bà-lâu)",
+    "paliTitle": "Poṭṭhapādasutta",
+    "blurb": "The Buddha discusses with a wanderer the nature of perception and how it evolves through deeper states of meditation. None of these, however, should be identified with a self or soul.",
+    "difficulty": 3,
+    "collection": "dn"
+  },
+  {
+    "id": "dn10",
+    "title": "Kinh Subha (Tu-bà)",
+    "paliTitle": "Subhasutta",
+    "blurb": "Shortly after the Buddha’s death, Venerable Ānanda is invited to explain the core teachings.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn11",
+    "title": "Kinh Kevaddha (Kiên Cố)",
+    "paliTitle": "Kevaṭṭasutta",
+    "blurb": "The Buddha refuses to perform miracles, explaining that this is not the right way to inspire faith. He goes on to tell the story of a monk whose misguided quest for answers led him as far as Brahmā.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn12",
+    "title": "Kinh Lohicca (Lô-hi-gia)",
+    "paliTitle": "Lohiccasutta",
+    "blurb": "A brahmin has fallen into the idea that there is no point in trying to offer spiritual help to others. The Buddha goes to see him, and persuades him of the genuine benefits of spiritual teaching.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn13",
+    "title": "Kinh Tevijjā (Tam minh)",
+    "paliTitle": "Tevijjasutta",
+    "blurb": "A number of brahmins are discussing the true path to Brahmā. Contesting the claims to authority based on the Vedas, the Buddha insists that only personal experience can lead to the truth.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn14",
+    "title": "Kinh Ðại bổn",
+    "paliTitle": "Mahāpadānasutta",
+    "blurb": "The Buddha teaches about the six Buddhas of the past, and tells a lengthy account of one of those, Vipassī.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn15",
+    "title": "Kinh Ðại duyên",
+    "paliTitle": "Mahānidānasutta",
+    "blurb": "Rejecting Venerable Ānanda’s claim to easily understand dependent origination, the Buddha presents a complex and demanding analysis, revealing hidden nuances and implications of this central teaching.",
+    "difficulty": 3,
+    "collection": "dn"
+  },
+  {
+    "id": "dn16",
+    "title": "Kinh Ðại Bát-Niết-Bàn",
+    "paliTitle": "Mahāparinibbānasutta",
+    "blurb": "The longest of all discourses, this extended narrative tells of the events surrounding the Buddha’s death. Full of vivid and moving details, it is an ideal entry point into knowing the Buddha as a person, and understanding how the Buddhist community coped with his passing.",
+    "difficulty": 1,
+    "collection": "dn"
+  },
+  {
+    "id": "dn17",
+    "title": "Kinh Ðại Thiện Kiến vương",
+    "paliTitle": "Mahāsudassanasutta",
+    "blurb": "An elaborate story of a past life of the Buddha as a legendary king who renounced all to practice meditation.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn18",
+    "title": "Kinh Xa-ni-sa",
+    "paliTitle": "Janavasabhasutta",
+    "blurb": "Beginning with an account of the fates of disciples who had recently passed away, the scene shifts to a discussion of Dhamma held by the gods.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn19",
+    "title": "Kinh Ðại Ðiển Tôn",
+    "paliTitle": "Mahāgovindasutta",
+    "blurb": "A minor deity informs the Buddha of the conversations and business of the gods.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn20",
+    "title": "Kinh Ðại hội",
+    "paliTitle": "Mahāsamayasutta",
+    "blurb": "When deities from all realms gather in homage to the Buddha, he gives a series of verses describing them. These verses, which are commonly chanted in Theravadin countries, give one of the most detailed descriptions of the deities worshiped at the the time of the Buddha.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn21",
+    "title": "Kinh Ðế-thích sở vấn",
+    "paliTitle": "Sakkapañhasutta",
+    "blurb": "After hearing a love song from a god of music, the Buddha engages in a deep discussion with Sakka on the conditioned origin of attachment and suffering.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn22",
+    "title": "Kinh Ðại Niệm xứ",
+    "paliTitle": "Mahāsatipaṭṭhānasutta",
+    "blurb": "The Buddha details the seventh factor of the noble eightfold path, mindfulness meditation. This discourse is essentially identical to MN 10, with the addition of an extended section on the four noble truths derived from MN 141.",
+    "difficulty": 3,
+    "collection": "dn"
+  },
+  {
+    "id": "dn23",
+    "title": "Kinh Tệ-túc",
+    "paliTitle": "Pāyāsisutta",
+    "blurb": "This is a long and entertaining debate between a monk and a skeptic, who went to elaborate and bizarre lengths to prove that there is no such thing as an afterlife. The discourse contains a colorful series of parables and examples.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn24",
+    "title": "Kinh Ba-lê",
+    "paliTitle": "Pāthikasutta",
+    "blurb": "When Sunakkhatta threatens to disrobe, the Buddha is unimpressed. Rejecting showy displays of asceticism or wondrous powers, he demonstrates his pre-eminence.",
+    "difficulty": 3,
+    "collection": "dn"
+  },
+  {
+    "id": "dn25",
+    "title": "Kinh Ưu-đàm-bà-la sư tử hống",
+    "paliTitle": "Udumbarikasutta",
+    "blurb": "This discourse gives a specially good example of dialog between religions. The Buddha insists that he is not interested to make anyone give up their teacher or practices, but only to help people let go of suffering.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn26",
+    "title": "Kinh Chuyển luân Thánh vương Sư tử hống",
+    "paliTitle": "Cakkavattisutta",
+    "blurb": "In illustration of his dictum that one should rely on oneself, the Buddha gives a detailed account of the fall of a kingly lineage of the past, and the subsequent degeneration of society. This process, however, is not over, as the Buddha predicts that eventually society will fall into utter chaos. But far in the future, another Buddha, Metteyya, will arise in a time of peace and plenty.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn27",
+    "title": "Kinh Khởi thế nhân bổn",
+    "paliTitle": "Aggaññasutta",
+    "blurb": "In contrast with the brahmin’s self-serving mythologies of the past, the Buddha presents an account of evolution that shows how human choices are an integral part of the ecological balance, and how excessive greed destroys the order of nature.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn28",
+    "title": "Kinh Tự hoan hỷ",
+    "paliTitle": "Sampasādanīyasutta",
+    "blurb": "Shortly before he passes away, Venerable Sāriputta visits the Buddha and utters a moving eulogy of his great teacher.",
+    "difficulty": 1,
+    "collection": "dn"
+  },
+  {
+    "id": "dn29",
+    "title": "Kinh Thanh tịnh",
+    "paliTitle": "Pāsādikasutta",
+    "blurb": "Following the death of Nigaṇṭha Nātaputta, the leader of the Jains, the Buddha emphasizes the stability and maturity of his own community. He encourages the community to come together after his death and recite the teachings in harmony.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn30",
+    "title": "Kinh Tướng",
+    "paliTitle": "Lakkhaṇasutta",
+    "blurb": "This presents the brahmanical prophecy of the Great Man, and explains the 32 marks in detail. This discourse contains some of the latest and most complex verse forms in the canon.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn31",
+    "title": "Kinh Giáo thọ Thi-ca-la-việt",
+    "paliTitle": "Siṅgālasutta",
+    "blurb": "The Buddha encounters a young man who honors his dead father by performing rituals. The Buddha recasts the meaningless rites in terms of virtuous conduct. This is the most detailed discourse on ethics for lay people.",
+    "difficulty": 1,
+    "collection": "dn"
+  },
+  {
+    "id": "dn32",
+    "title": "Kinh A-sá-nang-chi",
+    "paliTitle": "Āṭānāṭiyasutta",
+    "blurb": "Mighty spirits hold a congregation, and warn the Buddha that, since not all spirits are friendly, the mendicants should learn verses of protection.",
+    "difficulty": 2,
+    "collection": "dn"
+  },
+  {
+    "id": "dn33",
+    "title": "Kinh Phúng tụng",
+    "paliTitle": "Saṅgītisutta",
+    "blurb": "The Buddha encourages Venerable Sāriputta to teach the mendicants, and he offers an extended listing of Buddhist doctrines arranged in numerical sequence.",
+    "difficulty": 3,
+    "collection": "dn"
+  },
+  {
+    "id": "dn34",
+    "title": "Kinh Thập thượng",
+    "paliTitle": "Dasuttarasutta",
+    "blurb": "This is similar to the previous, but with a different manner of exposition. These two discourses anticipate some of the methods of the Abhidhamma.",
+    "difficulty": 3,
+    "collection": "dn"
+  },
+  {
+    "id": "mn1",
+    "title": "Kinh Pháp Môn Căn Bản",
+    "paliTitle": "Mūlapariyāyasutta",
+    "blurb": "The Buddha examines how the notion of a permanent self emerges from the process of perception. A wide range of phenomena are considered, embracing both naturalistic and cosmological dimensions. An unawakened person interprets experience in terms of a self, while those more advanced have the same experiences without attachment.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn2",
+    "title": "Kinh Tất cả các lậu hoặc",
+    "paliTitle": "Sabbāsavasutta",
+    "blurb": "The diverse problems of the spiritual journey demand a diverse range of responses. Rather than applying the same solution to every problem, the Buddha outlines seven methods of dealing with defilements, each of which works in certain cases.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn3",
+    "title": "Kinh thừa tự Pháp",
+    "paliTitle": "Dhammadāyādasutta",
+    "blurb": "Some of the Buddha’s students inherit from him only material profits and fame. But his true inheritance is the spiritual path, the way of contentment. Venerable Sāriputta explains how by following the Buddha’s example we can experience the fruits of the path.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn4",
+    "title": "Kinh Sợ hãi khiếp đảm",
+    "paliTitle": "Bhayabheravasutta",
+    "blurb": "The Buddha explains the difficulties of living in the wilderness, and how they are overcome by purity of conduct and meditation. He recounts some of the fears and obstacles he faced during his own practice.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn5",
+    "title": "Kinh Không uế nhiễm",
+    "paliTitle": "Anaṅgaṇasutta",
+    "blurb": "The Buddha’s chief disciples, Sāriputta and Moggallāna, use a simile of a tarnished bowl to illustrate the blemishes of the mind and conduct. They emphasize how the crucial thing is not so much whether there are blemishes, but whether we are aware of them.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn6",
+    "title": "Kinh Ước nguyện",
+    "paliTitle": "Ākaṅkheyyasutta",
+    "blurb": "According to the Buddha, careful observance of ethical precepts is the foundation of all higher achievements in the spiritual life.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn7",
+    "title": "Kinh Ví dụ tấm vải",
+    "paliTitle": "Vatthasutta",
+    "blurb": "The many different kinds of impurities that defile the mind are compared to a dirty cloth. When the mind is clean we find joy, which leads to states of higher consciousness. Finally, the Buddha rejects the Brahmanical notion that purity comes from bathing in sacred rivers.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn8",
+    "title": "Kinh Ðoạn giảm",
+    "paliTitle": "Sallekhasutta",
+    "blurb": "The Buddha differentiates between peaceful meditation and spiritual practices that encompass the whole of life. He lists forty-four aspects, which he explains as “effacement”, the wearing away of conceit.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn9",
+    "title": "Kinh Chánh tri kiến",
+    "paliTitle": "Sammādiṭṭhisutta",
+    "blurb": "Venerable Sāriputta gives a detailed explanation of right view, the first factor of the noble eightfold path. At the prompting of the other mendicants, he approaches the topic from a wide range of perspectives.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn10",
+    "title": "Kinh Niệm xứ",
+    "paliTitle": "Mahāsatipaṭṭhānasutta",
+    "blurb": "Here the Buddha details the seventh factor of the noble eightfold path, mindfulness meditation. This collects many of the meditation teachings found throughout the canon, especially the foundational practices focusing on the body, and is regarded as one of the most important meditation discourses.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn11",
+    "title": "Tiểu kinh Sư tử hống",
+    "paliTitle": "Cūḷasīhanādasutta",
+    "blurb": "The Buddha declares that only those following his path can genuinely experience the four stages of awakening. This is because, while much is shared with other systems, none of them go so far as to fully reject all attachment to the idea of a self.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn12",
+    "title": "Ðại kinh Sư tử hống",
+    "paliTitle": "Mahāsīhanādasutta",
+    "blurb": "A disrobed monk, Sunakkhatta, attacks the Buddha’s teaching because it merely leads to the end of suffering. The Buddha counters that this is, in fact, praise, and goes on to enumerate his many profound and powerful achievements.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn13",
+    "title": "Ðại kinh Khổ uẩn",
+    "paliTitle": "Mahādukkhakkhandhasutta",
+    "blurb": "Challenged to show the difference between his teaching and that of other ascetics, the Buddha points out that they speak of letting go, but do not really understand why. He then explains in great detail the suffering that arises from attachment to sensual stimulation.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn14",
+    "title": "Tiểu kinh Khổ uẩn",
+    "paliTitle": "Cūḷadukkhakkhandhasutta",
+    "blurb": "A lay person is puzzled at how, despite their long practice, they still have greedy or hateful thoughts. The Buddha explains the importance of absorption meditation for letting go such attachments. But he also criticizes self-mortification, and recounts a previous dialog with Jain ascetics.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn15",
+    "title": "Kinh Tư lượng",
+    "paliTitle": "Anumānasutta",
+    "blurb": "Venerable Moggallāna raises the topic of admonishment, without which healthy community is not possible. He lists a number of qualities that will encourage others to think it worthwhile to admonish you in a constructive way.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn16",
+    "title": "Kinh Tâm hoang vu",
+    "paliTitle": "Cetokhilasutta",
+    "blurb": "The Buddha explains various ways one can become emotionally cut off from one’s spiritual community.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn17",
+    "title": "Kinh Khu rừng",
+    "paliTitle": "Vanapatthasutta",
+    "blurb": "While living in the wilderness is great, not everyone is ready for it. The Buddha encourages meditators to reflect on whether one’s environment is genuinely supporting their meditation practice, and if not, to leave.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn18",
+    "title": "Kinh Mật hoàn",
+    "paliTitle": "Madhupiṇḍikasutta",
+    "blurb": "Challenged by a brahmin, the Buddha gives an enigmatic response on how conflict arises due to proliferation based on perceptions. Venerable Kaccāna draws out the detailed implications of this in one of the most insightful passages in the entire canon.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn19",
+    "title": "Kinh Song tầm",
+    "paliTitle": "Dvedhāvitakkasutta",
+    "blurb": "Recounting his own experiences in developing meditation, the Buddha explains how to understand harmful and harmless thoughts, and how to go beyond thought altogether.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn20",
+    "title": "Kinh An trú tầm",
+    "paliTitle": "Vitakkasaṇṭhānasutta",
+    "blurb": "In a practical meditation teaching, the Buddha describes five different approaches to stopping thoughts.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn21",
+    "title": "Kinh Ví dụ cái cưa",
+    "paliTitle": "Kakacūpamasutta",
+    "blurb": "A discourse full of vibrant and memorable similes, on the importance of patience and love even when faced with abuse and criticism. The Buddha finishes with the simile of the saw, one of the most memorable similes found in the discourses.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn22",
+    "title": "Kinh Ví dụ con rắn",
+    "paliTitle": "Alagaddūpamasutta",
+    "blurb": "One of the monks denies that prohibited conduct is really a problem. The monks and then the Buddha subject him to an impressive dressing down. The Buddha compares someone who understands only the letter of the teachings to someone who grabs a snake by the tail, and also invokes the famous simile of the raft.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn23",
+    "title": "Kinh Gò mối",
+    "paliTitle": "Vammikasutta",
+    "blurb": "In a curious discourse laden with evocative imagery, a deity presents a riddle to a mendicant, who seeks an answer from the Buddha.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn24",
+    "title": "Kinh Trạm xe",
+    "paliTitle": "Rathavinītasutta",
+    "blurb": "Venerable Sāriputta seeks a dialog with an esteemed monk, Venerable Puṇṇa Mantāniputta, and they discuss the stages of purification.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn25",
+    "title": "Kinh Bẫy mồi",
+    "paliTitle": "Nivāpasutta",
+    "blurb": "The Buddha compares getting trapped by Māra with a deer getting caught in a snare, illustrating the ever more complex strategies employed by hunter and hunted.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn26",
+    "title": "Kinh Thánh cầu",
+    "paliTitle": "Pāsarāsisutta",
+    "blurb": "This is one of the most important biographical discourses, telling the Buddha’s experiences from leaving home to realizing awakening. Throughout, he was driven by the imperative to fully escape from rebirth and suffering.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn27",
+    "title": "Tiểu kinh Dụ dấu chân voi",
+    "paliTitle": "Cūḷahatthipadopamasutta",
+    "blurb": "The Buddha cautions against swift conclusions about a teacher’s spiritual accomplishments, comparing it to the care a tracker would use when tracking elephants. He presents the full training of a monastic.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn28",
+    "title": "Ðại kinh Dụ dấu chân voi",
+    "paliTitle": "Mahāhatthipadopamasutta",
+    "blurb": "Sāriputta gives an elaborate demonstration of how, just as any footprint can fit inside an elephant’s, all the Buddha’s teaching can fit inside the four noble truths. This offers an overall template for organizing the Buddha’s teachings.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn29",
+    "title": "Ðại kinh Thí dụ Lõi cây",
+    "paliTitle": "Mahāsāropamasutta",
+    "blurb": "Following the incident with Devadatta, the Buddha cautions the mendicants against becoming complacent with superficial benefits of spiritual life and points to liberation as the true heart of the teaching.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn30",
+    "title": "Tiểu kinh Dụ lõi cây",
+    "paliTitle": "Cūḷasāropamasutta",
+    "blurb": "Similar to the previous. After the incident with Devadatta, the Buddha cautions the mendicants against becoming complacent and points to liberation as the true heart of the teaching.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn31",
+    "title": "Tiểu kinh Rừng sừng bò",
+    "paliTitle": "Cūḷagosiṅgasutta",
+    "blurb": "The Buddha comes across three mendicants practicing diligently and harmoniously, and asks them how they do it. Reluctant to disclose their higher attainments, they explain how they deal with the practical affairs of living together. But when pressed by the Buddha, they reveal their meditation attainments.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn32",
+    "title": "Ðại kinh Rừng sừng bò",
+    "paliTitle": "Mahāgosiṅgasutta",
+    "blurb": "Several senior mendicants, reveling in the beauty of the night, discuss what kind of practitioner would adorn the park. They take their answers to the Buddha, who praises their answers, but gives his own twist.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn33",
+    "title": "Ðại kinh Người chăn bò",
+    "paliTitle": "Mahāgopālakasutta",
+    "blurb": "For eleven reasons a cowherd is not able to properly look after a herd. The Buddha compares this to the spiritual growth of a mendicant.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn34",
+    "title": "Tiểu kinh Người chăn bò",
+    "paliTitle": "Cūḷagopālakasutta",
+    "blurb": "Drawing parallels with a cowherd guiding his herd across a dangerous river, the Buddha presents the various kinds of enlightened disciples who cross the stream of transmigration.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn35",
+    "title": "Tiểu kinh Saccaka",
+    "paliTitle": "Cūḷasaccakasutta",
+    "blurb": "Saccaka was a debater, who challenged the Buddha to a contest. Despite his bragging, the Buddha is not at all perturbed at his attacks.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn36",
+    "title": "Ðại kinh Saccaka",
+    "paliTitle": "Mahāsaccakasutta",
+    "blurb": "In a less confrontational meeting, the Buddha and Saccaka discuss the difference between physical and mental development. The Buddha gives a long account of the various practices he did before awakening, detailing the astonishing lengths he took to mortify the body.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn37",
+    "title": "Tiểu kinh Ðoạn tận ái",
+    "paliTitle": "Cūḷataṇhāsaṅkhayasutta",
+    "blurb": "Moggallāna visits the heaven of Sakka, the lord of gods, to see whether he really understands what the Buddha is teaching.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn38",
+    "title": "Ðại kinh Ðoạn tận ái",
+    "paliTitle": "Mahātaṇhāsaṅkhayasutta",
+    "blurb": "To counter the wrong view that a self-identical consciousness transmigrates from one life to the next, the Buddha teaches dependent origination, showing that consciousness invariably arises dependent on conditions.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn39",
+    "title": "Ðại kinh Xóm ngựa",
+    "paliTitle": "Mahāassapurasutta",
+    "blurb": "The Buddha encourages the mendicants to live up to their name, by actually practicing in a way that meets or exceeds the expectations people have for renunciants.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn40",
+    "title": "Tiểu kinh Xóm ngựa",
+    "paliTitle": "Cūḷaassapurasutta",
+    "blurb": "The labels of being a spiritual practitioner don’t just come from external trappings, but from sincere inner change.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn41",
+    "title": "Kinh Sàleyyaka",
+    "paliTitle": "Sāleyyakasutta",
+    "blurb": "The Buddha explains to a group of brahmins the conduct leading to rebirth in higher or lower states, including detailed explanations of the ten core practices which lay people should undertake, and which also form the basis for liberation.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn42",
+    "title": "Kinh Veranjaka",
+    "paliTitle": "Verañjakasutta",
+    "blurb": "Similar to the previous. The Buddha explains the conduct leading to rebirth in higher or lower states, including detailed explanations of the ten core practices.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn43",
+    "title": "Ðại kinh Phương quảng",
+    "paliTitle": "Mahāvedallasutta",
+    "blurb": "A series of questions and answers between Sāriputta and Mahākoṭṭhita, examining various subtle and abstruse aspects of the teachings.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn44",
+    "title": "Tiểu kinh Phương quảng",
+    "paliTitle": "Cūḷavedallasutta",
+    "blurb": "The layman Visākha asks the nun Dhammadinnā about various difficult matters, including some of the highest meditation attainments. The Buddha fully endorses her answers.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn45",
+    "title": "Tiểu kinh Pháp hành",
+    "paliTitle": "Cūḷadhammasamādānasutta",
+    "blurb": "The Buddha explains how taking up different practices may have harmful or beneficial results. The memorable simile of the creeper shows how insidious temptations can be.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn46",
+    "title": "Ðại kinh Pháp hành",
+    "paliTitle": "Mahādhammasamādānasutta",
+    "blurb": "While we all want to be happy, we often find the opposite happens. The Buddha explains why.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn47",
+    "title": "Kinh Tư sát",
+    "paliTitle": "Vīmaṁsakasutta",
+    "blurb": "While some spiritual teachers prefer to remain in obscurity, the Buddha not only encouraged his followers to closely investigate him, but gave them a detailed and demanding method to do so.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn48",
+    "title": "Kinh Kosambiya",
+    "paliTitle": "Kosambiyasutta",
+    "blurb": "Despite the Buddha’s presence, the monks of Kosambi fell into a deep and bitter dispute. The Buddha taught the reluctant monks to develop love and harmony, reminding them of the state of peace that they sought.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn49",
+    "title": "Kinh Phạm Thiên cầu thỉnh",
+    "paliTitle": "Brahmanimantanikasutta",
+    "blurb": "The Buddha ascends to a high heavenly realm where he engages in a cosmic contest with a powerful divinity, who had fallen into the delusion that he was eternal and all-powerful.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn50",
+    "title": "Kinh Hàng ma",
+    "paliTitle": "Māratajjanīyasutta",
+    "blurb": "Māra, the trickster and god of death, tried to annoy Moggallāna. He not only failed but was subject to a stern sermon warning of the dangers of attacking the Buddha’s disciples.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn51",
+    "title": "Kinh Kandaraka",
+    "paliTitle": "Kandarakasutta",
+    "blurb": "The Buddha discusses mindfulness meditation with lay practitioners. Contrasting the openness of animals with the duplicity of humans, he explains how to practice in a way that causes no harm to oneself or others.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn52",
+    "title": "Kinh Bát thành",
+    "paliTitle": "Aṭṭhakanāgarasutta",
+    "blurb": "Asked by a householder to teach a path to freedom, Venerable Ānanda explains no less than eleven meditative states that may serve as doors to the deathless.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn53",
+    "title": "Kinh Hữu học",
+    "paliTitle": "Sekhasutta",
+    "blurb": "The Buddha is invited by his family, the Sakyans of Kapilavatthu, to inaugurate a new community hall. He invites Venerable Ānanda to explain in detail the stages of spiritual practice for a lay trainee.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn54",
+    "title": "Kinh Potaliya",
+    "paliTitle": "Potaliyasutta",
+    "blurb": "When Potaliya got upset at being referred to as “householder”, the Buddha quizzed him as to the true nature of attachment and renunciation.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn55",
+    "title": "Kinh Jìvaka",
+    "paliTitle": "Jīvakasutta",
+    "blurb": "The Buddha’s personal doctor, Jīvaka, hears criticisms of the Buddha’s policy regarding eating meat, and asks him about it.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn56",
+    "title": "Kinh Ưu-ba-ly",
+    "paliTitle": "Upālisutta",
+    "blurb": "The Buddha disagrees with a Jain ascetic on the question of whether physical or mental deeds are more important. When he hears of this, the Jain disciple Upāli decides to visit the Buddha and refute him, and proceeds despite all warnings.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn57",
+    "title": "Kinh Hạnh con chó",
+    "paliTitle": "Kukkuravatikasutta",
+    "blurb": "Some ascetics in ancient India undertook extreme practices, such as a vow to behave like an ox or a dog. The Buddha meets two such individuals, and is reluctantly pressed to reveal the kammic outcomes of such practice.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn58",
+    "title": "Kinh Vương tử Vô Úy",
+    "paliTitle": "Abhayarājakumārasutta",
+    "blurb": "The leader of the Jains, Nigaṇṭha Nātaputta, gives his disciple Prince Abhaya a dilemma to pose to the Buddha, supposing that this will show his weakness. Things don’t go quite as planned.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn59",
+    "title": "Kinh Nhiều cảm thọ",
+    "paliTitle": "Bahuvedanīyasutta",
+    "blurb": "The Buddha resolves a disagreement on the number of kinds of feelings that he taught, pointing out that different ways of teaching are appropriate in different contexts, and should not be a cause of disputes. He goes on to show the importance of pleasure in developing higher meditation.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn60",
+    "title": "Kinh Không gì chuyển hướng",
+    "paliTitle": "Apaṇṇakasutta",
+    "blurb": "The Buddha teaches a group of uncommitted householders how to use a rational reflection to arrive at practices and principles that are guaranteed to have a good outcome, even if we don’t know all the variables.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn61",
+    "title": "Kinh Giáo giới La-hầu-la ở rừng Āmala",
+    "paliTitle": "Ambalaṭṭhikarāhulovādasutta",
+    "blurb": "Using the “object lesson” of a cup of water, the Buddha explains to his son, Rāhula, the importance of telling the truth and reflecting on one’s motives.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn62",
+    "title": "Ðại kinh Giáo giới La-hầu-la",
+    "paliTitle": "Mahārāhulovādasutta",
+    "blurb": "The Buddha tells Rāhula to meditate on not-self, which he immediately puts into practice. Seeing him, Venerable Sāriputta advises him to develop breath meditation, but the Buddha suggests a wide range of different practices first.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn63",
+    "title": "Tiểu kinh Màlunkyà",
+    "paliTitle": "Cūḷamālukyasutta",
+    "blurb": "A monk demands that the Buddha answer his metaphysical questions, or else he will disrobe. The Buddha compares him to a man struck by an arrow, who refuses treatment until he can have all his questions about the arrow and the archer answered.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn64",
+    "title": "Ðại kinh Màlunkyà",
+    "paliTitle": "Mahāmālukyasutta",
+    "blurb": "A little baby has no wrong views or intentions, but the underlying tendency for these things is still there. Without practicing, they will inevitably recur.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn65",
+    "title": "Kinh Bhaddàli",
+    "paliTitle": "Bhaddālisutta",
+    "blurb": "A monk refuses to follow the rule forbidding eating after noon, but is filled with remorse and forgiven.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn66",
+    "title": "Kinh Ví dụ Con chim cáy",
+    "paliTitle": "Laṭukikopamasutta",
+    "blurb": "Again raising the rule regarding eating, but this time as a reflection of gratitude for the Buddha in eliminating things that cause complexity and stress. The Buddha emphasizes how attachment even to little things can be dangerous.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn67",
+    "title": "Kinh Càtumà",
+    "paliTitle": "Cātumasutta",
+    "blurb": "After dismissing some unruly monks, the Buddha is persuaded to relent, and teaches them four dangers for those gone forth.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn68",
+    "title": "Kinh Nalakapāna",
+    "paliTitle": "Naḷakapānasutta",
+    "blurb": "Those who practice do so not because they are failures, but because they aspire to higher freedom. When he speaks of the attainments of disciples, the Buddha does so in order to inspire.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn69",
+    "title": "Kinh Gulisàni",
+    "paliTitle": "Goliyānisutta",
+    "blurb": "A monk comes down to the community from the wilderness, but doesn’t behave properly. Venerable Sāriputta explains how a mendicant should behave, whether in forest or town.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn70",
+    "title": "Kinh Kìtàgiri",
+    "paliTitle": "Kīṭāgirisutta",
+    "blurb": "A third discourse that presents the health benefits of eating in one part of the day, and the reluctance of some mendicants to follow this.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn71",
+    "title": "Kinh Dạy Vacchagotta về Tam Minh",
+    "paliTitle": "Tevijjavacchasutta",
+    "blurb": "The Buddha denies being omniscient, and sets forth the three higher knowledges that form the core of his awakened insight.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn72",
+    "title": "Kinh Dạy Vacchagotta về Lửa",
+    "paliTitle": "Aggivacchasutta",
+    "blurb": "Refusing to take a stance regarding useless metaphysical speculations, the Buddha illustrates the spiritual goal with the simile of a flame going out.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn73",
+    "title": "Ðại kinh Vaccaghotta",
+    "paliTitle": "Mahāvacchasutta",
+    "blurb": "In the final installment of the “Vacchagotta trilogy”, Vacchagotta lets go his obsession with meaningless speculation, and asks about practice.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn74",
+    "title": "Kinh Trường Trảo",
+    "paliTitle": "Dīghanakhasutta",
+    "blurb": "Deftly outmaneuvering an extreme skeptic, the Buddha discusses the outcomes of belief and disbelief. Rather than getting stuck in abstractions, he encourages staying close to the feelings one experiences.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn75",
+    "title": "Kinh Māgandiya",
+    "paliTitle": "Māgaṇḍiyasutta",
+    "blurb": "Accused by a hedonist of being too negative, the Buddha recounts the luxury of his upbringing, and his realization of how little value there was in such things. Through renunciation he found a far greater pleasure.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn76",
+    "title": "Kinh Sandaka",
+    "paliTitle": "Sandakasutta",
+    "blurb": "Venerable Ānanda teaches a group of wanderers how there are many different approaches to the spiritual life, many of which lead nowhere.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn77",
+    "title": "Ðại kinh Sakaludāyin",
+    "paliTitle": "Mahāsakuludāyisutta",
+    "blurb": "Unlike many teachers, the Buddha’s followers treat him with genuine love and respect, since they see the sincerity of his teaching and practice.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn78",
+    "title": "Kinh Samanamandikà",
+    "paliTitle": "Samaṇamuṇḍikasutta",
+    "blurb": "A wanderer teaches that a person has reached the highest attainment when they keep four basic ethical precepts. The Buddha’s standards are considerably higher.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn79",
+    "title": "Tiểu kinh Sakuludayi (Thiện sanh Ưu đà di)",
+    "paliTitle": "Cūḷasakuludāyisutta",
+    "blurb": "A wanderer teaches his doctrine of the “highest splendor” but is unable to give a satisfactory account of what that means. The Buddha memorably compares him to someone who is in love with an idealized women who he has never met.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn80",
+    "title": "Kinh Vekhanassa",
+    "paliTitle": "Vekhanasasutta",
+    "blurb": "Starting off similar to the previous, the Buddha goes on to explain that one is not converted to his teaching just because of clever arguments, but because you see in yourself the results of the practice.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn81",
+    "title": "Kinh Ghaṭikāra",
+    "paliTitle": "Ghaṭikārasutta",
+    "blurb": "The Buddha relates an unusual account of a past life in the time of the previous Buddha, Kassapa. At that time he was not interested in Dhamma, and had to be forced to go see the Buddha. This discourse is important in understanding the development of the Bodhisattva doctrine.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn82",
+    "title": "Kinh Raṭṭḥapāla",
+    "paliTitle": "Raṭṭhapālasutta",
+    "blurb": "A wealthy young man, Raṭṭhapāla, has a strong aspiration to go forth, but has to prevail against the reluctance of his parents. Even after he became a monk, his parents tried to persuade him to disrobe. The discourse ends with a moving series of teachings on the fragility of the world.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn83",
+    "title": "Kinh Makhàdeva",
+    "paliTitle": "Maghadevasutta",
+    "blurb": "A rare extended mythic narrative, telling of an ancient kingly lineage and their eventual downfall.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn84",
+    "title": "Kinh Madhurà",
+    "paliTitle": "Madhurasutta",
+    "blurb": "In Madhurā, towards the north-eastern limit of the Buddha’s reach during his life, King Avantiputta asks Venerable Mahākaccāna regarding the brahmanical claim to be the highest caste.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn85",
+    "title": "Kinh Vương tử Bồ-đề",
+    "paliTitle": "Bodhirājakumārasutta",
+    "blurb": "Admitting that he used to believe that pleasure was to be gained through pain, the Buddha explains how his practice showed him the fallacy of that idea.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn86",
+    "title": "Kinh Angulimàla",
+    "paliTitle": "Aṅgulimālasutta",
+    "blurb": "Ignoring warnings, the Buddha ventures into the domain of the notorious killer Aṅgulimāla and succeeds in converting him to the path of non-violence. After becoming a monk Aṅgulimāla still suffered for his past deeds, but only to a small extent. He uses his new commitment to non-violence to help a woman in labor.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn87",
+    "title": "Kinh Ái sanh",
+    "paliTitle": "Piyajātikasutta",
+    "blurb": "A rare glimpse into the marital life of King Pasenadi, and how he is led to the Dhamma by his Queen, the incomparable Mallikā. She confirms the Buddha’s teaching that our loved ones bring us sorrow; but that’s not something a husband, father, and king wants to hear.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn88",
+    "title": "Kinh Bàhitika",
+    "paliTitle": "Bāhitikasutta",
+    "blurb": "King Pasenadi takes a chance to visit Venerable Ānanda, where he asks about skillful and unskillful behavior, and what is praised by the Buddha. He offers Ānanda a valuable cloth in gratitude.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn89",
+    "title": "Kinh Pháp trang nghiêm",
+    "paliTitle": "Dhammacetiyasutta",
+    "blurb": "King Pasenadi, near the end of his life, visits the Buddha, and shows moving devotion and love for his teacher.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn90",
+    "title": "Kinh Kaṇṇakatthala",
+    "paliTitle": "Kaṇṇakatthalasutta",
+    "blurb": "King Pasenadi questions the Buddha on miscellaneous matters: caste, omniscience, and the gods among them.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn91",
+    "title": "Kinh Brahmàyu",
+    "paliTitle": "Brahmāyusutta",
+    "blurb": "The oldest and most respected brahmin of the age sends a student to examine the Buddha, and he spends several months following his every move before reporting back. Convinced that the Buddha fulfills an ancient prophecy of the Great Man, the brahmin becomes his disciple.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn92",
+    "title": "Kinh Sela",
+    "paliTitle": "Selasutta",
+    "blurb": "A brahmanical ascetic named Keṇiya invites the entire Saṅgha for a meal. When the brahmin Sela sees what is happening, he visits the Buddha and expresses his delight in a moving series of devotional verses.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn93",
+    "title": "Kinh Assalāyana",
+    "paliTitle": "Assalāyanasutta",
+    "blurb": "A precocious brahmin student is encouraged against his wishes to challenge the Buddha on the question of caste. His reluctance turns out to be justified.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn94",
+    "title": "Kinh Ghotamukha",
+    "paliTitle": "Ghoṭamukhasutta",
+    "blurb": "A brahmin denies that there is such a thing as a principled renunciate life, but Venerable Udena persuades him otherwise.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn95",
+    "title": "Kinh Cankì",
+    "paliTitle": "Caṅkīsutta",
+    "blurb": "The reputed brahmin Caṅkī goes with a large group to visit the Buddha, despite the reservations of other brahmins. A precocious student challenges the Buddha, affirming the validity of the Vedic scriptures. The Buddha gives a detailed explanation of how true understanding gradually emerges through spiritual education.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn96",
+    "title": "Kinh Esukàrì",
+    "paliTitle": "Esukārīsutta",
+    "blurb": "A brahmin claims that one deserves service and privilege depending on caste, but the Buddha counters that it is conduct, not caste, that show a person’s worth.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn97",
+    "title": "Kinh Dhànanjàni",
+    "paliTitle": "Dhanañjānisutta",
+    "blurb": "A corrupt tax-collector is redeemed by his encounter with Venerable Sāriputta.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn98",
+    "title": "Kinh Vāsaṭṭha",
+    "paliTitle": "Vāseṭṭhasutta",
+    "blurb": "Two brahmin students ask the Buddha about what makes a brahmin: birth or deeds? the Buddha points out that, while the species of animals are determined by birth, for humans what matters is how you chose to live. This discourse anticipates the modern view that there are no such things as clearly defined racial differences among humans.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn99",
+    "title": "Kinh Subha",
+    "paliTitle": "Subhasutta",
+    "blurb": "Working hard is not valuable in and of itself; what matters is the outcome. And just as in lay life, spiritual practice may or may not lead to fruitful results.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn100",
+    "title": "Kinh Sangàrava",
+    "paliTitle": "Saṅgāravasutta",
+    "blurb": "Angered by the devotion of a brahmin lady, a brahmin visits the Buddha. He positions himself against traditionalists and rationalists, as someone whose teaching is based on direct experience.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn101",
+    "title": "Kinh Devadaha",
+    "paliTitle": "Devadahasutta",
+    "blurb": "The Buddha tackles a group of Jain ascetics, pressing them on their claim to be practicing to end all suffering by self-mortification. He points out a series of fallacies in their logic, and explains his own middle way.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn102",
+    "title": "Kinh Năm và Ba",
+    "paliTitle": "Pañcattayasutta",
+    "blurb": "A middle length version of the more famous Brahmajāla Sutta (DN1), this surveys a range of speculative views and dismisses them all.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn103",
+    "title": "Kinh Nghĩ như thế nào?",
+    "paliTitle": "Kintisutta",
+    "blurb": "The Buddha teaches the monks to not dispute about the fundamental teachings, but to always strive for harmony.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn104",
+    "title": "Kinh Làng Sama",
+    "paliTitle": "Sāmagāmasutta",
+    "blurb": "Hearing of the death of the Jain leader Nigaṇṭha Nātaputta, the Buddha encourages the Saṅgha to swiftly resolve any disputes. He lays down a series of seven methods for resolving disputes. These form the foundation for the monastic code.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn105",
+    "title": "Kinh Thiện tinh",
+    "paliTitle": "Sunakkhattasutta",
+    "blurb": "Not all of those who claim to be awakened are genuine. The Buddha teaches how true spiritual progress depends on an irreversible letting go of the forces that lead to suffering.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn106",
+    "title": "Kinh Bất động lợi ích",
+    "paliTitle": "Āneñjasappāyasutta",
+    "blurb": "Beginning with profound meditation absorption, the Buddha goes on to deeper and deeper levels, showing how insight on this basis leads to the detaching of consciousness from any form of rebirth.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn107",
+    "title": "Kinh Ganaka Moggallāna",
+    "paliTitle": "Gaṇakamoggallānasutta",
+    "blurb": "The Buddha compares the training of an accountant with the step by step spiritual path of his followers. But even with such a well explained path, the Buddha can only show the way, and it is up to us to walk it.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn108",
+    "title": "Kinh Gopaka Moggallāna",
+    "paliTitle": "Gopakamoggallānasutta",
+    "blurb": "Amid rising military tensions after the Buddha’s death, Venerable Ānanda is questioned about how the Saṅgha planned to continue in their teacher’s absence. As the Buddha refused to appoint a successor, the teaching and practice that he laid down become the teacher, and the Saṅgha resolves issues by consensus.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn109",
+    "title": "Ðại kinh Mãn nguyệt",
+    "paliTitle": "Mahāpuṇṇamasutta",
+    "blurb": "On a lovely full moon night, one of the mendicants presents the Buddha with a series of questions that go to the heart of the teaching. But when he hears of the doctrine of not-self, another mendicant is unable to grasp the meaning.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn110",
+    "title": "Tiểu kinh Mãn nguyệt",
+    "paliTitle": "Cūḷapuṇṇamasutta",
+    "blurb": "A good person is able to understand a bad person, but not vice versa.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn111",
+    "title": "Kinh Bất đoạn",
+    "paliTitle": "Anupadasutta",
+    "blurb": "The Buddha describes in technical detail the process of insight of Venerable Sāriputta. Many ideas and terms in this text anticipate the Abhidhamma.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn112",
+    "title": "Kinh Sáu Thanh tịnh",
+    "paliTitle": "Chabbisodhanasutta",
+    "blurb": "If someone claims to be awakened, their claim should be interrogated with a detailed series of detailed questions. Only if they can answer them clearly should the claim be accepted.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn113",
+    "title": "Kinh Chân nhân",
+    "paliTitle": "Sappurisasutta",
+    "blurb": "The Buddha explains that a truly good person does not disparage others or feel superior because of their attainment.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn114",
+    "title": "Kinh Nên hành trì, không nên hành trì",
+    "paliTitle": "Sevitabbāsevitabbasutta",
+    "blurb": "The Buddha sets up a framework on things to be cultivated or avoided, and Venerable Sāriputta volunteers to elaborate.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn115",
+    "title": "Kinh Ða giới",
+    "paliTitle": "Bahudhātukasutta",
+    "blurb": "Beginning by praising a wise person, the Buddha goes on to explain that one becomes wise by inquiring into the elements, sense fields, dependent origination, and what is possible and impossible.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn116",
+    "title": "Kinh Thôn tiên",
+    "paliTitle": "Isigilisutta",
+    "blurb": "Reflecting on the changes that even geographical features undergo, the Buddha then recounts the names of sages of the past who have lived in Mount Isigili near Rājagaha.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn117",
+    "title": "Ðại kinh Bốn mươi",
+    "paliTitle": "Mahācattārīsakasutta",
+    "blurb": "A discourse on the prerequisites of right samādhi that emphasizes the interrelationship and mutual support of all the factors of the eightfold path.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn118",
+    "title": "Kinh Nhập tức, Xuất tức niệm\n(Kinh Quán niệm hơi thở)",
+    "paliTitle": "Ānāpānassatisutta",
+    "blurb": "Surrounded by many well-practiced mendicants, the Buddha teaches mindfulness of breathing in detail, showing how it relates to the four kinds of mindfulness meditation.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn119",
+    "title": "Kinh Thân hành niệm",
+    "paliTitle": "Kāyagatāsatisutta",
+    "blurb": "This focuses on the first aspect of mindfulness meditation, the observation of the body. This set of practices, simple as they seem, have far-reaching benefits.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn120",
+    "title": "Kinh Hành sanh",
+    "paliTitle": "Saṅkhārupapattisutta",
+    "blurb": "The Buddha explains how one can make a wish to be reborn in different realms.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn121",
+    "title": "Kinh Tiểu không",
+    "paliTitle": "Cūḷasuññatasutta",
+    "blurb": "The Buddha describes his own practice of the meditation on emptiness.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn122",
+    "title": "Kinh Ðại không",
+    "paliTitle": "Mahāsuññatasutta",
+    "blurb": "A group of mendicants have taken to socializing too much, so the Buddha teaches on the importance of seclusion in order to enter fully into emptiness.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn123",
+    "title": "Kinh Hy hữu vị tằng hữu pháp",
+    "paliTitle": "Acchariyaabbhutasutta",
+    "blurb": "Venerable Ānanda is invited by the Buddha to speak on the Buddha’s amazing qualities, and proceeds to list a series of apparently miraculous events accompanying his birth. The Buddha caps it off by explaining what he thinks is really amazing about himself.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn124",
+    "title": "Kinh Bạc-câu-la",
+    "paliTitle": "Bākulasutta",
+    "blurb": "Venerable Bakkula, regarded as the healthiest of the mendicants, explains to an old friend his strict and austere practice. The unusual form of this discourse suggests it was added to the canon some time after the Buddha’s death.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn125",
+    "title": "Kinh Ðiều ngự địa",
+    "paliTitle": "Dantabhūmisutta",
+    "blurb": "A young monk is unable to persuade a prince of the blessings of peace of mind. The Buddha offers similes based on training an elephant that would have been successful, as this was a field the prince was familiar with.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn126",
+    "title": "Kinh Phù-di",
+    "paliTitle": "Bhūmijasutta",
+    "blurb": "Success in the spiritual life does not depend on any vows you may or may not make, but on whether you practice well.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn127",
+    "title": "Kinh A-na-luật",
+    "paliTitle": "Anuruddhasutta",
+    "blurb": "A lay person becomes confused when encouraged to develop the “limitless” and “expansive” liberations, and asks Venerable Anuruddha to explain whether they are the same or different.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn128",
+    "title": "Kinh Tùy phiền não",
+    "paliTitle": "Upakkilesasutta",
+    "blurb": "A second discourse set at the quarrel of Kosambi, this depicts the Buddha, having failed to achieve reconciliation between the disputing mendicants, leaving the monastery. He spends time in the wilderness before encountering an inspiring community of practicing monks. There he discusses in detail obstacles to meditation that he encountered before awakening.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn129",
+    "title": "Kinh Hiền Ngu",
+    "paliTitle": "Bālapaṇḍitasutta",
+    "blurb": "A fool suffers both in this life and the next, while the astute benefits in both respects.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn130",
+    "title": "Kinh Thiên sứ",
+    "paliTitle": "Devadūtasutta",
+    "blurb": "Expanding on the previous, this discourse contains the most detailed descriptions of the horrors of hell.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn131",
+    "title": "Kinh Nhất dạ hiền giả",
+    "paliTitle": "Bhaddekarattasutta",
+    "blurb": "This discourse opens with a short but powerful set of verses extolling the benefits of insight into the here and now, followed by an explanation.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn132",
+    "title": "Kinh A-nan Nhất dạ hiền giả",
+    "paliTitle": "Ānandabhaddekarattasutta",
+    "blurb": "The same discourse as MN 131, but spoken by Venerable Ānanda.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn133",
+    "title": "Kinh Ðại Ca-chiên-diên Nhất dạ hiền giả",
+    "paliTitle": "Mahākaccānabhaddekarattasutta",
+    "blurb": "The verses from MN 131 are explained in a different way by Venerable Mahakaccāna.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn134",
+    "title": "Kinh Lomasakangiya Nhất dạ hiền giả",
+    "paliTitle": "Lomasakaṅgiyabhaddekarattasutta",
+    "blurb": "A monk who does not know the verses from MN 131 is encouraged by a deity to learn them.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn135",
+    "title": "Tiểu kinh Nghiệp phân biệt",
+    "paliTitle": "Cūḷakammavibhaṅgasutta",
+    "blurb": "The Buddha explains to a brahmin how your deeds in past lives affect you in this life.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn136",
+    "title": "Ðại kinh Nghiệp phân biệt",
+    "paliTitle": "Mahākammavibhaṅgasutta",
+    "blurb": "Confronted with an overly simplistic version of his own teachings, the Buddha emphasizes the often overlooked nuances and qualifications in how karma plays out.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn137",
+    "title": "Kinh Phân biệt sáu xứ",
+    "paliTitle": "Saḷāyatanavibhaṅgasutta",
+    "blurb": "A detailed analysis of the six senses and the relation to emotional and cognitive processes.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn138",
+    "title": "Kinh Tổng thuyết và Biệt thuyết",
+    "paliTitle": "Uddesavibhaṅgasutta",
+    "blurb": "The Buddha gives a brief and enigmatic statement on the ways consciousness may become attached. Venerable Mahākaccāna is invited by the mendicants to draw out the implications.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn139",
+    "title": "Kinh Vô tránh phân biệt",
+    "paliTitle": "Araṇavibhaṅgasutta",
+    "blurb": "Achieving peace is no simple matter. The Buddha explains how to avoid conflict through contentment, right speech, understanding pleasure, and not insisting on local conventions.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn140",
+    "title": "Kinh Giới phân biệt",
+    "paliTitle": "Dhātuvibhaṅgasutta",
+    "blurb": "While staying overnight in a potter’s workshop, the Buddha has a chance encounter with a monk who does not recognize him. They have a long and profound discussion based on the four elements. This is one of the most insightful and moving discourses in the canon.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn141",
+    "title": "Kinh Phân biệt về Sự thật",
+    "paliTitle": "Saccavibhaṅgasutta",
+    "blurb": "Expanding on the Buddha’s first sermon, Venerable Sāriputta gives a detailed explanation of the four noble truths.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn142",
+    "title": "Kinh Phân biệt cúng dường",
+    "paliTitle": "Dakkhiṇāvibhaṅgasutta",
+    "blurb": "When his step-mother Mahāpajāpatī wishes to offer him a robe for his personal use, the Buddha encourages her to offer it to the entire Saṅgha instead. He goes on to explain that the best kind of offering to the Saṅgha is one given to the dual community of monks and nuns, headed by the Buddha.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn143",
+    "title": "Kinh Giáo giới Cấp Cô Ðộc",
+    "paliTitle": "Anāthapiṇḍikovādasutta",
+    "blurb": "As the great lay disciple Anāthapiṇḍika lies dying, Venerable Sāriputta visits him and gives a powerful teaching on non-attachment.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn144",
+    "title": "Kinh Giáo giới Channa",
+    "paliTitle": "Channovādasutta",
+    "blurb": "The monk Channa is suffering a painful terminal illness and wishes to take his own life.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn145",
+    "title": "Kinh Giáo giới Phú-lâu-na",
+    "paliTitle": "Puṇṇovādasutta",
+    "blurb": "On the eve of his departure to a distant country, full of wild and unpredictable people, Venerable Puṇṇa is asked by the Buddha how he would respond if attacked there.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn146",
+    "title": "Kinh Giáo giới Nandaka",
+    "paliTitle": "Nandakovādasutta",
+    "blurb": "When asked to teach the nuns, Venerable Nandaka proceeds by inviting them to engage with his discourse and ask if there is anything that needs further explanation.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn147",
+    "title": "Tiểu kinh Giáo giới La-hầu-la",
+    "paliTitle": "Cūḷarāhulovādasutta",
+    "blurb": "The Buddha takes Rāhula with him to a secluded spot in order to lead him on to liberation.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn148",
+    "title": "Kinh Sáu sáu",
+    "paliTitle": "Chachakkasutta",
+    "blurb": "The Buddha analyzes the six senses from six perspectives, and demonstrates the emptiness of all of them.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn149",
+    "title": "Ðại kinh Sáu xứ",
+    "paliTitle": "Mahāsaḷāyatanikasutta",
+    "blurb": "Explains how insight into the six senses is integrated with the eightfold path and leads to liberation.",
+    "difficulty": 3,
+    "collection": "mn"
+  },
+  {
+    "id": "mn150",
+    "title": "Kinh Nói cho dân Nagaravinda",
+    "paliTitle": "Nagaravindeyyasutta",
+    "blurb": "In discussion with a group of householders, the Buddha helps them to distinguish those spiritual practitioners who are truly worthy of respect.",
+    "difficulty": 1,
+    "collection": "mn"
+  },
+  {
+    "id": "mn151",
+    "title": "Kinh Khất thực thanh tịnh",
+    "paliTitle": "Piṇḍapātapārisuddhisutta",
+    "blurb": "The Buddha notices Venerable Sāriputta’s glowing complexion, which is the result of his deep meditation. He then presents a series of reflections by which a mendicant can be sure that they are worthy of their alms-food.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "mn152",
+    "title": "Kinh Căn tu tập",
+    "paliTitle": "Indriyabhāvanāsutta",
+    "blurb": "A brahmin teacher advocates that purification of the senses consists in simply avoiding seeing and hearing things. The Buddha explains that it is not about avoiding sense experience, but understanding it and learning to not be affected by sense experience.",
+    "difficulty": 2,
+    "collection": "mn"
+  },
+  {
+    "id": "sn1.10",
+    "title": "Rừng Núi",
+    "paliTitle": "Araññasutta",
+    "blurb": "Spiritual practitioners have clear complexions, despite their simple life.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.1",
+    "title": "Bộc Lưu",
+    "paliTitle": "Oghataraṇasutta",
+    "blurb": "The Buddha crossed the flood of suffering by neither standing nor swimming.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.11",
+    "title": "Vườn Hoan Hỷ",
+    "paliTitle": "Nandanasutta",
+    "blurb": "Even the divine Garden of Delight is impermanent.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.12",
+    "title": "Vui Thích",
+    "paliTitle": "Nandatisutta",
+    "blurb": "We think our attachments bring us happiness, but they really bring sorrow.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.13",
+    "title": "Không Ai Bằng Con",
+    "paliTitle": "Natthiputtasamasutta",
+    "blurb": "Like many of these discourses, here the Buddha repeats a god’s verses with a subtle twist towards the Dhamma.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.14",
+    "title": "Giai Cấp Sát Ðế Lỵ",
+    "paliTitle": "Khattiyasutta",
+    "blurb": "A god’s worldly values are improved by the Buddha’s version.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.15",
+    "title": "Tiếng Ðộng Rừng Sâu (hay Thân tịch tịnh)",
+    "paliTitle": "Saṇamānasutta",
+    "blurb": "The quiet murmuring of the jungle can be scary—but not to the Buddha.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.16",
+    "title": "Ngủ Gục, Biếng Nhác",
+    "paliTitle": "Niddātandīsutta",
+    "blurb": "Laziness is an obstruction to the path.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.17",
+    "title": "Khó Làm (hay Con rùa)",
+    "paliTitle": "Dukkarasutta",
+    "blurb": "Life is hard for an unrestrained ascetic; they should draw in their thoughts like a tortoise.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.18",
+    "title": "Tàm Quý",
+    "paliTitle": "Hirīsutta",
+    "blurb": "Does anyone have a sense of conscience and shame?",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.19",
+    "title": "Am Tranh",
+    "paliTitle": "Kuṭikāsutta",
+    "blurb": "Do you have a little hut and a little nest—or are you free?",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.20",
+    "title": "Samiddhi",
+    "paliTitle": "Samiddhisutta",
+    "blurb": "A deity tries to tempt a monk to first enjoy sensual pleasures and then go forth. ",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.2",
+    "title": "Giải Thoát",
+    "paliTitle": "Nimokkhasutta",
+    "blurb": "Freedom comes when we end attachment to rebirth.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.21",
+    "title": "Kiếm:",
+    "paliTitle": "Sattisutta",
+    "blurb": "A mendicant should live as if their head was on fire.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.22",
+    "title": "Xúc Chạm",
+    "paliTitle": "Phusatisutta",
+    "blurb": "The evil you do hurts yourself.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.3",
+    "title": "Ðưa Ðến Ðoạn Tận -",
+    "paliTitle": "Upanīyasutta",
+    "blurb": "Life is short, so we should drop the world’s bait.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.4",
+    "title": "Thời Gian Trôi Qua",
+    "paliTitle": "Accentisutta",
+    "blurb": "Time flies, so we should drop the world’s bait.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.5",
+    "title": "Bao Nhiêu Phải Cắt Ðoạn.",
+    "paliTitle": "Katichindasutta",
+    "blurb": "A cryptic set of questions, which the Buddha answers equally cryptically.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.6",
+    "title": "Tỉnh Giác",
+    "paliTitle": "Jāgarasutta",
+    "blurb": "How many are awake while others are asleep?",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.7",
+    "title": "Không Liễu Tri",
+    "paliTitle": "Appaṭividitasutta",
+    "blurb": "Those who comprehend the teachings live smooth amid the rough.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.8",
+    "title": "Mê Loạn",
+    "paliTitle": "Susammuṭṭhasutta",
+    "blurb": "Those who are unconfused live smooth amid the rough.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn1.9",
+    "title": "Mong Muốn Kiêu Mạn",
+    "paliTitle": "Mānakāmasutta",
+    "blurb": "Unless you give up conceit you’ll be trapped in the domain of Death.",
+    "difficulty": null,
+    "collection": "sn"
+  },
+  {
+    "id": "sn56.11",
+    "title": "Như Lai Thuyết (1)",
+    "paliTitle": "Dhammacakkappavattanasutta",
+    "blurb": "The famous first discourse, taught at Varanasi to the group of five ascetics. It begins by rejecting the extremes of asceticism and indulgence and recommends the middle way of the eightfold path. Then it defines the four noble truths and analyzes them in twelve aspects. It ends with Venerable Kondañña becoming the first person apart from the Buddha to realize the Dhamma.",
+    "difficulty": null,
+    "collection": "sn"
+  }
+]
