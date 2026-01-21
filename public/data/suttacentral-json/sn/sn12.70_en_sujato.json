@@ -1,0 +1,366 @@
+{
+  "root_text": {
+    "uid": "sn12.70",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Susimaparibbājakasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Surge ",
+      "uid": "sn12.69"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Old Age and Death ",
+      "uid": "sn12.71"
+    }
+  },
+  "translation": {
+    "uid": "sn12.70",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Wanderer Susīma ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Surge ",
+      "uid": "sn12.69"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Old Age and Death ",
+      "uid": "sn12.71"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 12.70",
+    "volpages": " PTS 2.120, PTS 2.121, PTS 2.122, PTS 2.123, PTS 2.124, PTS 2.125, PTS 2.126, PTS 2.127, PTS 2.128",
+    "alt_volpages": null,
+    "uid": "sn12.70",
+    "blurb": "The wanderer Susı̄ma fraudulently enters the Sangha so that the wanderers can learn the secret to the Buddha’s fame and success. Hearing that some mendicants claimed to be perfected, Susīma approaches and asks them if they have developed psychic powers or the formless states, to which they say no. Perplexed, he asks the Buddha, who explains that awakening follows insight into the principles of impermanence and causality. Eventually Susı̄ma confesses his misdeed.",
+    "difficulty": null,
+    "original_title": "Susimaparibbājakasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Wanderer Susīma ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn12.70_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Der Wanderer Susīma ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn12.70_translation-en-sujato",
+        "segmented": true,
+        "title": "The Wanderer Susīma ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn12.70_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "sn12.70_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Lutalica Susima ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit",
+        "publication_date": "2018",
+        "id": "bn_sn12.70_indragupta-bangish-ajit",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "cs",
+        "lang_name": "Čeština",
+        "is_root": false,
+        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
+        "author_short": "Gavésakó …",
+        "author_uid": "gavesako-chromovsky",
+        "publication_date": null,
+        "id": "cs_sn12.70_gavesako-chromovsky",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Wilhelm Geiger",
+        "author_short": "Geiger",
+        "author_uid": "geiger",
+        "publication_date": "1925",
+        "id": "de_sn12.70_geiger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "has_comment": false,
+        "id": "en_sn12.70_bodhi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2000",
+        "segmented": false,
+        "volpage": null,
+        "title": "Susīma"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2011",
+        "id": "es_sn12.70_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn12.70_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn12.70_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn12.70_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2016",
+        "id": "no_sn12.70_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2008",
+        "id": "pt_sn12.70_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn12.70_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn12.70_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn12.70_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn12.70_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn12.70_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj14.188, dr16.144, ms12S2_518, msdiv70, sya16.146,cck16.114, csp1ed12.341, csp2ed12.341, ms12S2_519, ndp13.103, pts-vp-pli2.120,dr16.145, ms12S2_520, sya16.147, vri24.106,bj14.190, csp1ed12.342, csp2ed12.342, ms12S2_521, ndp13.104, pts-vp-pli2.121,cck16.115, dr16.146, ms12S2_522, sya16.148,ms12S2_523,cck16.116, csp1ed12.343, csp2ed12.343, dr16.147, ms12S2_524, ndp13.105, pts-vp-pli2.122, sya16.149, vri24.107,bj14.192, dr16.148, ms12S2_525,cck16.117, ms12S2_526, pts-vp-pli2.123, sya16.150, vri24.108,ms12S2_527, ndp13.106,csp1ed12.344, csp2ed12.344, dr16.149, ms12S2_528,ms12S2_529, pts-vp-pli2.124, sya16.151,bj14.194, ms12S2_530,dr16.150, ms12S2_531,cck16.118, csp1ed12.345, csp2ed12.345, dr16.151, ms12S2_532, ndp13.107, pts-vp-pli2.125, sya16.152, vri24.109,cck16.119, ms12S2_533, ndp13.108, sya16.153,dr16.152, ms12S2_534,bj14.196, ms12S2_535, pts-vp-pli2.126, vri24.110,csp1ed12.346, csp2ed12.346, dr16.153, ms12S2_536, ndp13.109, sya16.154,cck16.120, ms12S2_537,ms12S2_538, pts-vp-pli2.127,dr16.154, ms12S2_539, sya16.155, vri24.111,ms12S2_540,bj14.198, ms12S2_541,csp1ed12.347, csp2ed12.347, ms12S2_542, ndp13.110,cck16.121, ms12S2_543,ms12S2_544,dr16.155, ms12S2_545, pts-vp-pli2.128, sya16.156, vri24.112,cck16.122, csp1ed12.348, csp2ed12.348, ms12S2_546, sya16.157,dr16.156, ms12S2_550, ndp13.111",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn12.70",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Susimaparibbājakasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn12.70",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Wanderer Susīma ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "bodhi"
+  ]
+}
