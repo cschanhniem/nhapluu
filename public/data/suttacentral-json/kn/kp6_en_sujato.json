@@ -1,0 +1,318 @@
+{
+  "root_text": {
+    "uid": "kp6",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Ratanasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "True Blessings ",
+      "uid": "kp5"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Without the Walls ",
+      "uid": "kp7"
+    }
+  },
+  "translation": {
+    "uid": "kp6",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Gems ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "True Blessings ",
+      "uid": "kp5"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Without the Walls ",
+      "uid": "kp7"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Kp 6",
+    "volpages": " PTS 4, PTS 5, PTS 6",
+    "alt_volpages": null,
+    "uid": "kp6",
+    "blurb": "The many treasures to be found in the Triple Gem.",
+    "difficulty": null,
+    "original_title": "Ratanasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Gems ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2021",
+        "id": "kp6_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Juwelen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2020",
+        "id": "kp6_translation-en-sujato",
+        "segmented": true,
+        "title": "Gems ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "kp6_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Laera et al.",
+        "author_short": "laera",
+        "author_uid": "laera",
+        "publication_date": null,
+        "id": "kp6_translation-pt-laera-quaresma",
+        "segmented": true,
+        "title": "Tesouros ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1910",
+        "id": "de_kp6_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "has_comment": false,
+        "id": "en_kp6_anandajoti",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": null,
+        "segmented": false,
+        "volpage": null,
+        "title": "The Discourse on the Treasures"
+      },
+      {
+        "author": "Suddhāso Bhikkhu",
+        "author_short": "Suddhāso",
+        "author_uid": "suddhaso",
+        "has_comment": false,
+        "id": "en_kp6_suddhaso",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2020",
+        "segmented": false,
+        "volpage": null,
+        "title": "Jewels"
+      },
+      {
+        "author": "Piyadassi Thera",
+        "author_short": "Piyadassi",
+        "author_uid": "piyadassi",
+        "has_comment": false,
+        "id": "en_kp6_piyadassi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1999",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Jewel Discourse"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Indavati",
+        "author_short": "Indavati",
+        "author_uid": "indavati",
+        "publication_date": null,
+        "id": "fr_kp6_indavati",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_kp6_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_kp6_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_kp6_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_kp6_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_kp6_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": null,
+        "id": "vi_kp6_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "ms18Kh_45, msdiv1, sya25.5,csp1ed18.5, csp2ed18.5, ms18Kh_46, msdiv2,ms18Kh_47, msdiv3, pts-vp-pli4,cck25.5, dr25.6, ms18Kh_48, msdiv4, vri47.6,mc0.6, ms18Kh_49, msdiv5, sya25.6,bj24.10, ms18Kh_50, msdiv6, ndp20.7,csp1ed18.6, csp2ed18.6, ms18Kh_51, msdiv7,cck25.6, dr25.7, mc0.7, ms18Kh_52, msdiv8, sya25.7,ms18Kh_53, msdiv9,bj24.12, ms18Kh_54, msdiv10, pts-vp-pli5,ms18Kh_55, msdiv11, ndp20.8,csp1ed18.7, csp2ed18.7, dr25.8, mc0.8, ms18Kh_56, msdiv12, sya25.8, vri47.7,cck25.7, ms18Kh_57, msdiv13,ms18Kh_58, msdiv14,ms18Kh_59, msdiv15,bj24.14, dr25.9, mc0.9, ms18Kh_60, msdiv16, ndp20.9, sya25.9,ms18Kh_61, msdiv17, pts-vp-pli6,cck25.8, csp1ed18.8, csp2ed18.8, ms18Kh_62, msdiv18,ms18Kh_63",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "kp6",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Ratanasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "kp6",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Gems ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "piyadassi",
+    "anandajoti",
+    "suddhaso"
+  ]
+}
