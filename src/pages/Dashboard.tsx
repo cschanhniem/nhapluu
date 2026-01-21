@@ -89,7 +89,7 @@ export function Dashboard() {
   const handleProtectedAction = (e: React.MouseEvent, path: string) => {
     if (!isAuthenticated) {
       e.preventDefault()
-      navigate('/auth')
+      navigate('/auth', { state: { from: { pathname: path } } })
     }
   }
 
