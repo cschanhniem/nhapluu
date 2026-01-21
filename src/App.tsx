@@ -25,6 +25,10 @@ const Bookmarks = lazy(() => import('@/pages/Bookmarks').then(m => ({ default: m
 const InsightJournal = lazy(() => import('@/pages/InsightJournal').then(m => ({ default: m.InsightJournal })))
 const Auth = lazy(() => import('@/pages/Auth'))
 
+// Nikaya Translation Project - Public pages
+const NikayaLibrary = lazy(() => import('@/pages/NikayaLibrary').then(m => ({ default: m.NikayaLibrary })))
+const NikayaDetail = lazy(() => import('@/pages/NikayaDetail').then(m => ({ default: m.NikayaDetail })))
+
 // Loading fallback component with skeleton
 function PageLoader() {
   const { t } = useTranslation()
@@ -80,6 +84,10 @@ function App() {
                             {/* Public Routes */}
                             <Route path="/tim-sangha" element={<FindSangha />} />
                             <Route path="/quy-tac" element={<CodeOfConduct />} />
+
+                            {/* Nikaya Translation Project - Public */}
+                            <Route path="/nikaya" element={<NikayaLibrary />} />
+                            <Route path="/nikaya/:suttaId" element={<NikayaDetail />} />
                             <Route path="/cong-dong" element={<Community />} />
 
                             {/* Protected Routes */}
