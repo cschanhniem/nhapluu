@@ -1,0 +1,351 @@
+{
+  "root_text": {
+    "uid": "sn54.1",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Ekadhammasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Floods ",
+      "uid": "sn53.45-54"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Awakening Factors ",
+      "uid": "sn54.2"
+    }
+  },
+  "translation": {
+    "uid": "sn54.1",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "One Thing ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Floods ",
+      "uid": "sn53.45-54"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Awakening Factors ",
+      "uid": "sn54.2"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 54.1",
+    "volpages": " PTS 5.311, PTS 5.312",
+    "alt_volpages": null,
+    "uid": "sn54.1",
+    "blurb": "Breath meditation is very beneficial. It is developed by going into seclusion, establishing mindfulness on the breath, and proceeding through sixteen stages. ",
+    "difficulty": null,
+    "original_title": "Ekadhammasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "One Thing ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn54.1_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Ein Ding ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn54.1_translation-en-sujato",
+        "segmented": true,
+        "title": "One Thing ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Rémy Zins",
+        "author_short": "sekha",
+        "author_uid": "sekha",
+        "publication_date": "2022",
+        "id": "sn54.1_translation-fr-sekha",
+        "segmented": true,
+        "title": "Une chose ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2022",
+        "id": "sn54.1_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Viena <i lang='pi' translate='no'>dhamma</i>",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn54.1_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn54.1_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn54.1_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Isidatta",
+        "author_short": "Isidatta",
+        "author_uid": "isidatta",
+        "publication_date": null,
+        "id": "es_sn54.1_isidatta",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn54.1_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn54.1_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn54.1_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn54.1_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pl",
+        "lang_name": "Polski",
+        "is_root": false,
+        "author": "Piotr Jagodziński",
+        "author_short": "Jagodziński",
+        "author_uid": "jagodzinski",
+        "publication_date": null,
+        "id": "pl_sn54.1_jagodzinski",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn54.1_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn54.1_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn54.1_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn54.1_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn54.1_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj17.2.90, cck19.304, csp1ed14.271, csp2ed14.271, dr19.389, ms14S5_1645, msdiv977, ndp15.265, pts-vp-pli5.311, sya19.394, vri27.382,ms14S5_1646,ms14S5_1647, pts-vp-pli5.312, sya19.395,cck19.305, csp1ed14.272, csp2ed14.272, dr19.390, ms14S5_1648, vri27.383,bj17.2.92, ms14S5_1649, ndp15.266,ms14S5_1650",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn54.1",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Ekadhammasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn54.1",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "One Thing ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

@@ -1,0 +1,298 @@
+{
+  "root_text": {
+    "uid": "sn38.4",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Có Cái Gì?",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Solace ",
+      "uid": "sn38.5"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Principled Speech ",
+      "uid": "sn38.3"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn38.4' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 38: Tương Ưng Jambukhàdaka</li>\n</ul>\n<h1>38.4. Có Cái Gì?</h1>\n</header>\n<p><a class='pts' id='S.iv.253' href='#S.iv.253'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Với mục đích gì, này Hiền giả <i lang='pli' translate='no'>Sāriputta</i>, Phạm hạnh được sống dưới Sa-môn <i lang='pli' translate='no'>Gotama</i>?</p>\n<p>—Này Hiền giả, Phạm hạnh được sống dưới Thế Tôn với mục đích liễu tri khổ.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> —Có con đường nào, có đạo lộ nào, này Hiền giả, đưa đến liễu tri khổ ấy?</p>\n<p>—Có con đường, có đạo lộ, này Hiền giả, đưa đến liễu tri khổ ấy.</p>\n<p><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> —Con đường ấy là gì, đạo lộ ấy là gì, này Hiền giả, đưa đến liễu tri khổ ấy?</p>\n<p>—Ðấy là Thánh đạo Tám ngành, này Hiền giả, tức là chánh tri kiến … chánh định. Ðây là con đường, đây là đạo lộ, này Hiền giả, đưa đến liễu tri khổ ấy.</p>\n<p><a class='ref vi-n' id='vi-n5' href='#vi-n5'>Vi-n 5</a> —Này Hiền giả, hiền thiện là con đường, hiền thiện là đạo lộ đưa đến liễu tri khổ ấy. Thật là vừa đủ, này Hiền giả, để không phóng dật.</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn38.4",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Có Cái Gì?",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Solace ",
+      "uid": "sn38.5"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Principled Speech ",
+      "uid": "sn38.3"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn38.4' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 38: Tương Ưng Jambukhàdaka</li>\n</ul>\n<h1>38.4. Có Cái Gì?</h1>\n</header>\n<p><a class='pts' id='S.iv.253' href='#S.iv.253'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Với mục đích gì, này Hiền giả <i lang='pli' translate='no'>Sāriputta</i>, Phạm hạnh được sống dưới Sa-môn <i lang='pli' translate='no'>Gotama</i>?</p>\n<p>—Này Hiền giả, Phạm hạnh được sống dưới Thế Tôn với mục đích liễu tri khổ.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> —Có con đường nào, có đạo lộ nào, này Hiền giả, đưa đến liễu tri khổ ấy?</p>\n<p>—Có con đường, có đạo lộ, này Hiền giả, đưa đến liễu tri khổ ấy.</p>\n<p><a class='ref vi-n' id='vi-n4' href='#vi-n4'>Vi-n 4</a> —Con đường ấy là gì, đạo lộ ấy là gì, này Hiền giả, đưa đến liễu tri khổ ấy?</p>\n<p>—Ðấy là Thánh đạo Tám ngành, này Hiền giả, tức là chánh tri kiến … chánh định. Ðây là con đường, đây là đạo lộ, này Hiền giả, đưa đến liễu tri khổ ấy.</p>\n<p><a class='ref vi-n' id='vi-n5' href='#vi-n5'>Vi-n 5</a> —Này Hiền giả, hiền thiện là con đường, hiền thiện là đạo lộ đưa đến liễu tri khổ ấy. Thật là vừa đủ, này Hiền giả, để không phóng dật.</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 38.4",
+    "volpages": " PTS 4.254",
+    "alt_volpages": null,
+    "uid": "sn38.4",
+    "blurb": "The wanderer Jambukhādaka asks Sāriputta about the purpose of the spiritual path.",
+    "difficulty": null,
+    "original_title": "Kimatthiyasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Có Cái Gì?",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn38.4_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Was ist der Zweck? ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn38.4_translation-en-sujato",
+        "segmented": true,
+        "title": "What’s the Purpose ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn38.4_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
+        "author_short": "জ্ঞানেন্দ্রিয়",
+        "author_uid": "gyanendriya",
+        "publication_date": "2018",
+        "id": "bn_sn38.4_gyanendriya",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn38.4_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Isidatta",
+        "author_short": "Isidatta",
+        "author_uid": "isidatta",
+        "publication_date": null,
+        "id": "es_sn38.4_isidatta",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn38.4_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn38.4_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn38.4_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2018",
+        "id": "no_sn38.4_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2004",
+        "id": "pt_sn38.4_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn38.4_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn38.4_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn38.4_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Có Cái Gì?"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn38.4_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "cck18.311, csp1ed13.449, csp2ed13.449, dr18.310, ms13S4_1333, msdiv317,ms13S4_1334, pts-vp-pli4.254, sya18.313",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn38.4",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Kimatthiyasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

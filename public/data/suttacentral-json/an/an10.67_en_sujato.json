@@ -1,0 +1,284 @@
+{
+  "root_text": {
+    "uid": "an10.67",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Paṭhamanaḷakapānasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Happiness (2nd) ",
+      "uid": "an10.66"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "At Naḷakapāna (2nd) ",
+      "uid": "an10.68"
+    }
+  },
+  "translation": {
+    "uid": "an10.67",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "At Naḷakapāna (1st) ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Happiness (2nd) ",
+      "uid": "an10.66"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At Naḷakapāna (2nd) ",
+      "uid": "an10.68"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "AN 10.67",
+    "volpages": " PTS 5.123, PTS 5.124, PTS 5.125",
+    "alt_volpages": null,
+    "uid": "an10.67",
+    "blurb": "At Naḷakapāna the Buddha invites Sāriputta to teach. He speaks of ten qualities that lead to decline or non-decline.",
+    "difficulty": null,
+    "original_title": "Paṭhamanaḷakapānasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "At Naḷakapāna (1st) ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an10.67_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Bei Naḷakapāna (1) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an10.67_translation-en-sujato",
+        "segmented": true,
+        "title": "At Naḷakapāna (1st) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an10.67_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "প্রজ্ঞাদর্শী",
+        "author_uid": "pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_an10.67_pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an10.67_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an10.67_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an10.67_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an10.67_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_an10.67_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an10.67_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an10.67_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980–1981",
+        "id": "vi_an10.67_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_an10.67_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "dr24.131, ms17A10_477, msdiv67, ndp19.197,ms17A10_478, pts-vp-pli5.123,bj23.222, cck24.110, ms17A10_479, vri40.102,csp1ed17.354, csp2ed17.354, dr24.132, ms17A10_480, sya24.132,ms17A10_481, ndp19.198,cck24.111, ms17A10_482, pts-vp-pli5.124, sya24.133,bj23.224, csp1ed17.355, csp2ed17.355, dr24.133, ms17A10_483, vri40.103,ms17A10_484, ndp19.199, pts-vp-pli5.125, sya24.134,ms17A10_485,bj23.226, cck24.112, dr24.134, ms17A10_486, vri40.104,csp1ed17.356, csp2ed17.356, ms17A10_487",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an10.67",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Paṭhamanaḷakapānasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "an10.67",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "At Naḷakapāna (1st) ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

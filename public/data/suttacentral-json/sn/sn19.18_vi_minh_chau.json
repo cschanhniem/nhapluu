@@ -1,0 +1,312 @@
+{
+  "root_text": {
+    "uid": "sn19.18",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Tỷ Kheo Ni",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "A Bad Trainee Nun ",
+      "uid": "sn19.19"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "A Bad Monk ",
+      "uid": "sn19.17"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn19.18' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 19: Tương Ưng <i lang='pli' translate='no'>Lakkhaṇa</i></li>\n<li>II: Phẩm Thứ Hai</li>\n</ul>\n<h1>19.18. Tỷ Kheo Ni</h1>\n</header>\n<p><a class='pts' id='S.ii.261' href='#S.ii.261'></a><a class='vnO' id='Tạp.Ðẳng,.Ðại.2,138b'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> … tôi thấy một Tỷ-kheo-ni đi giữa hư không.</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> Y tăng-già-lê của vị ấy bị cháy đỏ.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> … là một ác Tỷ-kheo-ni …</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn19.18",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Tỷ Kheo Ni",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "A Bad Trainee Nun ",
+      "uid": "sn19.19"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "A Bad Monk ",
+      "uid": "sn19.17"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn19.18' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 19: Tương Ưng <i lang='pli' translate='no'>Lakkhaṇa</i></li>\n<li>II: Phẩm Thứ Hai</li>\n</ul>\n<h1>19.18. Tỷ Kheo Ni</h1>\n</header>\n<p><a class='pts' id='S.ii.261' href='#S.ii.261'></a><a class='vnO' id='Tạp.Ðẳng,.Ðại.2,138b'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> … tôi thấy một Tỷ-kheo-ni đi giữa hư không.</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> Y tăng-già-lê của vị ấy bị cháy đỏ.</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> … là một ác Tỷ-kheo-ni …</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 19.18",
+    "volpages": "PTS SN ii 262",
+    "alt_volpages": null,
+    "uid": "sn19.18",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pāpabhikkhunīsutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Tỷ Kheo Ni",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn19.18_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Eine schlechte Nonne ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn19.18_translation-en-sujato",
+        "segmented": true,
+        "title": "A Bad Nun ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn19.18_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "sn19.18_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Zla monahinja ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, বঙ্গীস ভিক্ষু, অজিত ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-bangish-ajit",
+        "publication_date": "2018",
+        "id": "bn_sn19.18_indragupta-bangish-ajit",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": "1967",
+        "id": "de_sn19.18_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2010",
+        "id": "es_sn19.18_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn19.18_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn19.18_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn19.18_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2016",
+        "id": "no_sn19.18_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn19.18_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn19.18_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn19.18_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn19.18_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Tỷ Kheo Ni"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn19.18_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 24,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "ms12S2_1198, msdiv219, sya16.305",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn19.18",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Pāpabhikkhunīsutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato"
+  ]
+}

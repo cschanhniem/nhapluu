@@ -1,0 +1,339 @@
+{
+  "root_text": {
+    "uid": "snp3.3",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Subhāsitasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Striving ",
+      "uid": "snp3.2"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Bhāradvāja of Sundarika on the Sacrificial Cake ",
+      "uid": "snp3.4"
+    }
+  },
+  "translation": {
+    "uid": "snp3.3",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Well-Spoken Words ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Striving ",
+      "uid": "snp3.2"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Bhāradvāja of Sundarika on the Sacrificial Cake ",
+      "uid": "snp3.4"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 3.3",
+    "volpages": " PTS 79",
+    "alt_volpages": null,
+    "uid": "snp3.3",
+    "blurb": "Four characteristics of well-spoken speech.",
+    "difficulty": null,
+    "original_title": "Subhāsitasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Well-Spoken Words ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "snp3.3_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Gut gesprochene Worte ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp3.3_translation-en-sujato",
+        "segmented": true,
+        "title": "Well-Spoken Words ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp3.3_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp3.3_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp3.3_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp3.3_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Well-spoken"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_snp3.3_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp3.3_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_snp3.3_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp3.3_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp3.3_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp3.3_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp3.3_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2013",
+        "id": "pt_snp3.3_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp3.3_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp3.3_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp3.3_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 32,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "csp1ed18.344, csp2ed18.344, ms18Sn_519, ndp20.333, sya25.411, vri48.148,ms18Sn_520,ms18Sn_521, vnp450, vns453,bj25.132, cck25.335, dr25.456, mc0.419, ms18Sn_522, pts-vp-pli79,ms18Sn_523, sya25.412, vnp451, vns454,ms18Sn_524, vnp452, vns455,ms18Sn_525, ndp20.334, vnp453, vns456,csp1ed18.345, csp2ed18.345, ms18Sn_526, vnp454, vns457, vri48.149",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp3.3",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Subhāsitasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp3.3",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Well-Spoken Words ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "mills"
+  ]
+}

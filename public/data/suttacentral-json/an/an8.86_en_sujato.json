@@ -1,0 +1,314 @@
+{
+  "root_text": {
+    "uid": "an8.86",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Yasasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Terms for the Realized One ",
+      "uid": "an8.85"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Turning the Bowl Upside Down ",
+      "uid": "an8.87"
+    }
+  },
+  "translation": {
+    "uid": "an8.86",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Nāgita ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Terms for the Realized One ",
+      "uid": "an8.85"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Turning the Bowl Upside Down ",
+      "uid": "an8.87"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "AN 8.86",
+    "volpages": " PTS 4.341, PTS 4.342, PTS 4.343, PTS 4.344",
+    "alt_volpages": null,
+    "uid": "an8.86",
+    "blurb": "When the householders of Icchānaṅgala make a racket in the monastery, the Buddha asks his attendant Nāgita what is going on. The Buddha speaks strongly of his dislike for material gains, and his love of seclusion.",
+    "difficulty": null,
+    "original_title": "Yasasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Nāgita ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an8.86_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Nāgita ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an8.86_translation-en-sujato",
+        "segmented": true,
+        "title": "With Nāgita ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an8.86_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2025",
+        "id": "an8.86_translation-ru-sv",
+        "segmented": true,
+        "title": "Сутта Слава",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "সুমঙ্গল বড়ুয়া",
+        "author_short": "বড়ুয়া",
+        "author_uid": "sumangal-barua",
+        "publication_date": "2018",
+        "id": "bn_an8.86_sumangal-barua",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an8.86_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "has_comment": false,
+        "id": "en_an8.86_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1998",
+        "segmented": false,
+        "volpage": null,
+        "title": "Honor"
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an8.86_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an8.86_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an8.86_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_an8.86_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an8.86_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an8.86_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980–1981",
+        "id": "vi_an8.86_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_an8.86_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "dr23.369, ms17A8_825, msdiv86, pts-vp-pli4.341, vri39.161,bj22.350, csp1ed17.155, csp2ed17.155, dr23.370, ms17A8_826, ndp3.423,ms17A8_827, pts-vp-pli4.342,ms17A8_828,bj22.352, csp1ed17.156, csp2ed17.156, ms17A8_829, ndp3.424, pts-vp-pli4.343, vri39.162,dr23.371, ms17A8_830,ms17A8_831,bj22.354, ms17A8_832, ndp3.425, pts-vp-pli4.344, vri39.163,csp1ed17.157, csp2ed17.157, ms17A8_833,dr23.372, ms17A8_834,ms17A8_835,ms17A8_836,ms17A8_837,ms17A8_838, ndp3.426, vri39.164",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an8.86",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Yasasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "an8.86",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Nāgita ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "thanissaro"
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "root_text": {
+    "uid": "iti96",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Kāmayogasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Provided With Pleasure ",
+      "uid": "iti95"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Good Morals ",
+      "uid": "iti97"
+    }
+  },
+  "translation": {
+    "uid": "iti96",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Attached to Sensual Pleasures ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Provided With Pleasure ",
+      "uid": "iti95"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Good Morals ",
+      "uid": "iti97"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Iti 96",
+    "volpages": " PTS 96",
+    "alt_volpages": null,
+    "uid": "iti96",
+    "blurb": "The yoke of sensuality and the yoke of rebirth.",
+    "difficulty": null,
+    "original_title": "Kāmayogasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Attached to Sensual Pleasures ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "iti96_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "An Sinnenfreuden gejocht ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2020",
+        "id": "iti96_translation-en-sujato",
+        "segmented": true,
+        "title": "Attached to Sensual Pleasures ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2023",
+        "id": "iti96_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Juslinių malonumų jungas ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "iti96_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_iti96_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "cs",
+        "lang_name": "Čeština",
+        "is_root": false,
+        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
+        "author_short": "Gavésakó …",
+        "author_uid": "gavesako-chromovsky",
+        "publication_date": null,
+        "id": "cs_iti96_gavesako-chromovsky",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1922",
+        "id": "de_iti96_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "John D. Ireland",
+        "author_short": "Ireland",
+        "author_uid": "ireland",
+        "has_comment": false,
+        "id": "en_iti96_ireland",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1997",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Bonds"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_iti96_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_iti96_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_iti96_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_iti96_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_iti96_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_iti96_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2014",
+        "id": "pt_iti96_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_iti96_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_iti96_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_iti96_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "csp1ed18.259, csp2ed18.259, mc0.314, ms18It_685,cck25.245, ms18It_686,dr25.347, ms18It_687, pts-vp-pli96, vns220,ms18It_688, vns221,ms18It_689, vns222, vri48.69,ms18It_690",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "iti96",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Kāmayogasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "iti96",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Attached to Sensual Pleasures ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "ireland"
+  ]
+}

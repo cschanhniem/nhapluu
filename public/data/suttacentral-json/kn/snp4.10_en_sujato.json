@@ -1,0 +1,351 @@
+{
+  "root_text": {
+    "uid": "snp4.10",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Purābhedasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Māgaṇḍiya ",
+      "uid": "snp4.9"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Quarrels and Disputes ",
+      "uid": "snp4.11"
+    }
+  },
+  "translation": {
+    "uid": "snp4.10",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Before the Breakup ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Māgaṇḍiya ",
+      "uid": "snp4.9"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Quarrels and Disputes ",
+      "uid": "snp4.11"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 4.10",
+    "volpages": " PTS 167, PTS 168",
+    "alt_volpages": null,
+    "uid": "snp4.10",
+    "blurb": "How to live at peace.",
+    "difficulty": null,
+    "original_title": "Purābhedasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Before the Breakup ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp4.10_translation-en-sujato",
+        "segmented": true,
+        "title": "Before the Breakup ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp4.10_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp4.10_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp4.10_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp4.10_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "“Before Breaking-up”: a Muni’s Qualities"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_snp4.10_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp4.10_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_snp4.10_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp4.10_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp4.10_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp4.10_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_snp4.10_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp4.10_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2006",
+        "id": "pt_snp4.10_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2009",
+        "id": "ru_snp4.10_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp4.10_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sl",
+        "lang_name": "Slovenščina",
+        "is_root": false,
+        "author": "Ajahn Hiriko",
+        "author_short": "Hiriko",
+        "author_uid": "hiriko",
+        "publication_date": null,
+        "id": "sl_snp4.10_hiriko",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp4.10_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 31,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "ms18Sn_1025, vnp848, vns855,mc0.502, ms18Sn_1026, vnp849, vns856,bj25.270, cck25.408, csp1ed18.412, csp2ed18.412, ms18Sn_1027, pts-vp-pli167, vnp850, vns857, vri48.210,ms18Sn_1028, vnp851, vns858,dr25.544, ms18Sn_1029, sya25.501, vnp852, vns859,ms18Sn_1030, vnp853, vns860,ms18Sn_1031, ndp20.401, vnp854, vns861,ms18Sn_1032, vnp855, vns862,ms18Sn_1033, vnp856, vns863,ms18Sn_1034, vnp857, vns864,mc0.503, ms18Sn_1035, pts-vp-pli168, vnp858, vns865,bj25.272, cck25.409, ms18Sn_1036, vnp859, vns866,ms18Sn_1037, vnp860, vns867, vri48.211,dr25.545, ms18Sn_1038, vnp861, vns868",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp4.10",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Purābhedasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp4.10",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Before the Breakup ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "mills"
+  ]
+}

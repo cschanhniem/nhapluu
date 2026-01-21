@@ -1,0 +1,366 @@
+{
+  "root_text": {
+    "uid": "iti24",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Aṭṭhipuñjasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Both Kinds of Benefit ",
+      "uid": "iti23"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Lying ",
+      "uid": "iti25"
+    }
+  },
+  "translation": {
+    "uid": "iti24",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "A Heap of Bones ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Both Kinds of Benefit ",
+      "uid": "iti23"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lying ",
+      "uid": "iti25"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Iti 24",
+    "volpages": " PTS 18",
+    "alt_volpages": null,
+    "uid": "iti24",
+    "blurb": "In this course of transmigrating, one person would leave behind a heap of bones as large as a mountain—if there were someone to collect the bones and the collection were not destroyed.",
+    "difficulty": null,
+    "original_title": "Aṭṭhipuñjasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "A Heap of Bones ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "iti24_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Ein Knochenhaufen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2020",
+        "id": "iti24_translation-en-sujato",
+        "segmented": true,
+        "title": "A Heap of Bones ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2023",
+        "id": "iti24_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Griaučių krūva",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "iti24_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_iti24_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "cs",
+        "lang_name": "Čeština",
+        "is_root": false,
+        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
+        "author_short": "Gavésakó …",
+        "author_uid": "gavesako-chromovsky",
+        "publication_date": null,
+        "id": "cs_iti24_gavesako-chromovsky",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1922",
+        "id": "de_iti24_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "John D. Ireland",
+        "author_short": "Ireland",
+        "author_uid": "ireland",
+        "has_comment": false,
+        "id": "en_iti24_ireland",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1997",
+        "segmented": false,
+        "volpage": null,
+        "title": "A Heap of Bones"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_iti24_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hu",
+        "lang_name": "Magyar",
+        "is_root": false,
+        "author": "Técsi Judit",
+        "author_short": "Técsi",
+        "author_uid": "tecsi",
+        "publication_date": "2008",
+        "id": "hu_iti24_tecsi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_iti24_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_iti24_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_iti24_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_iti24_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_iti24_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2014",
+        "id": "pt_iti24_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_iti24_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_iti24_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_iti24_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 21,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "ms18It_134,ms18It_135,dr25.277, mc0.248, ms18It_136, vns33,ms18It_137, vns34,csp1ed18.207, csp2ed18.207, ms18It_138, pts-vp-pli18, sya25.243, vns35,ms18It_139, vns36,ms18It_140",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "iti24",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Aṭṭhipuñjasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "iti24",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "A Heap of Bones ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "ireland"
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "root_text": {
+    "uid": "sn54.13",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Paṭhamaānandasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "In Doubt ",
+      "uid": "sn54.12"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Ānanda (2nd) ",
+      "uid": "sn54.14"
+    }
+  },
+  "translation": {
+    "uid": "sn54.13",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Ānanda (1st) ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In Doubt ",
+      "uid": "sn54.12"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ānanda (2nd) ",
+      "uid": "sn54.14"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 54.13",
+    "volpages": " PTS 5.329, PTS 5.330, PTS 5.331, PTS 5.332, PTS 5.333",
+    "alt_volpages": null,
+    "uid": "sn54.13",
+    "blurb": "Answering Ānanda, the Buddha explains how one thing fulfills four things, four things fulfill seven things, and seven things fulfill two things.",
+    "difficulty": null,
+    "original_title": "Paṭhamaānandasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Ānanda (1st) ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn54.13_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Ānanda (1) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn54.13_translation-en-sujato",
+        "segmented": true,
+        "title": "With Ānanda (1st) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Rémy Zins",
+        "author_short": "sekha",
+        "author_uid": "sekha",
+        "publication_date": "2022",
+        "id": "sn54.13_translation-fr-sekha",
+        "segmented": true,
+        "title": "Avec Ananda ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn54.13_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn54.13_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn54.13_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_sn54.13_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hu",
+        "lang_name": "Magyar",
+        "is_root": false,
+        "author": "Hadházi Zsolt",
+        "author_short": "Hadházi",
+        "author_uid": "hadhazi",
+        "publication_date": "2009",
+        "id": "hu_sn54.13_hadhazi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn54.13_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_sn54.13_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn54.13_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn54.13_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn54.13_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pl",
+        "lang_name": "Polski",
+        "is_root": false,
+        "author": "Piotr Jagodziński",
+        "author_short": "Jagodziński",
+        "author_uid": "jagodzinski",
+        "publication_date": null,
+        "id": "pl_sn54.13_jagodzinski",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2014",
+        "id": "pt_sn54.13_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn54.13_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn54.13_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn54.13_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn54.13_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn54.13_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "cck19.321, csp1ed14.287, csp2ed14.287, dr19.411, ms14S5_1733, msdiv989, pts-vp-pli5.329, sya19.417, vri27.399,ms14S5_1734,ms14S5_1735, ndp15.281,ms14S5_1736, sya19.418,bj17.2.120, cck19.322, dr19.412, ms14S5_1737, pts-vp-pli5.330,csp1ed14.288, csp2ed14.288, ms14S5_1738, ndp15.282, sya19.419, vri27.400,ms14S5_1739,bj17.2.122, cck19.323, dr19.413, ms14S5_1740, pts-vp-pli5.331,ms14S5_1741,csp1ed14.289, csp2ed14.289, ms14S5_1742, sya19.420, vri27.401,dr19.414, ms14S5_1743, ndp15.283,cck19.324, ms14S5_1744, pts-vp-pli5.332, sya19.421,bj17.2.124, ms14S5_1745,ms14S5_1746,csp1ed14.290, csp2ed14.290, dr19.415, ms14S5_1747, vri27.402,ms14S5_1748, sya19.422,ms14S5_1749, ndp15.284, pts-vp-pli5.333,cck19.325, ms14S5_1750,csp1ed14.291, csp2ed14.291, dr19.416, ms14S5_1751, sya19.423",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn54.13",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Paṭhamaānandasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn54.13",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Ānanda (1st) ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

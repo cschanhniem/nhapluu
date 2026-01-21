@@ -1,0 +1,339 @@
+{
+  "root_text": {
+    "uid": "sn46.54",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Mettāsahagatasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Fire ",
+      "uid": "sn46.53"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Saṅgārava ",
+      "uid": "sn46.55"
+    }
+  },
+  "translation": {
+    "uid": "sn46.54",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Full of Love ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fire ",
+      "uid": "sn46.53"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Saṅgārava ",
+      "uid": "sn46.55"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 46.54",
+    "volpages": " PTS 5.116, PTS 5.117, PTS 5.118, PTS 5.119, PTS 5.120, PTS 5.121",
+    "alt_volpages": null,
+    "uid": "sn46.54",
+    "blurb": "Some wanderers tell some Buddhist mendicants that they, too, teach the five hindrances and the four Brahmā meditations, so what is the difference? The Buddha explains the detailed connection between the Brahmā meditations and the awakening factors, which taken together lead to liberation.",
+    "difficulty": null,
+    "original_title": "Mettāsahagatasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Full of Love ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn46.54_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Voller Liebe ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn46.54_translation-en-sujato",
+        "segmented": true,
+        "title": "Full of Love ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn46.54_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn46.54_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn46.54_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "has_comment": false,
+        "id": "en_sn46.54_bodhi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2000",
+        "segmented": false,
+        "volpage": null,
+        "title": "Accompanied by Lovingkindness"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Isidatta",
+        "author_short": "Isidatta",
+        "author_uid": "isidatta",
+        "publication_date": "2009",
+        "id": "es_sn46.54_isidatta",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn46.54_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn46.54_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn46.54_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2018",
+        "id": "no_sn46.54_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_sn46.54_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_sn46.54_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn46.54_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn46.54_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn46.54_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn46.54_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "csp1ed14.101, csp2ed14.101, ms14S5_613, msdiv235, sya19.159, vri27.136,cck19.133, dr19.151, ms14S5_614,bj17.1.220, dr19.152, ms14S5_615, ndp15.104, pts-vp-pli5.116, sya19.160,cck19.134, csp1ed14.102, csp2ed14.102, ms14S5_616, pts-vp-pli5.117, sya19.161, vri27.137,ms14S5_617,dr19.153, ms14S5_618,bj17.1.222, ms14S5_619,cck19.135, csp1ed14.103, csp2ed14.103, ms14S5_620, pts-vp-pli5.118, sya19.162, vri27.138,dr19.154, ms14S5_621, sya19.163,ms14S5_622,cck19.136, csp1ed14.104, csp2ed14.104, dr19.155, ms14S5_623, ndp15.105, sya19.164, vri27.139,bj17.1.224, ms14S5_624, pts-vp-pli5.119,cck19.137, csp1ed14.105, csp2ed14.105, dr19.156, ms14S5_625, ndp15.106, pts-vp-pli5.120, sya19.165, vri27.140,bj17.1.226, ms14S5_626, vri27.141,cck19.138, dr19.157, ms14S5_627, pts-vp-pli5.121, sya19.166",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn46.54",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Mettāsahagatasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn46.54",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Full of Love ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "bodhi"
+  ]
+}

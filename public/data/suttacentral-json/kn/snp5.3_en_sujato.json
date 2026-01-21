@@ -1,0 +1,367 @@
+{
+  "root_text": {
+    "uid": "snp5.3",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Tissametteyyamāṇavapucchā",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Questions of the Student Ajita ",
+      "uid": "snp5.2"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Questions of the Student Puṇṇaka ",
+      "uid": "snp5.4"
+    }
+  },
+  "translation": {
+    "uid": "snp5.3",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of the Student Tissametteyya ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Questions of the Student Ajita ",
+      "uid": "snp5.2"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Questions of the Student Puṇṇaka ",
+      "uid": "snp5.4"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 5.3",
+    "volpages": " PTS 199",
+    "alt_volpages": null,
+    "uid": "snp5.3",
+    "blurb": "Who in the world is truly contented, truly free, truly a great person?",
+    "difficulty": null,
+    "original_title": "Tissametteyyamāṇavapucchā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Questions of the Student Tissametteyya ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp5.3_translation-en-sujato",
+        "segmented": true,
+        "title": "The Questions of the Student Tissametteyya ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2022",
+        "id": "snp5.3_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Tisamėtėjos klausimai ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp5.3_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp5.3_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp5.3_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp5.3_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "Tissamettaya’s Questions"
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "has_comment": false,
+        "id": "en_snp5.3_anandajoti",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1999",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Young Man Tissa Metteyya’s Questions"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_snp5.3_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp5.3_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_snp5.3_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp5.3_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp5.3_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp5.3_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_snp5.3_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp5.3_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2006",
+        "id": "pt_snp5.3_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp5.3_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp5.3_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp5.3_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj25.318, cck25.434, csp1ed18.435, csp2ed18.435, ms18Sn_1230, ndp20.425, pts-vp-pli199, vnp1040, vns1047,mc0.533, ms18Sn_1231, sya25.532, vnp1041, vns1048,ms18Sn_1232, vnp1042, vns1049",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp5.3",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Tissametteyyamāṇavapucchā",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp5.3",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of the Student Tissametteyya ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "anandajoti",
+    "mills"
+  ]
+}

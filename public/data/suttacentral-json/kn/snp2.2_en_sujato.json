@@ -1,0 +1,327 @@
+{
+  "root_text": {
+    "uid": "snp2.2",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Āmagandhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Gems ",
+      "uid": "snp2.1"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Conscience ",
+      "uid": "snp2.3"
+    }
+  },
+  "translation": {
+    "uid": "snp2.2",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Carrion ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gems ",
+      "uid": "snp2.1"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Conscience ",
+      "uid": "snp2.3"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 2.2",
+    "volpages": " PTS 43, PTS 44, PTS 45",
+    "alt_volpages": null,
+    "uid": "snp2.2",
+    "blurb": "People are defiled, not by eating meat, but by engaging in evil conduct.",
+    "difficulty": null,
+    "original_title": "Āmagandhasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Carrion ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "snp2.2_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Fäulnis ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp2.2_translation-en-sujato",
+        "segmented": true,
+        "title": "Carrion ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp2.2_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2023",
+        "id": "snp2.2_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Lešina ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp2.2_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp2.2_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp2.2_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "Food and the True Meaning of “Stench”"
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp2.2_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp2.2_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp2.2_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp2.2_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp2.2_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Gabriel N. Laera",
+        "author_short": "Laera",
+        "author_uid": "laera",
+        "publication_date": null,
+        "id": "pt_snp2.2_laera",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp2.2_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp2.2_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp2.2_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj25.74, cck25.303, mc0.381, ms18Sn_279, sya25.372, vnp239, vns242,ms18Sn_280, pts-vp-pli43, vnp240, vns243,csp1ed18.316, csp2ed18.316, dr25.418, ms18Sn_281, vnp241, vns244,ms18Sn_282, ndp20.305, vnp242, vns245, vri48.121,ms18Sn_283, sya25.373, vnp243, vns246,cck25.304, mc0.382, ms18Sn_284, vnp244, vns247,bj25.76, ms18Sn_285, pts-vp-pli44, vnp245, vns248,dr25.419, ms18Sn_286, vnp246, vns249,csp1ed18.317, csp2ed18.317, ms18Sn_287, sya25.374, vnp247, vns250,ms18Sn_288, ndp20.306, vnp248, vns251,cck25.305, mc0.383, ms18Sn_289, vnp249, vns252,dr25.420, ms18Sn_290, pts-vp-pli45, vnp250, vns253,bj25.78, ms18Sn_291, vnp251, vns254,ms18Sn_292, sya25.375, vnp252, vns255, vri48.122",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp2.2",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Āmagandhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp2.2",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Carrion ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "mills"
+  ]
+}

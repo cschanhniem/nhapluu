@@ -1,0 +1,327 @@
+{
+  "root_text": {
+    "uid": "snp5.8",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Nandamāṇavapucchā",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Questions of the Student Upasīva ",
+      "uid": "snp5.7"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Questions of the Student Hemaka ",
+      "uid": "snp5.9"
+    }
+  },
+  "translation": {
+    "uid": "snp5.8",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of the Student Nanda ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Questions of the Student Upasīva ",
+      "uid": "snp5.7"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Questions of the Student Hemaka ",
+      "uid": "snp5.9"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 5.8",
+    "volpages": " PTS 208, PTS 209",
+    "alt_volpages": null,
+    "uid": "snp5.8",
+    "blurb": "Who deserves to be called a sage? Who has crossed over birth and aging?",
+    "difficulty": null,
+    "original_title": "Nandamāṇavapucchā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Questions of the Student Nanda ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp5.8_translation-en-sujato",
+        "segmented": true,
+        "title": "The Questions of the Student Nanda ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp5.8_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp5.8_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp5.8_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp5.8_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "Nanda’s Questions"
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "has_comment": false,
+        "id": "en_snp5.8_anandajoti",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1999",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Young Man Nanda’s Questions"
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp5.8_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_snp5.8_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp5.8_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp5.8_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp5.8_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_snp5.8_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp5.8_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp5.8_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp5.8_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp5.8_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 14,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "ms18Sn_1272, ndp20.431, sya25.540, vnp1077, vns1084, vri48.238,mc0.541, ms18Sn_1273, pts-vp-pli208, vnp1078, vns1085,mc0.542, ms18Sn_1274, ndp20.432, vnp1079, vns1086,ms18Sn_1275,bj25.332, cck25.442, csp1ed18.442, csp2ed18.442, dr25.584, ms18Sn_1276, vnp1080, vns1087,ms18Sn_1277, sya25.541, vnp1081, vns1088,ms18Sn_1278, pts-vp-pli209,ms18Sn_1279, vnp1082, vns1089, vri48.239,ms18Sn_1280,cck25.443, dr25.585, ms18Sn_1281, sya25.542, vnp1083, vns1090,ms18Sn_1282",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp5.8",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Nandamāṇavapucchā",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp5.8",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of the Student Nanda ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "anandajoti",
+    "mills"
+  ]
+}

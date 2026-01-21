@@ -1,0 +1,353 @@
+{
+  "root_text": {
+    "uid": "ud2.9",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Visākhāsutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Suppavāsā ",
+      "uid": "ud2.8"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Bhaddiya ",
+      "uid": "ud2.10"
+    }
+  },
+  "translation": {
+    "uid": "ud2.9",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Visākhā ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Suppavāsā ",
+      "uid": "ud2.8"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Bhaddiya ",
+      "uid": "ud2.10"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Ud 2.9",
+    "volpages": "PTS Ud 18",
+    "alt_volpages": null,
+    "uid": "ud2.9",
+    "blurb": "The drawbacks of having to do business with kings.",
+    "difficulty": null,
+    "original_title": "Visākhāsutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Visākhā ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "ud2.9_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Visākhā ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2021",
+        "id": "ud2.9_translation-en-sujato",
+        "segmented": true,
+        "title": "With Visākhā ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "ud2.9_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2024",
+        "id": "ud2.9_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Visākhā ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1920",
+        "id": "de_ud2.9_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "has_comment": false,
+        "id": "en_ud2.9_anandajoti",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2008",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Discourse about Visākhā"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "F. Tola, C. Dragonetti",
+        "author_short": "Tola …",
+        "author_uid": "tola-dragonetti",
+        "publication_date": "2009",
+        "id": "es_ud2.9_tola-dragonetti",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_ud2.9_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_ud2.9_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_ud2.9_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_ud2.9_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_ud2.9_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_ud2.9_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Gabriel N. Laera",
+        "author_short": "Laera",
+        "author_uid": "laera",
+        "publication_date": "2015",
+        "id": "pt_ud2.9_laera",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Алокананда бхиккху",
+        "author_short": "Алокананда",
+        "author_uid": "alokananda",
+        "publication_date": null,
+        "id": "ru_ud2.9_alokananda",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Леонид Шаповалов",
+        "author_short": "Шаповалов",
+        "author_uid": "shapovalov",
+        "publication_date": null,
+        "id": "ru_ud2.9_shapovalov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_ud2.9_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_ud2.9_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "ms18Ud_135, msdiv19, ndp20.83, sya25.99,bj24.166, ms18Ud_136, vri47.89,csp1ed18.98, csp2ed18.98, ms18Ud_137,mc0.117, ms18Ud_138, vns23",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "ud2.9",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Visākhāsutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "ud2.9",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Visākhā ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "anandajoti"
+  ]
+}

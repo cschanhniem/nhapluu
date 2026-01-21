@@ -1,0 +1,229 @@
+{
+  "root_text": null,
+  "translation": null,
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "Snp 3.10",
+    "volpages": " PTS 124, PTS 125, PTS 126, PTS 127, PTS 128, PTS 129, PTS 130, PTS 131",
+    "alt_volpages": null,
+    "uid": "snp3.10",
+    "blurb": "A follower of Devadatta slanders Ven. Sāriputta and Ven. Moggallāna and, after suffering a painful disease, falls into hell. The sutta then gives a graphic description of the sufferings awaiting him there.",
+    "difficulty": null,
+    "original_title": "Kokālikasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": null,
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp3.10_translation-en-sujato",
+        "segmented": true,
+        "title": "To Kokāliya on the Results of Slander ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp3.10_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp3.10_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp3.10_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "publication_date": "2015",
+        "id": "en_snp3.10_mills",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp3.10_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp3.10_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp3.10_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp3.10_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp3.10_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp3.10_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp3.10_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp3.10_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 69,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "cck25.373, dr25.502, mc0.462, ms18Sn_786, pts-vp-pli124, vri48.181,bj25.202, ms18Sn_787, ndp20.369,csp1ed18.380, csp2ed18.380, ms18Sn_788, sya25.459,bj25.204, cck25.374, dr25.503, mc0.463, ms18Sn_789, pts-vp-pli125, sya25.460,ms18Sn_790, vri48.182,ms18Sn_791, ndp20.370,cck25.375, csp1ed18.381, csp2ed18.381, dr25.504, ms18Sn_792, pts-vp-pli126,bj25.206, mc0.464, ms18Sn_793, ndp20.371, sya25.461,ms18Sn_794, pts-vp-pli127, vnp657, vns663, vri48.183,dr25.505, ms18Sn_795, sya25.462, vnp658, vns664,cck25.376, csp1ed18.382, csp2ed18.382, ms18Sn_796, vnp659, vns665,mc0.465, ms18Sn_797, vnp660, vns666,ms18Sn_798, vnp661, vns667,ms18Sn_799, vnp662, vns668,bj25.208, dr25.506, ms18Sn_800, ndp20.372, pts-vp-pli128, sya25.463, vnp663, vns669,ms18Sn_801, vnp664, vns670,cck25.377, csp1ed18.383, csp2ed18.383, mc0.466, ms18Sn_802, vnp665, vns671,ms18Sn_803, vnp666, vns672,ms18Sn_804, pts-vp-pli129, vnp667, vns673, vri48.184,dr25.507, ms18Sn_805, sya25.464, vnp668, vns674,ms18Sn_806, ndp20.373, vnp669, vns675,bj25.210, mc0.467, ms18Sn_807, vnp670, vns676,cck25.378, ms18Sn_808, pts-vp-pli130, vnp671, vns677,csp1ed18.384, csp2ed18.384, dr25.508, ms18Sn_809, vnp672, vns678,ms18Sn_810, sya25.465, vnp673, vns679,ms18Sn_811, vnp674, vns680,mc0.468, ms18Sn_812, ndp20.374, pts-vp-pli131, vnp675, vns681,ms18Sn_813, vnp676, vns682,bj25.212, cck25.379, dr25.509, ms18Sn_814, vnp677, vns683, vri48.185,csp1ed18.385, csp2ed18.385, ms18Sn_815, sya25.466, vnp678, vns684",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp3.10",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Kokālikasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato",
+    "mills"
+  ]
+}

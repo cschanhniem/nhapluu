@@ -1,0 +1,341 @@
+{
+  "root_text": {
+    "uid": "snp5.5",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Mettagūmāṇavapucchā",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Questions of the Student Puṇṇaka ",
+      "uid": "snp5.4"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Questions of the Student Dhotaka ",
+      "uid": "snp5.6"
+    }
+  },
+  "translation": {
+    "uid": "snp5.5",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of the Student Mettagū ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Questions of the Student Puṇṇaka ",
+      "uid": "snp5.4"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Questions of the Student Dhotaka ",
+      "uid": "snp5.6"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 5.5",
+    "volpages": " PTS 202, PTS 203, PTS 204",
+    "alt_volpages": null,
+    "uid": "snp5.5",
+    "blurb": "How does one cross the flood of birth and old age, sorrow and grief?",
+    "difficulty": null,
+    "original_title": "Mettagūmāṇavapucchā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Questions of the Student Mettagū ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp5.5_translation-en-sujato",
+        "segmented": true,
+        "title": "The Questions of the Student Mettagū ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2022",
+        "id": "snp5.5_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Jaunuolio brahmano Mėtagu klausimai ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp5.5_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp5.5_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp5.5_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp5.5_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mettagū’s Questions"
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "has_comment": false,
+        "id": "en_snp5.5_anandajoti",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1999",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Young Man Mettagū’s Questions"
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp5.5_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_snp5.5_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp5.5_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp5.5_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp5.5_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_snp5.5_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp5.5_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp5.5_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp5.5_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp5.5_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 24,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "mc0.535, ms18Sn_1241, sya25.534, vnp1049, vns1056, vri48.234,bj25.322, csp1ed18.437, csp2ed18.437, dr25.578, ms18Sn_1242, ndp20.427, pts-vp-pli202, vnp1050, vns1057,ms18Sn_1243, vnp1051, vns1058,ms18Sn_1244, vnp1052, vns1059,cck25.437, mc0.536, ms18Sn_1245, sya25.535, vnp1053, vns1060,ms18Sn_1246, vnp1054, vns1061,ms18Sn_1247, pts-vp-pli203, vnp1055, vns1062,dr25.579, ms18Sn_1248, vnp1056, vns1063, vri48.235,bj25.324, csp1ed18.438, csp2ed18.438, ms18Sn_1249, ndp20.428, vnp1057, vns1064,ms18Sn_1250, vnp1058, vns1065,cck25.438, mc0.537, ms18Sn_1251, sya25.536, vnp1059, vns1066,ms18Sn_1252, pts-vp-pli204, vnp1060, vns1067",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp5.5",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Mettagūmāṇavapucchā",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp5.5",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of the Student Mettagū ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "mills",
+    "anandajoti"
+  ]
+}

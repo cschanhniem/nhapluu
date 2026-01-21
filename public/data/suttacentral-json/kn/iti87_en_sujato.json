@@ -1,0 +1,353 @@
+{
+  "root_text": {
+    "uid": "iti87",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Andhakaraṇasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Practicing In Line With the Teaching ",
+      "uid": "iti86"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Inner Stains ",
+      "uid": "iti88"
+    }
+  },
+  "translation": {
+    "uid": "iti87",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Destroyers of Sight ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Practicing In Line With the Teaching ",
+      "uid": "iti86"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Inner Stains ",
+      "uid": "iti88"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Iti 87",
+    "volpages": " PTS 83",
+    "alt_volpages": null,
+    "uid": "iti87",
+    "blurb": "Three kinds of unskillful thinking; three kinds of skillful thinking.",
+    "difficulty": null,
+    "original_title": "Andhakaraṇasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Destroyers of Sight ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "iti87_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Was blind macht ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2020",
+        "id": "iti87_translation-en-sujato",
+        "segmented": true,
+        "title": "Destroyers of Sight ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2023",
+        "id": "iti87_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Aptemdina ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "iti87_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_iti87_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "cs",
+        "lang_name": "Čeština",
+        "is_root": false,
+        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
+        "author_short": "Gavésakó …",
+        "author_uid": "gavesako-chromovsky",
+        "publication_date": null,
+        "id": "cs_iti87_gavesako-chromovsky",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1922",
+        "id": "de_iti87_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "John D. Ireland",
+        "author_short": "Ireland",
+        "author_uid": "ireland",
+        "has_comment": false,
+        "id": "en_iti87_ireland",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1997",
+        "segmented": false,
+        "volpage": null,
+        "title": "Producing Blindness"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_iti87_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_iti87_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_iti87_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_iti87_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_iti87_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_iti87_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2006",
+        "id": "pt_iti87_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_iti87_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_iti87_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_iti87_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj24.430, csp1ed18.251, csp2ed18.251, ms18It_603,dr25.335, ms18It_604, ndp20.238, sya25.294, vri48.60,bj24.432, cck25.238, mc0.304, ms18It_605, pts-vp-pli83,dr25.336, ms18It_606, sya25.295, vns181,ms18It_607",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "iti87",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Andhakaraṇasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "iti87",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Destroyers of Sight ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "ireland"
+  ]
+}

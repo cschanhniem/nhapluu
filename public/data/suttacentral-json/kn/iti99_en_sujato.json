@@ -1,0 +1,366 @@
+{
+  "root_text": {
+    "uid": "iti99",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Tevijjasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Giving ",
+      "uid": "iti98"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Holy Offering of the Teaching ",
+      "uid": "iti100"
+    }
+  },
+  "translation": {
+    "uid": "iti99",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Three Knowledges ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving ",
+      "uid": "iti98"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Holy Offering of the Teaching ",
+      "uid": "iti100"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Iti 99",
+    "volpages": " PTS 99, PTS 100, PTS 101",
+    "alt_volpages": null,
+    "uid": "iti99",
+    "blurb": "The three knowledges that characterize a brahman in the Buddha’s sense of the word.",
+    "difficulty": null,
+    "original_title": "Tevijjasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Three Knowledges ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "iti99_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Das dreifache Wissen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2020",
+        "id": "iti99_translation-en-sujato",
+        "segmented": true,
+        "title": "The Three Knowledges ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2023",
+        "id": "iti99_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Trys žinojimai ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "iti99_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_iti99_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "cs",
+        "lang_name": "Čeština",
+        "is_root": false,
+        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
+        "author_short": "Gavésakó …",
+        "author_uid": "gavesako-chromovsky",
+        "publication_date": null,
+        "id": "cs_iti99_gavesako-chromovsky",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1922",
+        "id": "de_iti99_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "John D. Ireland",
+        "author_short": "Ireland",
+        "author_uid": "ireland",
+        "has_comment": false,
+        "id": "en_iti99_ireland",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1997",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Threefold Knowledge"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_iti99_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hu",
+        "lang_name": "Magyar",
+        "is_root": false,
+        "author": "Técsi Judit",
+        "author_short": "Técsi",
+        "author_uid": "tecsi",
+        "publication_date": "2008",
+        "id": "hu_iti99_tecsi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_iti99_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_iti99_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_iti99_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_iti99_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_iti99_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2014",
+        "id": "pt_iti99_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_iti99_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_iti99_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_iti99_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 20,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj24.454, ms18It_713,mc0.317, ms18It_714,cck25.247, csp1ed18.262, csp2ed18.262, dr25.350, ms18It_715, ndp20.249, pts-vp-pli99, sya25.306,cck25.248, dr25.351, mc0.318, ms18It_716, pts-vp-pli100, sya25.307, vri48.72,bj24.456, ms18It_717, ndp20.250,ms18It_718, vns229,csp1ed18.263, csp2ed18.263, ms18It_719, pts-vp-pli101, vns230,ms18It_720,ms18It_724, sya25.308",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "iti99",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Tevijjasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "iti99",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Three Knowledges ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "ireland"
+  ]
+}

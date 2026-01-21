@@ -1,0 +1,340 @@
+{
+  "root_text": {
+    "uid": "ud5.3",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Suppabuddhakuṭṭhisutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Short-lived ",
+      "uid": "ud5.2"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Boys ",
+      "uid": "ud5.4"
+    }
+  },
+  "translation": {
+    "uid": "ud5.3",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Suppabuddha the Leper ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Short-lived ",
+      "uid": "ud5.2"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Boys ",
+      "uid": "ud5.4"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Ud 5.3",
+    "volpages": " PTS 49, PTS 50",
+    "alt_volpages": null,
+    "uid": "ud5.3",
+    "blurb": "A leper becomes a stream-enterer, dies, and is reborn as a deva.",
+    "difficulty": null,
+    "original_title": "Suppabuddhakuṭṭhisutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Suppabuddha the Leper ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "ud5.3_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Suppabuddha dem Aussätzigen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2021",
+        "id": "ud5.3_translation-en-sujato",
+        "segmented": true,
+        "title": "With Suppabuddha the Leper ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "ud5.3_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2024",
+        "id": "ud5.3_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Gubavac Suppabuddha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1920",
+        "id": "de_ud5.3_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "has_comment": false,
+        "id": "en_ud5.3_anandajoti",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2008",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Discourse about the Leper Suppabuddha"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "F. Tola, C. Dragonetti",
+        "author_short": "Tola …",
+        "author_uid": "tola-dragonetti",
+        "publication_date": "2009",
+        "id": "es_ud5.3_tola-dragonetti",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_ud5.3_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_ud5.3_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_ud5.3_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_ud5.3_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_ud5.3_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_ud5.3_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": null,
+        "id": "pt_ud5.3_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Леонид Шаповалов",
+        "author_short": "Шаповалов",
+        "author_uid": "shapovalov",
+        "publication_date": null,
+        "id": "ru_ud5.3_shapovalov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_ud5.3_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_ud5.3_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "mc0.160, ms18Ud_363, msdiv43, sya25.146, vri47.124,ms18Ud_364, ndp20.120,bj24.224, csp1ed18.135, csp2ed18.135, ms18Ud_365,cck25.121, dr25.178, mc0.161, ms18Ud_366, pts-vp-pli49, sya25.147,ms18Ud_367,dr25.179, ms18Ud_368, ndp20.121, vri47.125,bj24.226, csp1ed18.136, csp2ed18.136, ms18Ud_369, sya25.148,cck25.122, ms18Ud_370, pts-vp-pli50,mc0.162, ms18Ud_371,ms18Ud_372,csp1ed18.137, csp2ed18.137, dr25.180, ms18Ud_373, ndp20.122, sya25.149, vri47.126,ms18Ud_374,ms18Ud_375, vns55",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "ud5.3",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Suppabuddhakuṭṭhisutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "ud5.3",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Suppabuddha the Leper ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "anandajoti"
+  ]
+}

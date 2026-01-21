@@ -1,0 +1,366 @@
+{
+  "root_text": {
+    "uid": "iti90",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Aggappasādasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "About Devadatta ",
+      "uid": "iti89"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Lifestyle ",
+      "uid": "iti91"
+    }
+  },
+  "translation": {
+    "uid": "iti90",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Best Kinds of Confidence ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "About Devadatta ",
+      "uid": "iti89"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lifestyle ",
+      "uid": "iti91"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Iti 90",
+    "volpages": " PTS 88, PTS 89",
+    "alt_volpages": null,
+    "uid": "iti90",
+    "blurb": "Three supreme objects of confidence: the Buddha, the Dhamma, and the Saṅgha.",
+    "difficulty": null,
+    "original_title": "Aggappasādasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Best Kinds of Confidence ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "iti90_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Zuversicht zu den besten Dingen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2020",
+        "id": "iti90_translation-en-sujato",
+        "segmented": true,
+        "title": "The Best Kinds of Confidence ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2023",
+        "id": "iti90_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Aukščiausias pasitikėjimas ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "iti90_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ca",
+        "lang_name": "Català",
+        "is_root": false,
+        "author": "Albert Biayna Gea",
+        "author_short": "Gea",
+        "author_uid": "gea",
+        "publication_date": null,
+        "id": "ca_iti90_gea",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "cs",
+        "lang_name": "Čeština",
+        "is_root": false,
+        "author": "Bhikkhu Gavésakó, Štěpán Chromovský",
+        "author_short": "Gavésakó …",
+        "author_uid": "gavesako-chromovsky",
+        "publication_date": null,
+        "id": "cs_iti90_gavesako-chromovsky",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1922",
+        "id": "de_iti90_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "John D. Ireland",
+        "author_short": "Ireland",
+        "author_uid": "ireland",
+        "has_comment": false,
+        "id": "en_iti90_ireland",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1997",
+        "segmented": false,
+        "volpage": null,
+        "title": "Foremost Faith"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_iti90_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hu",
+        "lang_name": "Magyar",
+        "is_root": false,
+        "author": "Máthé Veronika",
+        "author_short": "Máthé",
+        "author_uid": "mathe",
+        "publication_date": "2011",
+        "id": "hu_iti90_mathe",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_iti90_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_iti90_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_iti90_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_iti90_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_iti90_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2012",
+        "id": "pt_iti90_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_iti90_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_iti90_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_iti90_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 10,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj24.438, dr25.340, ms18It_636, sya25.298,cck25.241, mc0.308, ms18It_637, pts-vp-pli88,ms18It_638,csp1ed18.255, csp2ed18.255, dr25.341, ms18It_639, ndp20.242, sya25.299, vri48.64,mc0.309, ms18It_640, vns198,bj24.440, ms18It_641, vns199,ms18It_642, pts-vp-pli89, vns200,ms18It_643, vns201,cck25.242, ms18It_644",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "iti90",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Aggappasādasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "iti90",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Best Kinds of Confidence ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "ireland"
+  ]
+}

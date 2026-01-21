@@ -1,0 +1,325 @@
+{
+  "root_text": {
+    "uid": "sn55.6",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Thapatisutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Sāriputta (2nd) ",
+      "uid": "sn55.5"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The People of Bamboo Gate ",
+      "uid": "sn55.7"
+    }
+  },
+  "translation": {
+    "uid": "sn55.6",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Chamberlains ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sāriputta (2nd) ",
+      "uid": "sn55.5"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The People of Bamboo Gate ",
+      "uid": "sn55.7"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 55.6",
+    "volpages": " PTS 5.349, PTS 5.350, PTS 5.351, PTS 5.352",
+    "alt_volpages": null,
+    "uid": "sn55.6",
+    "blurb": "After the rainy season, the chamberlains Isidatta and Purāṇa hear that the Buddha is approaching and go to see him. They describe their joy at knowing when the Buddha is approaching, and speak of their special duties guarding the royal harem. The Buddha says they have four factors of stream-entry—experiential faith in the Buddha, the teaching, and the Saṅgha; and here generosity rather than ethics as the final factor.",
+    "difficulty": null,
+    "original_title": "Thapatisutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Chamberlains ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn55.6_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Die Kammerherren ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn55.6_translation-en-sujato",
+        "segmented": true,
+        "title": "The Chamberlains ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Rémy Zins",
+        "author_short": "sekha",
+        "author_uid": "sekha",
+        "publication_date": "2022",
+        "id": "sn55.6_translation-fr-sekha",
+        "segmented": true,
+        "title": "À Véloudvara",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn55.6_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2024",
+        "id": "sn55.6_translation-ru-sv",
+        "segmented": true,
+        "title": "Дворецкие ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn55.6_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn55.6_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn55.6_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn55.6_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn55.6_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn55.6_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_sn55.6_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn55.6_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn55.6_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn55.6_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn55.6_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "dr19.433, ms14S5_1812, msdiv1002,bj17.2.148, cck19.335, ms14S5_1813, sya19.436,ms14S5_1814, ndp15.297, pts-vp-pli5.349,dr19.434, ms14S5_1815, vri27.416,csp1ed14.304, csp2ed14.304, ms14S5_1816, sya19.437,ms14S5_1817,cck19.336, ms14S5_1818,bj17.2.150, dr19.435, ms14S5_1819, pts-vp-pli5.350,ms14S5_1820, ndp15.298, sya19.438, vri27.417,csp1ed14.305, csp2ed14.305, ms14S5_1821,ms14S5_1822,cck19.337, dr19.436, ms14S5_1823, sya19.439,ms14S5_1824,bj17.2.152, ms14S5_1825, ndp15.299, pts-vp-pli5.351, vri27.418,cck19.338, csp1ed14.306, csp2ed14.306, dr19.437, ms14S5_1826, sya19.440,ms14S5_1827,ms14S5_1828, pts-vp-pli5.352, sya19.441,dr19.438, ms14S5_1829, ndp15.300, vri27.419",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn55.6",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Thapatisutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn55.6",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Chamberlains ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

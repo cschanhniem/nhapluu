@@ -1,0 +1,389 @@
+{
+  "root_text": {
+    "uid": "sn51.15",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Uṇṇābhabrāhmaṇasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Moggallāna ",
+      "uid": "sn51.14"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Ascetics and Brahmins (1st) ",
+      "uid": "sn51.16"
+    }
+  },
+  "translation": {
+    "uid": "sn51.15",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Brahmin Uṇṇābha ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Moggallāna ",
+      "uid": "sn51.14"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics and Brahmins (1st) ",
+      "uid": "sn51.16"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 51.15",
+    "volpages": " PTS 5.272, PTS 5.273",
+    "alt_volpages": null,
+    "uid": "sn51.15",
+    "blurb": "Ānanda explains to the brahmin Uṇṇābha that the spiritual path is lived to give up desire through the the four bases of psychic power. But Uṇṇābha says this is a contradiction, as desire is itself one of the four bases. Ānanda resolves the contradiction with the simile of a man walking to a park. ",
+    "difficulty": null,
+    "original_title": "Uṇṇābhabrāhmaṇasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Brahmin Uṇṇābha ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn51.15_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Der Brahmane Uṇṇābha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn51.15_translation-en-sujato",
+        "segmented": true,
+        "title": "The Brahmin Uṇṇābha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pl",
+        "lang_name": "Polski",
+        "is_root": false,
+        "author": "Piotr Jagodziński",
+        "author_short": "hardao",
+        "author_uid": "hardao",
+        "publication_date": "2024",
+        "id": "sn51.15_translation-pl-hardao",
+        "segmented": true,
+        "title": "Mowa o braminie Uṇṇābha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn51.15_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn51.15_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn51.15_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Isidatta",
+        "author_short": "Isidatta",
+        "author_uid": "isidatta",
+        "publication_date": null,
+        "id": "es_sn51.15_isidatta",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Claude Le Ninan, Chandhana Le Ninan",
+        "author_short": "leninan",
+        "author_uid": "leninan",
+        "publication_date": "2023",
+        "id": "fr_sn51.15_leninan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hu",
+        "lang_name": "Magyar",
+        "is_root": false,
+        "author": "Fenyvesi Róbert",
+        "author_short": "Fenyvesi",
+        "author_uid": "fenyvesi",
+        "publication_date": "2009",
+        "id": "hu_sn51.15_fenyvesi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn51.15_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_sn51.15_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn51.15_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn51.15_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn51.15_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2012",
+        "id": "pt_sn51.15_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn51.15_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn51.15_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sv",
+        "lang_name": "Svenska",
+        "is_root": false,
+        "author": "Kerstin Jönhagen",
+        "author_short": "Jönhagen",
+        "author_uid": "jonhagen",
+        "publication_date": null,
+        "id": "sv_sn51.15_jonhagen",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn51.15_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn51.15_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn51.15_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj17.2.30, dr19.343, ms14S5_1414, msdiv827, pts-vp-pli5.272, sya19.349,ms14S5_1415, vri27.344,ms14S5_1416,cck19.273, csp1ed14.238, csp2ed14.238, dr19.344, ms14S5_1417, ndp15.233, pts-vp-pli5.273, sya19.350,bj17.2.32, ms14S5_1418,dr19.345, ms14S5_1419, sya19.351, vri27.345",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn51.15",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Uṇṇābhabrāhmaṇasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn51.15",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Brahmin Uṇṇābha ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

@@ -1,0 +1,300 @@
+{
+  "root_text": {
+    "uid": "an6.54",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Dhammikasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Diligence ",
+      "uid": "an6.53"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Soṇa ",
+      "uid": "an6.55"
+    }
+  },
+  "translation": {
+    "uid": "an6.54",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "About Dhammika ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Diligence ",
+      "uid": "an6.53"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Soṇa ",
+      "uid": "an6.55"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "AN 6.54",
+    "volpages": " PTS 3.366, PTS 3.367, PTS 3.368, PTS 3.369, PTS 3.370, PTS 3.371, PTS 3.372, PTS 3.373",
+    "alt_volpages": null,
+    "uid": "an6.54",
+    "blurb": "The monk Dhammika annoys both the monks and the layfolk so badly that they banish him. He comes to the Buddha, who consoles him and raises his spirits with a story, while at the same time showing him the error of his ways.",
+    "difficulty": null,
+    "original_title": "Dhammikasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "About Dhammika ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an6.54_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Dhammika ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an6.54_translation-en-sujato",
+        "segmented": true,
+        "title": "About Dhammika ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an6.54_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "প্রজ্ঞাদর্শী",
+        "author_uid": "pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_an6.54_pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an6.54_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Andrew Olendzki",
+        "author_short": "Olendzki",
+        "author_uid": "olendzki",
+        "has_comment": false,
+        "id": "en_an6.54_olendzki",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2005",
+        "segmented": false,
+        "volpage": null,
+        "title": "Dhammika(excerpt)"
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an6.54_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an6.54_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an6.54_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_an6.54_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an6.54_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an6.54_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980–1981",
+        "id": "vi_an6.54_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_an6.54_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 6,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj21.140, dr22.399, ms16A6_404, msdiv54, pts-vp-pli3.366,csp1ed16.322, csp2ed16.322, ms16A6_405, ndp18.79,dr22.400, ms16A6_406, pts-vp-pli3.367, vri38.79,bj21.142, ms16A6_407,ms16A6_408, ndp18.80,csp1ed16.323, csp2ed16.323, dr22.401, ms16A6_409, pts-vp-pli3.368, vri38.80,bj21.144, ms16A6_410,csp1ed16.324, csp2ed16.324, dr22.402, ms16A6_411, ndp18.81,ms16A6_412, pts-vp-pli3.369, vri38.81,dr22.403, ms16A6_413,bj21.146, csp1ed16.325, csp2ed16.325, ms16A6_414, ndp18.82, pts-vp-pli3.370,dr22.404, ms16A6_415, pts-vp-pli3.371, vri38.82,ms16A6_416, ndp18.83,ms16A6_417,bj21.148, csp1ed16.326, csp2ed16.326, dr22.405, ms16A6_418,ms16A6_419,ms16A6_420,ms16A6_421,ms16A6_422, pts-vp-pli3.372, vri38.83,csp1ed16.327, csp2ed16.327, ms16A6_423, ndp18.84,dr22.406, ms16A6_424, pts-vp-pli3.373,ms16A6_425,ms16A6_426,bj21.150, ms16A6_427,ms16A6_428, vri38.84,ms16A6_429,ms16A6_430, ndp18.85,dr22.407, ms16A6_431,ms16A6_432,csp1ed16.328, csp2ed16.328, ms16A6_433,ms16A6_437",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an6.54",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Dhammikasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "an6.54",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "About Dhammika ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "olendzki"
+  ]
+}

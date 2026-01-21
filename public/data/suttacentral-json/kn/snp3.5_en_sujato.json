@@ -1,0 +1,286 @@
+{
+  "root_text": {
+    "uid": "snp3.5",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Māghasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Bhāradvāja of Sundarika on the Sacrificial Cake ",
+      "uid": "snp3.4"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Sabhiya’s Questions ",
+      "uid": "snp3.6"
+    }
+  },
+  "translation": {
+    "uid": "snp3.5",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Māgha on Giving ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Bhāradvāja of Sundarika on the Sacrificial Cake ",
+      "uid": "snp3.4"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sabhiya’s Questions ",
+      "uid": "snp3.6"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 3.5",
+    "volpages": " PTS 87, PTS 88, PTS 89, PTS 90, PTS 91",
+    "alt_volpages": null,
+    "uid": "snp3.5",
+    "blurb": "What are the qualities of a recipient that produce the most merit from a gift?",
+    "difficulty": null,
+    "original_title": "Māghasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Māgha on Giving ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp3.5_translation-en-sujato",
+        "segmented": true,
+        "title": "With Māgha on Giving ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp3.5_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp3.5_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp3.5_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp3.5_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "To Māgha on Giving"
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp3.5_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp3.5_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp3.5_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp3.5_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp3.5_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp3.5_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp3.5_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp3.5_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj25.144, cck25.342, csp1ed18.351, csp2ed18.351, mc0.427, ms18Sn_568, ndp20.340, pts-vp-pli87,ms18Sn_569, sya25.421, vri48.154,ms18Sn_570,cck25.343, dr25.465, mc0.428, ms18Sn_571, pts-vp-pli88, vnp487, vns492,ms18Sn_572, ndp20.341, vnp488, vns493,bj25.146, csp1ed18.352, csp2ed18.352, ms18Sn_573, vnp489, vns494,ms18Sn_574, sya25.422, vnp490, vns495,dr25.466, ms18Sn_575, vnp491, vns496,mc0.429, ms18Sn_576, vnp492, vns497, vri48.155,ms18Sn_577, vnp493, vns498,cck25.344, ms18Sn_578, ndp20.342, vnp494, vns499,csp1ed18.353, csp2ed18.353, ms18Sn_579, pts-vp-pli89, vnp494A, vns500,dr25.467, ms18Sn_580, sya25.423, vnp495, vns501,ms18Sn_581, vnp496, vns502,bj25.148, mc0.430, ms18Sn_582, vnp497, vns503,ms18Sn_583, vnp498, vns504,ms18Sn_584, vnp499, vns505,dr25.468, ms18Sn_585, ndp20.343, vnp500, vns506,cck25.345, csp1ed18.354, csp2ed18.354, ms18Sn_586, sya25.424, vnp501, vns507, vri48.156,ms18Sn_587, vnp502, vns508,mc0.431, ms18Sn_588, pts-vp-pli90, vnp503, vns509,bj25.150, ms18Sn_589, vnp504, vns510,ms18Sn_590, vnp505, vns511,dr25.469, ms18Sn_591, ndp20.344, vnp506, vns512,cck25.346, ms18Sn_592, sya25.425, vnp507, vns513,csp1ed18.355, csp2ed18.355, mc0.432, ms18Sn_593, pts-vp-pli91, vnp508, vns514,ms18Sn_594, vnp509, vns515, vri48.157,ms18Sn_595",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp3.5",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Māghasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp3.5",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Māgha on Giving ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "mills"
+  ]
+}

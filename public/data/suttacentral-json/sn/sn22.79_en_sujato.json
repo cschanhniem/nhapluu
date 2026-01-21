@@ -1,0 +1,379 @@
+{
+  "root_text": {
+    "uid": "sn22.79",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Khajjanīyasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Lion ",
+      "uid": "sn22.78"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Beggars ",
+      "uid": "sn22.80"
+    }
+  },
+  "translation": {
+    "uid": "sn22.79",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Bitable ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Lion ",
+      "uid": "sn22.78"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Beggars ",
+      "uid": "sn22.80"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 22.79",
+    "volpages": " PTS 3.87, PTS 3.88, PTS 3.89, PTS 3.90, PTS 3.91",
+    "alt_volpages": null,
+    "uid": "sn22.79",
+    "blurb": "One of the most extensive discourses in this collection begins with the Buddha saying that when anyone recollects a past life, all they are recollecting is the five aggregates. He then gives a distinctive set of definitions of the aggregates in terms of their functions, and discusses them from various aspects.",
+    "difficulty": null,
+    "original_title": "Khajjanīyasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Bitable ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn22.79_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Was gebissen werden kann ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn22.79_translation-en-sujato",
+        "segmented": true,
+        "title": "Bitable ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "lt",
+        "lang_name": "Lietuvių Kalba",
+        "is_root": false,
+        "author": "Sayalay Piyadassi",
+        "author_short": "piyadassi",
+        "author_uid": "piyadassi",
+        "publication_date": "2022",
+        "id": "sn22.79_translation-lt-piyadassi",
+        "segmented": true,
+        "title": "Esu ėdamas",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn22.79_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "ইন্দ্রগুপ্ত ভিক্ষু, সুমন ভিক্ষু, আদিকল্যাণ ভিক্ষু, সীবক ভিক্ষু, রাহুল ভিক্ষু",
+        "author_short": "ইন্দ্রগুপ্ত …",
+        "author_uid": "indragupta-suman-adikalyan-sivak-rahul",
+        "publication_date": "2018",
+        "id": "bn_sn22.79_indragupta-suman-adikalyan-sivak-rahul",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": "1967",
+        "id": "de_sn22.79_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "has_comment": false,
+        "id": "en_sn22.79_bodhi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2000",
+        "segmented": false,
+        "volpage": null,
+        "title": "Being Devoured"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": null,
+        "id": "es_sn22.79_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Claude Le Ninan, Chandhana Le Ninan",
+        "author_short": "leninan",
+        "author_uid": "leninan",
+        "publication_date": "2023",
+        "id": "fr_sn22.79_leninan",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "hu",
+        "lang_name": "Magyar",
+        "is_root": false,
+        "author": "Csornai Katalin",
+        "author_short": "Csornai",
+        "author_uid": "csornai",
+        "publication_date": "2009",
+        "id": "hu_sn22.79_csornai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn22.79_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn22.79_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn22.79_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2017",
+        "id": "no_sn22.79_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2004",
+        "id": "pt_sn22.79_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2016",
+        "id": "ru_sn22.79_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn22.79_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn22.79_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn22.79_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn22.79_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "ms13S3_407, msdiv79,cck17.77, ms13S3_408, vri25.81,bj15.150, ms13S3_409, pts-vp-pli3.87,dr17.106, ms13S3_410, sya17.106,csp1ed13.72, csp2ed13.72, ms13S3_411, ndp13.313,ms13S3_412,cck17.78, ms13S3_413, sya17.107, vri25.82,dr17.107, ms13S3_414, pts-vp-pli3.88,bj15.152, csp1ed13.73, csp2ed13.73, ms13S3_415, ndp13.314,ms13S3_416, sya17.108,cck17.79, dr17.108, ms13S3_417, pts-vp-pli3.89, sya17.109, vri25.83,bj15.154, csp1ed13.74, csp2ed13.74, dr17.109, ms13S3_418, ndp13.315, pts-vp-pli3.90,cck17.80, ms13S3_419,dr17.110, ms13S3_420, ndp13.316, sya17.110, vri25.84,ms13S3_421, pts-vp-pli3.91",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn22.79",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Khajjanīyasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn22.79",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Bitable ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "bodhi"
+  ]
+}

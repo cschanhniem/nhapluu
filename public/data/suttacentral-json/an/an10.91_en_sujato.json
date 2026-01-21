@@ -1,0 +1,297 @@
+{
+  "root_text": {
+    "uid": "an10.91",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Kāmabhogīsutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Powers of One Who has Ended Defilements ",
+      "uid": "an10.90"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Dangers ",
+      "uid": "an10.92"
+    }
+  },
+  "translation": {
+    "uid": "an10.91",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Pleasure Seekers ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Powers of One Who has Ended Defilements ",
+      "uid": "an10.90"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dangers ",
+      "uid": "an10.92"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "AN 10.91",
+    "volpages": " PTS 5.177, PTS 5.178, PTS 5.179, PTS 5.180, PTS 5.181, PTS 5.182",
+    "alt_volpages": null,
+    "uid": "an10.91",
+    "blurb": "The Buddha teaches Anāthapiṇḍika ten kinds of persons who enjoy sensual pleasures.",
+    "difficulty": null,
+    "original_title": "Kāmabhogīsutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Pleasure Seekers ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an10.91_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Genussmenschen ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an10.91_translation-en-sujato",
+        "segmented": true,
+        "title": "Pleasure Seekers ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an10.91_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "প্রজ্ঞাদর্শী",
+        "author_uid": "pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_an10.91_pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an10.91_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Isidatta",
+        "author_short": "Isidatta",
+        "author_uid": "isidatta",
+        "publication_date": "2014",
+        "id": "es_an10.91_isidatta",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an10.91_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an10.91_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an10.91_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_an10.91_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an10.91_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an10.91_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980–1981",
+        "id": "vi_an10.91_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_an10.91_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj23.316, dr24.193, ms17A10_771, msdiv91, vri40.150,ms17A10_772, pts-vp-pli5.177,cck24.158, csp1ed17.399, csp2ed17.399, ms17A10_773, ndp19.242,ms17A10_774, sya24.189,ms17A10_775,dr24.194, ms17A10_776, vri40.151,ms17A10_777,bj23.318, ms17A10_778,ms17A10_779, pts-vp-pli5.178,csp1ed17.400, csp2ed17.400, ms17A10_780, sya24.190,cck24.159, ms17A10_781, ndp19.243,dr24.195, ms17A10_782, vri40.152,bj23.320, ms17A10_783,cck24.160, csp1ed17.401, csp2ed17.401, ms17A10_784, pts-vp-pli5.179, sya24.191,dr24.196, ms17A10_785, ndp19.244,bj23.322, ms17A10_786, pts-vp-pli5.180, sya24.192, vri40.153,cck24.161, csp1ed17.402, csp2ed17.402, dr24.197, ms17A10_787,ms17A10_788, ndp19.245, sya24.193,bj23.324, ms17A10_789, pts-vp-pli5.181, vri40.154,cck24.162, csp1ed17.403, csp2ed17.403, dr24.198, ms17A10_790, sya24.194,bj23.326, ms17A10_791, ndp19.246,cck24.163, dr24.199, ms17A10_792, pts-vp-pli5.182, vri40.155,csp1ed17.404, csp2ed17.404, ms17A10_793, sya24.195",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an10.91",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Kāmabhogīsutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "an10.91",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Pleasure Seekers ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

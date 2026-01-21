@@ -1,0 +1,312 @@
+{
+  "root_text": {
+    "uid": "sn45.149",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Sức lực",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Seeds ",
+      "uid": "sn45.150"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "The Moon, Etc. ",
+      "uid": "sn45.146-148"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn45.149' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 45: Tương Ưng Ðạo</li>\n<li>XII: Phẩm Việc Làm Cần Sức Mạnh</li>\n</ul>\n<h1>45.149. Sức lực</h1>\n</header>\n<p class='subheading'>Sức Mạnh</p>\n<p>Tất cả đều nhân duyên ở <i lang='pli' translate='no'>Sāvatthi</i>.</p>\n<p><a class='pts' id='S.v.45' href='#S.v.45'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Ví như, này các Tỷ-kheo, phàm có những hành động gì muốn làm cần phải có sức lực, tất cả những hành động ấy đều y cứ vào đất, đều an trú vào đất. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo y cứ trên giới, an trú trên giới, tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám ngành. Và này các Tỷ-kheo, thế nào là Tỷ-kheo y cứ trên giới, an trú trên giới, tu tập Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành?</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ … tu tập chánh định liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo y cứ vào giới, an trú vào giới, tu tập Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành.</p>\n<p>(Ðoạn này giống với đoạn “Hằng hà lược thuyết”, được thuyết rộng thêm).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span> and <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "sn45.149",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Sức lực",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Seeds ",
+      "uid": "sn45.150"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "The Moon, Etc. ",
+      "uid": "sn45.146-148"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='sn45.149' lang='vi'>\n<header>\n<ul>\n<li class='division'>Chương 45: Tương Ưng Ðạo</li>\n<li>XII: Phẩm Việc Làm Cần Sức Mạnh</li>\n</ul>\n<h1>45.149. Sức lực</h1>\n</header>\n<p class='subheading'>Sức Mạnh</p>\n<p>Tất cả đều nhân duyên ở <i lang='pli' translate='no'>Sāvatthi</i>.</p>\n<p><a class='pts' id='S.v.45' href='#S.v.45'></a><a class='ref vi-n' id='vi-n1' href='#vi-n1'>Vi-n 1</a> …</p>\n<p><a class='ref vi-n' id='vi-n2' href='#vi-n2'>Vi-n 2</a> —Ví như, này các Tỷ-kheo, phàm có những hành động gì muốn làm cần phải có sức lực, tất cả những hành động ấy đều y cứ vào đất, đều an trú vào đất. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo y cứ trên giới, an trú trên giới, tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám ngành. Và này các Tỷ-kheo, thế nào là Tỷ-kheo y cứ trên giới, an trú trên giới, tu tập Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành?</p>\n<p><a class='ref vi-n' id='vi-n3' href='#vi-n3'>Vi-n 3</a> Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ … tu tập chánh định liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo y cứ vào giới, an trú vào giới, tu tập Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành.</p>\n<p>(Ðoạn này giống với đoạn “Hằng hà lược thuyết”, được thuyết rộng thêm).</p>\n<footer>\n<p>Bộ kinh đã được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên <span class='publication-date'>1980</span>. Sau đó, trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16.</p>\n<p>Prepared for SuttaCentral by <span class='editor'>Blake Walsh</span> and <span class='editor'>Aminah Borg-Luck</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "SN 45.149",
+    "volpages": " PTS 5.46",
+    "alt_volpages": null,
+    "uid": "sn45.149",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Balasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Sức lực",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn45.149_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Harte Arbeit ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn45.149_translation-en-sujato",
+        "segmented": true,
+        "title": "Hard Work ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn45.149_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn45.149_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn45.149_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "publication_date": "2000",
+        "id": "en_sn45.149_bodhi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Anton P. Baron",
+        "author_short": "Baron",
+        "author_uid": "baron",
+        "publication_date": "2010",
+        "id": "es_sn45.149_baron",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn45.149_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn45.149_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn45.149_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2018",
+        "id": "no_sn45.149_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn45.149_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn45.149_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn45.149_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_sn45.149_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sức lực"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn45.149_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "bj17.1.106, dr19.65, ms14S5_272, msdiv149, ndp15.45, pts-vp-pli5.46, sya19.68,ms14S5_273,cck19.58, dr19.66, ms14S5_274, sya19.69, vri27.56,bj17.1.108, cck19.59, csp1ed14.43, csp2ed14.43, ms14S5_275,dr19.67, ms14S5_276, ndp15.46, sya19.70, vri27.57",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn45.149",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Balasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato",
+    "bodhi"
+  ]
+}

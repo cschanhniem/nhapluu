@@ -1,0 +1,353 @@
+{
+  "root_text": {
+    "uid": "an8.30",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Anuruddhamahāvitakkasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Lost Opportunities ",
+      "uid": "an8.29"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Giving (1st) ",
+      "uid": "an8.31"
+    }
+  },
+  "translation": {
+    "uid": "an8.30",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Anuruddha and the Great Thoughts ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lost Opportunities ",
+      "uid": "an8.29"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving (1st) ",
+      "uid": "an8.31"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "AN 8.30",
+    "volpages": " PTS 4.229, PTS 4.230, PTS 4.231, PTS 4.232, PTS 4.233, PTS 4.234, PTS 4.235",
+    "alt_volpages": null,
+    "uid": "an8.30",
+    "blurb": "Venerable Anuruddha reflects that the teachings is for someone who is of few wishes, content, secluded, energetic, mindful, peaceful, and wise. To these seven thoughts, the Buddha adds an eighth: the teaching is for those who delight in non-proliferation. Practicing in line with these eight thoughts of a great man, Venerable Anuruddha achieves perfection.",
+    "difficulty": null,
+    "original_title": "Anuruddhamahāvitakkasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Anuruddha and the Great Thoughts ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an8.30_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Anuruddha und die großen Gedanken ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an8.30_translation-en-sujato",
+        "segmented": true,
+        "title": "Anuruddha and the Great Thoughts ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Christelle Ah-Mouck",
+        "author_short": "christelle",
+        "author_uid": "christelle",
+        "publication_date": "2025",
+        "id": "an8.30_translation-fr-christelle",
+        "segmented": true,
+        "title": "Anuruddha et les Grandes Pensées ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an8.30_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "সুমঙ্গল বড়ুয়া",
+        "author_short": "বড়ুয়া",
+        "author_uid": "sumangal-barua",
+        "publication_date": "2018",
+        "id": "bn_an8.30_sumangal-barua",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an8.30_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "has_comment": false,
+        "id": "en_an8.30_bodhi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2012",
+        "segmented": false,
+        "volpage": null,
+        "title": "Anuruddha"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Dr. Ricardo de León",
+        "author_short": "León",
+        "author_uid": "leon",
+        "publication_date": "2012",
+        "id": "es_an8.30_leon",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an8.30_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_an8.30_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an8.30_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an8.30_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2013",
+        "id": "pt_an8.30_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_an8.30_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an8.30_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an8.30_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980–1981",
+        "id": "vi_an8.30_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_an8.30_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj22.136, ms17A8_293, msdiv30, ndp3.331, pts-vp-pli4.229, vri39.63,csp1ed17.63, csp2ed17.63, dr23.249, ms17A8_294,bj22.138, ms17A8_295,ms17A8_296, pts-vp-pli4.230,ms17A8_297, ndp3.332,csp1ed17.64, csp2ed17.64, dr23.250, ms17A8_298, vri39.64,ms17A8_299,ms17A8_300,bj22.140, ms17A8_301, pts-vp-pli4.231,dr23.251, ms17A8_302, ndp3.333,csp1ed17.65, csp2ed17.65, ms17A8_303, vri39.65,bj22.142, ms17A8_304, pts-vp-pli4.232,dr23.252, ms17A8_305, ndp3.334, pts-vp-pli4.233,bj22.144, csp1ed17.66, csp2ed17.66, dr23.253, ms17A8_306, vri39.66,ms17A8_307,ms17A8_308, pts-vp-pli4.234,bj22.146, csp1ed17.67, csp2ed17.67, ms17A8_309, ndp3.335,dr23.254, ms17A8_310, vri39.67,ms17A8_311,ms17A8_312,ms17A8_313, pts-vp-pli4.235,bj22.148, csp1ed17.68, csp2ed17.68, dr23.255, ms17A8_314, ndp3.336,ms17A8_315, vri39.68,ms17A8_316,ms17A8_317,ms17A8_321",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an8.30",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Anuruddhamahāvitakkasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "an8.30",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Anuruddha and the Great Thoughts ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "bodhi"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "root_text": {
+    "uid": "snp4.16",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sāriputtasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Taking Up Arms ",
+      "uid": "snp4.15"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Introductory Verses ",
+      "uid": "snp5.1"
+    }
+  },
+  "translation": {
+    "uid": "snp4.16",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of Sāriputta ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Taking Up Arms ",
+      "uid": "snp4.15"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Introductory Verses ",
+      "uid": "snp5.1"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 4.16",
+    "volpages": " PTS 186, PTS 187, PTS 188, PTS 189",
+    "alt_volpages": null,
+    "uid": "snp4.16",
+    "blurb": "When a monk, disaffected with the world, takes up the life of seclusion, what fears should he overcome? What dangers should he beware of? How should he train to blow away the impurities in his heart?",
+    "difficulty": null,
+    "original_title": "Sāriputtasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Questions of Sāriputta ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp4.16_translation-en-sujato",
+        "segmented": true,
+        "title": "The Questions of Sāriputta ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp4.16_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp4.16_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp4.16_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp4.16_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sāriputta asks the Buddha"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_snp4.16_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp4.16_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_snp4.16_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp4.16_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp4.16_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_snp4.16_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp4.16_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp4.16_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp4.16_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sl",
+        "lang_name": "Slovenščina",
+        "is_root": false,
+        "author": "Ajahn Hiriko",
+        "author_short": "Hiriko",
+        "author_uid": "hiriko",
+        "publication_date": null,
+        "id": "sl_snp4.16_hiriko",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp4.16_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 46,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj25.300, csp1ed18.426, csp2ed18.426, dr25.563, ms18Sn_1138, sya25.520, vnp955, vns962, vri48.222,mc0.521, ms18Sn_1139, vnp956, vns963,ms18Sn_1140, pts-vp-pli186, vnp957, vns964,ms18Sn_1141, vnp958, vns965,ms18Sn_1142, vnp959, vns966,ms18Sn_1143, vnp960, vns967,ms18Sn_1144, vnp961, vns968,bj25.302, dr25.564, ms18Sn_1145, vnp962, vns969,cck25.425, ms18Sn_1146, ndp20.416, sya25.521, vnp963, vns970, vri48.223,mc0.522, ms18Sn_1147, vnp964, vns971,csp1ed18.427, csp2ed18.427, ms18Sn_1148, pts-vp-pli187, vnp965, vns972,ms18Sn_1149, vnp966, vns973,ms18Sn_1150, vnp967, vns974,dr25.565, ms18Sn_1151, sya25.522, vnp968, vns975,bj25.304, cck25.426, mc0.523, ms18Sn_1152, ndp20.417, vnp969, vns976,ms18Sn_1153, vnp970, vns977,ms18Sn_1154, pts-vp-pli188, vnp971, vns978,csp1ed18.428, csp2ed18.428, ms18Sn_1155, vnp972, vns979, vri48.224,dr25.566, ms18Sn_1156, sya25.523, vnp973, vns980,mc0.524, ms18Sn_1157, vnp974, vns981,cck25.427, ms18Sn_1158, pts-vp-pli189, vnp975, vns982,ms18Sn_1162, ndp20.418,ms18Sn_1163",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp4.16",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sāriputtasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp4.16",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Questions of Sāriputta ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "mills"
+  ]
+}

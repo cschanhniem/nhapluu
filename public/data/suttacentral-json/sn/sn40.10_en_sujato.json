@@ -1,0 +1,284 @@
+{
+  "root_text": {
+    "uid": "sn40.10",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sakkasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "A Question About the Signless ",
+      "uid": "sn40.9"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Candana, Etc. ",
+      "uid": "sn40.11"
+    }
+  },
+  "translation": {
+    "uid": "sn40.10",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Sakka ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Question About the Signless ",
+      "uid": "sn40.9"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Candana, Etc. ",
+      "uid": "sn40.11"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 40.10",
+    "volpages": " PTS 4.270, PTS 4.271, PTS 4.272, PTS 4.273, PTS 4.274, PTS 4.275, PTS 4.276, PTS 4.277, PTS 4.278, PTS 4.279, PTS 4.280",
+    "alt_volpages": null,
+    "uid": "sn40.10",
+    "blurb": "Moggallāna ascended to the heaven of the Thirty-Three to address Sakka, the lord of gods, and his extensive retinue. He spoke in praise of going for refuge, as it leads to heaven. Sakka affirmed this on multiple occasions, adding that gods who had gone for refuge and kept ethics surpassed the other deities in the heavens.",
+    "difficulty": null,
+    "original_title": "Sakkasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Sakka ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn40.10_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Sakka ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn40.10_translation-en-sujato",
+        "segmented": true,
+        "title": "With Sakka ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn40.10_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "জ্ঞানেন্দ্রিয় ভিক্ষু",
+        "author_short": "জ্ঞানেন্দ্রিয়",
+        "author_uid": "gyanendriya",
+        "publication_date": "2018",
+        "id": "bn_sn40.10_gyanendriya",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn40.10_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn40.10_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn40.10_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn40.10_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2018",
+        "id": "no_sn40.10_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2012",
+        "id": "ru_sn40.10_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn40.10_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn40.10_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn40.10_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "cck18.329, csp1ed13.463, csp2ed13.463, ms13S4_1401, msdiv341, pts-vp-pli4.270, sya18.331, vri26.263,dr18.331, ms13S4_1402, ndp14.241,bj16.502, ms13S4_1403,cck18.330, ms13S4_1405, pts-vp-pli4.271, sya18.332, vri26.264,csp1ed13.464, csp2ed13.464, dr18.332, ms13S4_1406,cck18.331, ms13S4_1407, ndp14.242,ms13S4_1409, sya18.333,ms13S4_1410,bj16.504, dr18.333, ms13S4_1411, pts-vp-pli4.272, vri26.265,cck18.332, csp1ed13.465, csp2ed13.465, ms13S4_1412, sya18.334,ms13S4_1413, ndp14.243,ms13S4_1414,dr18.334, ms13S4_1415,cck18.333, ms13S4_1416, pts-vp-pli4.273, sya18.335, vri26.266,ms13S4_1417,bj16.506, csp1ed13.466, csp2ed13.466, ms13S4_1419,dr18.335, ms13S4_1420,cck18.334, ms13S4_1421, ndp14.244, sya18.336,ms13S4_1422, pts-vp-pli4.274, vri26.267,ms13S4_1423,dr18.336, ms13S4_1424,cck18.335, csp1ed13.467, csp2ed13.467, ms13S4_1425,ms13S4_1426, sya18.337,ms13S4_1427,bj16.508, ms13S4_1429, ndp14.245, vri26.268,dr18.337, ms13S4_1430, pts-vp-pli4.275,cck18.336, ms13S4_1431, sya18.338,csp1ed13.468, csp2ed13.468, ms13S4_1432,ms13S4_1433,ms13S4_1434,cck18.337, dr18.338, ms13S4_1435, ndp14.246, sya18.339, vri26.269,bj16.510, ms13S4_1437, pts-vp-pli4.276,ms13S4_1438,ms13S4_1439,cck18.338, csp1ed13.469, csp2ed13.469, ms13S4_1440, sya18.340,dr18.339, ms13S4_1441, vri26.270,ms13S4_1443, ndp14.247, pts-vp-pli4.277,bj16.512, cck18.339, ms13S4_1444,ms13S4_1445, sya18.341,csp1ed13.470, csp2ed13.470, dr18.340, ms13S4_1446,ms13S4_1447,ms13S4_1448, vri26.271,cck18.340, ms13S4_1449, ndp14.248,dr18.341, ms13S4_1450, pts-vp-pli4.278, sya18.342,bj16.514, ms13S4_1451,cck18.341, csp1ed13.471, csp2ed13.471, ms13S4_1453, sya18.343, vri26.272,dr18.342, ms13S4_1454, ndp14.249,ms13S4_1455, pts-vp-pli4.279,bj16.516, cck18.342, csp1ed13.472, csp2ed13.472, ms13S4_1456, sya18.344,dr18.343, ms13S4_1457, vri26.273,cck18.343, ms13S4_1458, ndp14.250,ms13S4_1459, pts-vp-pli4.280, sya18.345,ms13S4_1460,bj16.518, cck18.344, csp1ed13.473, csp2ed13.473, dr18.344, ms13S4_1461, vri26.274",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn40.10",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sakkasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn40.10",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Sakka ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

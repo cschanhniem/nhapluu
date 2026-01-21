@@ -1,0 +1,353 @@
+{
+  "root_text": {
+    "uid": "ud8.5",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Cundasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "About Extinguishment (4th) ",
+      "uid": "ud8.4"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "The Layfolk of Pāṭali Village ",
+      "uid": "ud8.6"
+    }
+  },
+  "translation": {
+    "uid": "ud8.5",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Cunda ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "About Extinguishment (4th) ",
+      "uid": "ud8.4"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Layfolk of Pāṭali Village ",
+      "uid": "ud8.6"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Ud 8.5",
+    "volpages": " PTS 82, PTS 83, PTS 84, PTS 85",
+    "alt_volpages": null,
+    "uid": "ud8.5",
+    "blurb": "The Buddha’s last meal.",
+    "difficulty": null,
+    "original_title": "Cundasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Cunda ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": null,
+        "id": "ud8.5_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Cunda ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2021",
+        "id": "ud8.5_translation-en-sujato",
+        "segmented": true,
+        "title": "With Cunda ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "ud8.5_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "brankokovacevic",
+        "author_uid": "brankokovacevic",
+        "publication_date": "2024",
+        "id": "ud8.5_translation-sr-brankokovacevic",
+        "segmented": true,
+        "title": "Ćunda ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Karl Seidenstücker",
+        "author_short": "Seidenstücker",
+        "author_uid": "seidenstuecker",
+        "publication_date": "1920",
+        "id": "de_ud8.5_seidenstuecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "has_comment": false,
+        "id": "en_ud8.5_anandajoti",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2008",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Discourse about Cunda"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "F. Tola, C. Dragonetti",
+        "author_short": "Tola …",
+        "author_uid": "tola-dragonetti",
+        "publication_date": "2009",
+        "id": "es_ud8.5_tola-dragonetti",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_ud8.5_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_ud8.5_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_ud8.5_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_ud8.5_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_ud8.5_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Guy Eugène Dubois",
+        "author_short": "Dubois",
+        "author_uid": "dubois",
+        "publication_date": null,
+        "id": "nl_ud8.5_dubois",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_ud8.5_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Gabriel N. Laera",
+        "author_short": "Laera",
+        "author_uid": "laera",
+        "publication_date": "2015",
+        "id": "pt_ud8.5_laera",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Леонид Шаповалов",
+        "author_short": "Шаповалов",
+        "author_uid": "shapovalov",
+        "publication_date": null,
+        "id": "ru_ud8.5_shapovalov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_ud8.5_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "sr",
+        "lang_name": "Srpski",
+        "is_root": false,
+        "author": "Branislav Kovačević",
+        "author_short": "Kovačević",
+        "author_uid": "kovacevic",
+        "publication_date": "2022",
+        "id": "sr_ud8.5_kovacevic",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 25,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "cck25.169, ms18Ud_677, msdiv75, ndp20.164, vri47.166,dr25.241, ms18Ud_678, sya25.209,mc0.215, ms18Ud_679,bj24.296, cck25.170, csp1ed18.180, csp2ed18.180, ms18Ud_680, pts-vp-pli82,dr25.242, ms18Ud_681, ndp20.165, sya25.210, vri47.167,ms18Ud_682,ms18Ud_683,mc0.216, ms18Ud_684, vns87,ms18Ud_685, vns88,bj24.298, cck25.171, csp1ed18.181, csp2ed18.181, dr25.243, ms18Ud_686, pts-vp-pli83, sya25.211,ms18Ud_687, ndp20.166,dr25.244, mc0.217, ms18Ud_688, sya25.212, vri47.168,cck25.172, ms18Ud_689, pts-vp-pli84,csp1ed18.182, csp2ed18.182, ms18Ud_690, sya25.213,dr25.245, mc0.218, ms18Ud_691,bj24.300, ms18Ud_692, ndp20.167, vns89,cck25.173, ms18Ud_693, vns90, vri47.169,ms18Ud_694, vns91,ms18Ud_695, pts-vp-pli85, sya25.214,csp1ed18.183, csp2ed18.183, dr25.246, mc0.219, ms18Ud_696,cck25.174, ms18Ud_697, ndp20.168, sya25.215,ms18Ud_698, vri47.170,bj24.302, ms18Ud_699, vns92",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "ud8.5",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Cundasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "ud8.5",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Cunda ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "anandajoti"
+  ]
+}

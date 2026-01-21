@@ -1,0 +1,311 @@
+{
+  "root_text": {
+    "uid": "sn55.26",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Paṭhamaanāthapiṇḍikasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "About Sarakāni the Sakyan (2nd) ",
+      "uid": "sn55.25"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Anāthapiṇḍika (2nd) ",
+      "uid": "sn55.27"
+    }
+  },
+  "translation": {
+    "uid": "sn55.26",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Anāthapiṇḍika (1st) ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "About Sarakāni the Sakyan (2nd) ",
+      "uid": "sn55.25"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Anāthapiṇḍika (2nd) ",
+      "uid": "sn55.27"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "SN 55.26",
+    "volpages": " PTS 5.381, PTS 5.382, PTS 5.383, PTS 5.384, PTS 5.385",
+    "alt_volpages": null,
+    "uid": "sn55.26",
+    "blurb": "When the householder Anāthapiṇḍika was sick, Sāriputta reminds him of his considerable accomplishments in the Dhamma, analyzing stream-entry in ten factors, at which Anāthapiṇḍika recovers. Later he invited Sāriputta and Ānanda for a meal, and Sāriputta thanked him with verses.",
+    "difficulty": null,
+    "original_title": "Paṭhamaanāthapiṇḍikasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Anāthapiṇḍika (1st) ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "sn55.26_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Anāthapiṇḍika (1) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "sn55.26_translation-en-sujato",
+        "segmented": true,
+        "title": "Anāthapiṇḍika (1st) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "sn55.26_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2024",
+        "id": "sn55.26_translation-ru-sv",
+        "segmented": true,
+        "title": "Анатхапиндика (I) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "বঙ্গীস ভিক্ষু, অজিত ভিক্ষু, প্রজ্ঞাদর্শী ভিক্ষু",
+        "author_short": "বঙ্গীস …",
+        "author_uid": "bangish-ajit-pragyadarshi",
+        "publication_date": "2018",
+        "id": "bn_sn55.26_bangish-ajit-pragyadarshi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Dr. Hellmuth Hecker",
+        "author_short": "Hecker",
+        "author_uid": "hecker",
+        "publication_date": "1993",
+        "id": "de_sn55.26_hecker",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_sn55.26_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_sn55.26_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_sn55.26_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": "2019",
+        "id": "no_sn55.26_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_sn55.26_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_sn55.26_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_sn55.26_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980",
+        "id": "vi_sn55.26_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_sn55.26_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 14,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "csp1ed14.332, csp2ed14.332, ms14S5_1942, msdiv1022, ndp15.325, vri27.444,dr19.472, ms14S5_1943, pts-vp-pli5.381, sya19.479,ms14S5_1944,bj17.2.202, cck19.367, ms14S5_1945,csp1ed14.333, csp2ed14.333, dr19.473, ms14S5_1946, ndp15.326, sya19.480, vri27.445,ms14S5_1947, pts-vp-pli5.382,cck19.368, ms14S5_1948,ms14S5_1949, sya19.481,dr19.474, ms14S5_1950,bj17.2.204, csp1ed14.334, csp2ed14.334, ms14S5_1951, vri27.446,ms14S5_1952, ndp15.327, pts-vp-pli5.383,cck19.369, ms14S5_1953, sya19.482,ms14S5_1954,dr19.475, ms14S5_1955,ms14S5_1956,csp1ed14.335, csp2ed14.335, ms14S5_1957, sya19.483, vri27.447,bj17.2.206, ms14S5_1958, pts-vp-pli5.384,ms14S5_1959, ndp15.328,cck19.370, dr19.476, ms14S5_1960, sya19.484,ms14S5_1961,ms14S5_1962,ms14S5_1963, vri27.448,ms14S5_1964,csp1ed14.336, csp2ed14.336, ms14S5_1965, pts-vp-pli5.385",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "sn55.26",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Paṭhamaanāthapiṇḍikasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "sn55.26",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Anāthapiṇḍika (1st) ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

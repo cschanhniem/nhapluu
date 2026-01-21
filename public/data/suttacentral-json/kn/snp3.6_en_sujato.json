@@ -1,0 +1,270 @@
+{
+  "root_text": {
+    "uid": "snp3.6",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sabhiyasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Māgha on Giving ",
+      "uid": "snp3.5"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With Sela ",
+      "uid": "snp3.7"
+    }
+  },
+  "translation": {
+    "uid": "snp3.6",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Sabhiya’s Questions ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Māgha on Giving ",
+      "uid": "snp3.5"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sela ",
+      "uid": "snp3.7"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 3.6",
+    "volpages": " PTS 92, PTS 93, PTS 94, PTS 95, PTS 96, PTS 97, PTS 98, PTS 99, PTS 100, PTS 101, PTS 102",
+    "alt_volpages": null,
+    "uid": "snp3.6",
+    "blurb": "A sutta dating from early in the Buddha’s teaching career. A wanderer, disappointed in the teachings he has received from other teachers, approaches the Buddha with his questions.",
+    "difficulty": null,
+    "original_title": "Sabhiyasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Sabhiya’s Questions ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp3.6_translation-en-sujato",
+        "segmented": true,
+        "title": "Sabhiya’s Questions ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp3.6_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp3.6_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp3.6_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp3.6_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp3.6_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp3.6_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp3.6_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp3.6_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp3.6_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp3.6_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp3.6_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 25,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "bj25.152, dr25.470, ms18Sn_597, sya25.426,cck25.347, csp1ed18.356, csp2ed18.356, mc0.433, ms18Sn_598, ndp20.345, pts-vp-pli92,ms18Sn_599, sya25.427,dr25.471, ms18Sn_600, vri48.158,bj25.154, mc0.434, ms18Sn_601, pts-vp-pli93,cck25.348, ms18Sn_602, ndp20.346,csp1ed18.357, csp2ed18.357, dr25.472, ms18Sn_603, sya25.428,ms18Sn_604, vnp510, vns516,ms18Sn_605, pts-vp-pli94, vnp511, vns517,ms18Sn_606, vnp512, vns518, vri48.159,mc0.435, ms18Sn_607, ndp20.347, sya25.429,bj25.156, cck25.349, ms18Sn_608, vnp513, vns519,dr25.473, ms18Sn_609, pts-vp-pli95, vnp514, vns520,csp1ed18.358, csp2ed18.358, ms18Sn_610, vnp515, vns521,ms18Sn_611, vnp516, vns522,mc0.436, ms18Sn_612, sya25.430, vnp517, vns523,ms18Sn_613,cck25.350, dr25.474, ms18Sn_614, ndp20.348, pts-vp-pli96, vnp518, vns524, vri48.160,bj25.158, ms18Sn_615, vnp519, vns525,ms18Sn_616, vnp520, vns526,csp1ed18.359, csp2ed18.359, ms18Sn_617, sya25.431, vnp521, vns527,mc0.437, ms18Sn_618, vnp522, vns528,dr25.475, ms18Sn_619,cck25.351, ms18Sn_620, pts-vp-pli97, vnp523, vns529,ms18Sn_621, ndp20.349, vnp524, vns530,ms18Sn_622, vnp525, vns531, vri48.161,bj25.160, ms18Sn_623, sya25.432, vnp526, vns532,csp1ed18.360, csp2ed18.360, mc0.438, ms18Sn_624, vnp527, vns533,dr25.476, ms18Sn_625,ms18Sn_626, pts-vp-pli98, vnp528, vns534,cck25.352, ms18Sn_627, vnp529, vns535,ms18Sn_628, ndp20.350, sya25.433, vnp530, vns536,ms18Sn_629, vnp531, vns537,mc0.439, ms18Sn_630, vnp532, vns538,csp1ed18.361, csp2ed18.361, dr25.477, ms18Sn_631, vri48.162,bj25.162, ms18Sn_632, pts-vp-pli99, vnp533, vns539,cck25.353, ms18Sn_633, sya25.434, vnp534, vns540,ms18Sn_634, vnp535, vns541,ms18Sn_635, ndp20.351, vnp536, vns542,dr25.478, mc0.440, ms18Sn_636, vnp537, vns543,ms18Sn_637, pts-vp-pli100,bj25.164, cck25.354, csp1ed18.362, csp2ed18.362, ms18Sn_638, sya25.435, vnp538, vns544,ms18Sn_639, vnp539, vns545, vri48.163,ms18Sn_640, vnp540, vns546,dr25.479, mc0.441, ms18Sn_641, ndp20.352, pts-vp-pli101, vnp541, vns547,ms18Sn_642, vnp542, vns548,ms18Sn_643, vnp543, vns549,ms18Sn_644, vnp544, vns550,ms18Sn_645, sya25.436, vnp545, vns551,ms18Sn_646, vnp546, vns552,cck25.355, csp1ed18.363, csp2ed18.363, ms18Sn_647, vnp547, vns553,bj25.166, dr25.480, mc0.442, ms18Sn_648, pts-vp-pli102, vri48.164,ms18Sn_649,cck25.356, ms18Sn_650, ndp20.353, sya25.437",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp3.6",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sabhiyasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp3.6",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "Sabhiya’s Questions ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": []
+}

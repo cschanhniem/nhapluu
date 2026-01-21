@@ -1,0 +1,339 @@
+{
+  "root_text": {
+    "uid": "snp3.11",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Nālakasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "To Kokāliya on the Results of Slander ",
+      "uid": "snp3.10"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Contemplating Pairs ",
+      "uid": "snp3.12"
+    }
+  },
+  "translation": {
+    "uid": "snp3.11",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Sages Asita and Nālaka ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "To Kokāliya on the Results of Slander ",
+      "uid": "snp3.10"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Contemplating Pairs ",
+      "uid": "snp3.12"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "Snp 3.11",
+    "volpages": " PTS 132, PTS 133, PTS 134, PTS 135, PTS 136, PTS 137, PTS 138, PTS 139",
+    "alt_volpages": null,
+    "uid": "snp3.11",
+    "blurb": "A sutta in two parts. The first part gives an account of events soon after the birth of the Bodhisatta. The second part describes the way of the sage.",
+    "difficulty": null,
+    "original_title": "Nālakasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "The Sages Asita and Nālaka ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "snp3.11_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Über Nālaka ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp3.11_translation-en-sujato",
+        "segmented": true,
+        "title": "The Sages Asita and Nālaka ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp3.11_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp3.11_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp3.11_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "has_comment": false,
+        "id": "en_snp3.11_mills",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2015",
+        "segmented": false,
+        "volpage": null,
+        "title": "The Sages Asita and Nālaka and the Buddha’s advice"
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Canonpali.org",
+        "author_short": "CPO",
+        "author_uid": "canonpaliorg",
+        "publication_date": null,
+        "id": "fr_snp3.11_canonpaliorg",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp3.11_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_snp3.11_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp3.11_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp3.11_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp3.11_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp3.11_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2005",
+        "id": "pt_snp3.11_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp3.11_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp3.11_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp3.11_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "mc0.469, ms18Sn_817, vnp679, vns685,ms18Sn_818, pts-vp-pli132, vnp680, vns686,dr25.510, ms18Sn_819, ndp20.375, vnp681, vns687,cck25.380, ms18Sn_820, sya25.467, vnp682, vns688,bj25.214, csp1ed18.386, csp2ed18.386, ms18Sn_821, vnp683, vns689,mc0.470, ms18Sn_822, pts-vp-pli133, vnp684, vns690,ms18Sn_823, vnp685, vns691, vri48.186,dr25.511, ms18Sn_824, vnp686, vns692,ms18Sn_825, ndp20.376, sya25.468, vnp687, vns693,cck25.381, ms18Sn_826, vnp688, vns694,csp1ed18.387, csp2ed18.387, mc0.471, ms18Sn_827, pts-vp-pli134, vnp689, vns695,bj25.216, ms18Sn_828, vnp690, vns696,dr25.512, ms18Sn_829, vnp691, vns697,ms18Sn_830, sya25.469, vnp692, vns698,ms18Sn_831, vnp693, vns699,cck25.382, mc0.472, ms18Sn_832, ndp20.377, pts-vp-pli135, vnp694, vns700,csp1ed18.388, csp2ed18.388, ms18Sn_833, vnp695, vns701, vri48.187,dr25.513, ms18Sn_834, vnp696, vns702,bj25.218, ms18Sn_835, sya25.470, vnp697, vns703,ms18Sn_836, pts-vp-pli136, vnp698, vns704,mc0.473, ms18Sn_838, vnp699, vns705,ms18Sn_839, vnp700, vns706,cck25.383, dr25.514, ms18Sn_840, ndp20.378, vnp701, vns707,csp1ed18.389, csp2ed18.389, ms18Sn_841, vnp702, vns708,ms18Sn_842, pts-vp-pli137, vnp703, vns709, vri48.188,ms18Sn_843, sya25.471, vnp704, vns710,bj25.220, ms18Sn_844, vnp705, vns711,ms18Sn_845, vnp706, vns712,mc0.474, ms18Sn_846, vnp707, vns713,ms18Sn_847, vnp708, vns714,ms18Sn_848, vnp709, vns715,dr25.515, ms18Sn_849, vnp710, vns716,ms18Sn_850, vnp711, vns717,cck25.384, ms18Sn_851, vnp712, vns718,ms18Sn_852, ndp20.379, pts-vp-pli138, vnp713, vns719, vri48.189,bj25.222, csp1ed18.390, csp2ed18.390, ms18Sn_853, sya25.472, vnp714, vns720,ms18Sn_854, vnp715, vns721,mc0.475, ms18Sn_855, vnp716, vns722,ms18Sn_856, vnp717, vns723,dr25.516, ms18Sn_857, vnp718, vns724,ms18Sn_858, vnp719, vns725,ms18Sn_859, pts-vp-pli139, vnp720, vns726,ms18Sn_860, vnp721, vns727,cck25.385, ms18Sn_861, vnp722, vns728,ms18Sn_862, sya25.473, vnp723, vns729, vri48.190",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp3.11",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Nālakasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "snp3.11",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "The Sages Asita and Nālaka ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "mills"
+  ]
+}

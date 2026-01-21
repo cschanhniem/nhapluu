@@ -1,0 +1,353 @@
+{
+  "root_text": {
+    "uid": "an3.66",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sāḷhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "With the Kālāmas of Kesamutta ",
+      "uid": "an3.65"
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": "Topics of Discussion ",
+      "uid": "an3.67"
+    }
+  },
+  "translation": {
+    "uid": "an3.66",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Sāḷha and His Friend ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With the Kālāmas of Kesamutta ",
+      "uid": "an3.65"
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Topics of Discussion ",
+      "uid": "an3.67"
+    }
+  },
+  "segmented": true,
+  "suttaplex": {
+    "acronym": "AN 3.66",
+    "volpages": " PTS 1.194, PTS 1.195, PTS 1.196, PTS 1.197",
+    "alt_volpages": null,
+    "uid": "an3.66",
+    "blurb": "How to navigate among different spiritual opinions.",
+    "difficulty": null,
+    "original_title": "Sāḷhasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "With Sāḷha and His Friend ",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an3.66_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Mit Sāḷha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an3.66_translation-en-sujato",
+        "segmented": true,
+        "title": "With Sāḷha and His Friend ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Rémy Zins",
+        "author_short": "sekha",
+        "author_uid": "sekha",
+        "publication_date": "2022",
+        "id": "an3.66_translation-fr-sekha",
+        "segmented": true,
+        "title": "Pour Salha ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an3.66_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "সুমঙ্গল বড়ুয়া",
+        "author_short": "বড়ুয়া",
+        "author_uid": "sumangal-barua",
+        "publication_date": "2018",
+        "id": "bn_an3.66_sumangal-barua",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an3.66_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Bhikkhu Ñāṇamoli",
+        "author_short": "Ñāṇamoli",
+        "author_uid": "nyanamoli",
+        "has_comment": false,
+        "id": "en_an3.66_nyanamoli",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1994",
+        "segmented": false,
+        "volpage": null,
+        "title": "To Salha"
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Isidatta",
+        "author_short": "Isidatta",
+        "author_uid": "isidatta",
+        "publication_date": "2012",
+        "id": "es_an3.66_isidatta",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an3.66_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "it",
+        "lang_name": "Italiano",
+        "is_root": false,
+        "author": "Enzo Alfano",
+        "author_short": "Alfano",
+        "author_uid": "alfano",
+        "publication_date": null,
+        "id": "it_an3.66_alfano",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an3.66_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an3.66_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pt",
+        "lang_name": "Português",
+        "is_root": false,
+        "author": "Michael Beisert",
+        "author_short": "Beisert",
+        "author_uid": "beisert",
+        "publication_date": "2013",
+        "id": "pt_an3.66_beisert",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2014",
+        "id": "ru_an3.66_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an3.66_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an3.66_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "is_root": false,
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "publication_date": "1980–1981",
+        "id": "vi_an3.66_minh_chau",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_an3.66_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "priority_author_uid": "sujato",
+    "verseNo": "dr20.248, ms15A3_526, msdiv67, sya20.249,bj18.346, ms15A3_527, pts-vp-pli1.194, vri35.223,ms15A3_528,ms15A3_529,ms15A3_530,ms15A3_531,cck20.251, csp1ed15.195, csp2ed15.195, ms15A3_532,ms15A3_533,dr20.249, ms15A3_534,ms15A3_535,ms15A3_536,ms15A3_537,ms15A3_538, ndp16.180, sya20.250,ms15A3_539,ms15A3_540,ms15A3_541,ms15A3_542, vri35.224,ms15A3_543,ms15A3_544,ms15A3_545,ms15A3_546,ms15A3_547, pts-vp-pli1.195,bj18.348, cck20.252, ms15A3_548,csp1ed15.196, csp2ed15.196, dr20.250, ms15A3_549, sya20.251,ms15A3_550, ndp16.181,ms15A3_551,ms15A3_552, vri35.225,ms15A3_553,ms15A3_554,ms15A3_555,ms15A3_556,ms15A3_557,ms15A3_558,cck20.253, ms15A3_559,ms15A3_560, pts-vp-pli1.196,ms15A3_561,bj18.350, dr20.251, ms15A3_562,ms15A3_563,ms15A3_564,ms15A3_565,ms15A3_566,ms15A3_567, vri35.226,ms15A3_568,ms15A3_569, sya20.252,csp1ed15.197, csp2ed15.197, ms15A3_570, ndp16.182,cck20.254, dr20.252, ms15A3_571, pts-vp-pli1.197, sya20.253, vri35.227,ms15A3_572",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an3.66",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Sāḷhasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": {
+    "uid": "an3.66",
+    "lang": "en",
+    "author_uid": "sujato",
+    "author": "Bhikkhu Sujato",
+    "author_short": "sujato",
+    "title": "With Sāḷha and His Friend ",
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": null,
+      "uid": null
+    }
+  },
+  "candidate_authors": [
+    "nyanamoli"
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "root_text": {
+    "uid": "an8.5",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Tùy Chuyển Thế Giới (1)",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Worldly Conditions (2nd) ",
+      "uid": "an8.6"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Disliked (2nd) ",
+      "uid": "an8.4"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='an8.5' lang='vi'>\n<header>\n<ul>\n<li class='division' lang='pli' translate='no'>Aṅguttara Nikāya</li>\n<li><span class='roman-numerals'>I</span>. Phẩm Từ</li>\n</ul>\n<h1>8.5. Tùy Chuyển Thế Giới (1)</h1>\n</header>\n<p><a class='ref ttc' id='ttc1' href='#ttc1'>TTC 1</a>—Tám pháp thế gian này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp thế gian này. Thế nào là tám?</p>\n<p><a class='ref ttc' id='ttc2' href='#ttc2'>TTC 2</a>Lợi dưỡng và không lợi dưỡng, danh vọng và không danh vọng, tán thán và chỉ trích, lạc và khổ.</p>\n<p>Tám pháp thế gian này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp thế gian này.</p>\n<blockquote class='gatha'>\n<p>Lợi dưỡng, không lợi dưỡng,<br>\nDanh vọng, không danh vọng<br>\nTán thán và chỉ trích<br>\nAn lạc và đau khổ<br>\nNhững pháp này vô thường<br>\nKhông thường hằng biến diệt<br>\nBiết chúng giữ chánh niệm<br>\nBậc trí quán biến diệt<br>\nPháp khả ái, không động<br>\nKhông khả ái, không sân<br>\nCác pháp thuận hay nghịch<br>\nÐược tiêu tan không còn<br>\nSau khi biết con đường<br>\nKhông trần cấu, không sầu<br>\nChơn chánh biết sanh hữu<br>\nÐi đến bờ bên kia.</p>\n</blockquote>\n<footer>\n<p>Bộ kinh nầy được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch từ tạng Pali sang Việt ngữ năm 1976–1977, và được Viện Phật Học Vạn Hạnh, Sài Gòn, ấn hành năm <span class='publication-date'>1980–1981</span>. Trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được hiệu đính thành 4 tập và tái bản năm 1996, qua số thứ tự 21, 22, 23, và 24.</p>\n<p>These texts have been used with the kind permission of the webmaster of <a href='http://www.budsas.net/'>http://www.budsas.net/</a></p>\n<p>Prepared for SuttaCentral by <span class='editor'>Ayya Vimala</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "translation": {
+    "uid": "an8.5",
+    "lang": "vi",
+    "is_root": false,
+    "title": "Tùy Chuyển Thế Giới (1)",
+    "author": "Thích Minh Châu",
+    "author_short": "Minh Châu",
+    "author_uid": "minh_chau",
+    "next": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Worldly Conditions (2nd) ",
+      "uid": "an8.6"
+    },
+    "previous": {
+      "author_uid": "minh_chau",
+      "lang": "vi",
+      "name": "Disliked (2nd) ",
+      "uid": "an8.4"
+    },
+    "text": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset='UTF-8'>\n<meta name='author' content='Thích Minh Châu'>\n<title></title>\n</head>\n<body>\n<article id='an8.5' lang='vi'>\n<header>\n<ul>\n<li class='division' lang='pli' translate='no'>Aṅguttara Nikāya</li>\n<li><span class='roman-numerals'>I</span>. Phẩm Từ</li>\n</ul>\n<h1>8.5. Tùy Chuyển Thế Giới (1)</h1>\n</header>\n<p><a class='ref ttc' id='ttc1' href='#ttc1'>TTC 1</a>—Tám pháp thế gian này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp thế gian này. Thế nào là tám?</p>\n<p><a class='ref ttc' id='ttc2' href='#ttc2'>TTC 2</a>Lợi dưỡng và không lợi dưỡng, danh vọng và không danh vọng, tán thán và chỉ trích, lạc và khổ.</p>\n<p>Tám pháp thế gian này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp thế gian này.</p>\n<blockquote class='gatha'>\n<p>Lợi dưỡng, không lợi dưỡng,<br>\nDanh vọng, không danh vọng<br>\nTán thán và chỉ trích<br>\nAn lạc và đau khổ<br>\nNhững pháp này vô thường<br>\nKhông thường hằng biến diệt<br>\nBiết chúng giữ chánh niệm<br>\nBậc trí quán biến diệt<br>\nPháp khả ái, không động<br>\nKhông khả ái, không sân<br>\nCác pháp thuận hay nghịch<br>\nÐược tiêu tan không còn<br>\nSau khi biết con đường<br>\nKhông trần cấu, không sầu<br>\nChơn chánh biết sanh hữu<br>\nÐi đến bờ bên kia.</p>\n</blockquote>\n<footer>\n<p>Bộ kinh nầy được <span class='author'>Hòa thượng Thích Minh Châu</span> dịch từ tạng Pali sang Việt ngữ năm 1976–1977, và được Viện Phật Học Vạn Hạnh, Sài Gòn, ấn hành năm <span class='publication-date'>1980–1981</span>. Trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được hiệu đính thành 4 tập và tái bản năm 1996, qua số thứ tự 21, 22, 23, và 24.</p>\n<p>These texts have been used with the kind permission of the webmaster of <a href='http://www.budsas.net/'>http://www.budsas.net/</a></p>\n<p>Prepared for SuttaCentral by <span class='editor'>Ayya Vimala</span>.</p>\n</footer>\n</article>\n</body>\n</html>\n"
+  },
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "AN 8.5",
+    "volpages": " PTS 4.157",
+    "alt_volpages": null,
+    "uid": "an8.5",
+    "blurb": "The eight worldly conditions in brief: gain and loss, fame and disgrace, praise and blame, pleasure and pain.",
+    "difficulty": null,
+    "original_title": "Paṭhamalokadhammasutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": "Tùy Chuyển Thế Giới (1)",
+    "translations": [
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Sabbamitta",
+        "author_short": "sabbamitta",
+        "author_uid": "sabbamitta",
+        "publication_date": "2019",
+        "id": "an8.5_translation-de-sabbamitta",
+        "segmented": true,
+        "title": "Weltliche Gegebenheiten (1) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "an8.5_translation-en-sujato",
+        "segmented": true,
+        "title": "Worldly Conditions (1st) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Magga Traducciones",
+        "author_short": "maggatr",
+        "author_uid": "maggatr",
+        "publication_date": "2023",
+        "id": "an8.5_translation-es-maggatr",
+        "segmented": true,
+        "title": "Condiciones del mundo (1º) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "fr",
+        "lang_name": "Français",
+        "is_root": false,
+        "author": "Christelle Ah-Mouck",
+        "author_short": "christelle",
+        "author_uid": "christelle",
+        "publication_date": "2025",
+        "id": "an8.5_translation-fr-christelle",
+        "segmented": true,
+        "title": "Les conditions du monde (1er) ",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "an8.5_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV theravada.ru",
+        "author_short": "sv",
+        "author_uid": "sv",
+        "publication_date": "2025",
+        "id": "an8.5_translation-ru-sv",
+        "segmented": true,
+        "title": "Сутта Мирские ситуации Первая",
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "bn",
+        "lang_name": "বাংলা",
+        "is_root": false,
+        "author": "সুমঙ্গল বড়ুয়া",
+        "author_short": "বড়ুয়া",
+        "author_uid": "sumangal-barua",
+        "publication_date": "2018",
+        "id": "bn_an8.5_sumangal-barua",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyānatiloka Thera",
+        "author_short": "Nyanatiloka",
+        "author_uid": "nyanatiloka",
+        "publication_date": "1907",
+        "id": "de_an8.5_nyanatiloka",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "publication_date": "2012",
+        "id": "en_an8.5_bodhi",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "es",
+        "lang_name": "Español",
+        "is_root": false,
+        "author": "Bhikkhu U Nandisena",
+        "author_short": "Nandisena",
+        "author_uid": "nandisena",
+        "publication_date": "2012",
+        "id": "es_an8.5_nandisena",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_an8.5_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_an8.5_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_an8.5_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "SV",
+        "author_short": "SV",
+        "author_uid": "sv",
+        "publication_date": "2013",
+        "id": "ru_an8.5_sv",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_an8.5_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "th",
+        "lang_name": "ไทย",
+        "is_root": false,
+        "author": "Siam Rath",
+        "author_short": "Siam Rath",
+        "author_uid": "siam_rath",
+        "publication_date": null,
+        "id": "th_an8.5_siam_rath",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "author": "Thích Minh Châu",
+        "author_short": "Minh Châu",
+        "author_uid": "minh_chau",
+        "has_comment": false,
+        "id": "vi_an8.5_minh_chau",
+        "is_root": false,
+        "lang": "vi",
+        "lang_name": "Tiếng Việt",
+        "publication_date": "1980–1981",
+        "segmented": false,
+        "volpage": null,
+        "title": "Tùy Chuyển Thế Giới (1)"
+      },
+      {
+        "lang": "zh",
+        "lang_name": "汉语",
+        "is_root": false,
+        "author": "莊春江",
+        "author_short": "莊春江",
+        "author_uid": "zhuang",
+        "publication_date": null,
+        "id": "zh_an8.5_zhuang",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "csp1ed17.7, csp2ed17.7, ms17A8_34, msdiv5, pts-vp-pli4.157,bj22.16, ms17A8_35, vri39.8,ms17A8_36, ndp3.276,ms17A8_37",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "an8.5",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Paṭhamalokadhammasutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato",
+    "bodhi"
+  ]
+}

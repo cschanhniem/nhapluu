@@ -1,0 +1,229 @@
+{
+  "root_text": null,
+  "translation": null,
+  "segmented": false,
+  "suttaplex": {
+    "acronym": "Snp 3.4",
+    "volpages": " PTS 80, PTS 81, PTS 82, PTS 83, PTS 84, PTS 85, PTS 86",
+    "alt_volpages": null,
+    "uid": "snp3.4",
+    "blurb": "A brahman questions the Buddha to see if the latter deserves to receive the cake resulting from his sacrifice.",
+    "difficulty": null,
+    "original_title": "Pūraḷāsa (sundarikabhāradvāja) sutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "leaf",
+    "from": null,
+    "translated_title": null,
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "snp3.4_translation-en-sujato",
+        "segmented": true,
+        "title": "With Bhāradvāja of Sundarika on the Sacrificial Cake ",
+        "volpage": null,
+        "has_comment": true
+      },
+      {
+        "lang": "pli",
+        "lang_name": "Pāli",
+        "is_root": true,
+        "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+        "author_short": "ms",
+        "author_uid": "ms",
+        "publication_date": null,
+        "id": "snp3.4_root-pli-ms",
+        "segmented": true,
+        "title": null,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "af",
+        "lang_name": "Afrikaans",
+        "is_root": false,
+        "author": "Prof. J.S. Krüger",
+        "author_short": "Krüger",
+        "author_uid": "kruger",
+        "publication_date": "1999",
+        "id": "af_snp3.4_kruger",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "de",
+        "lang_name": "Deutsch",
+        "is_root": false,
+        "author": "Nyanaponika Thera",
+        "author_short": "Nyanaponika",
+        "author_uid": "nyanaponika",
+        "publication_date": null,
+        "id": "de_snp3.4_nyanaponika",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Laurence Khantipalo Mills",
+        "author_short": "Mills",
+        "author_uid": "mills",
+        "publication_date": "2015",
+        "id": "en_snp3.4_mills",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "id",
+        "lang_name": "Bahasa Indonesia",
+        "is_root": false,
+        "author": "Indra Anggara",
+        "author_short": "Anggara",
+        "author_uid": "anggara",
+        "publication_date": null,
+        "id": "id_snp3.4_anggara",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "jpn",
+        "lang_name": "日本語",
+        "is_root": false,
+        "author": "関西パーリ語実習会",
+        "author_short": "関西パーリ語実習会",
+        "author_uid": "kansai",
+        "publication_date": "2023",
+        "id": "jpn_snp3.4_kansai",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "my",
+        "lang_name": "မြန်မာဘာသာ",
+        "is_root": false,
+        "author": "Pitaka Myanmar Translation",
+        "author_short": "PMT",
+        "author_uid": "pmt",
+        "publication_date": null,
+        "id": "my_snp3.4_pmt",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "nl",
+        "lang_name": "Nederlands",
+        "is_root": false,
+        "author": "Peter van Loosbroek",
+        "author_short": "Loosbroek",
+        "author_uid": "loosbroek",
+        "publication_date": null,
+        "id": "nl_snp3.4_loosbroek",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "no",
+        "lang_name": "Norsk",
+        "is_root": false,
+        "author": "Kåre A. Lie",
+        "author_short": "Lie",
+        "author_uid": "lie",
+        "publication_date": null,
+        "id": "no_snp3.4_lie",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ru",
+        "lang_name": "Русский",
+        "is_root": false,
+        "author": "Н. И. Герасимов",
+        "author_short": "Герасимов",
+        "author_uid": "gerasimov",
+        "publication_date": "2010",
+        "id": "ru_snp3.4_gerasimov",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "si",
+        "lang_name": "සිංහල",
+        "is_root": false,
+        "author": "A.P. de Zoysa",
+        "author_short": "Zoysa",
+        "author_uid": "zoysa",
+        "publication_date": null,
+        "id": "si_snp3.4_zoysa",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      },
+      {
+        "lang": "ta",
+        "lang_name": "தமிழ்",
+        "is_root": false,
+        "author": "Ben Arasu",
+        "author_short": "Arasu",
+        "author_uid": "arasu",
+        "publication_date": null,
+        "id": "ta_snp3.4_arasu",
+        "segmented": false,
+        "volpage": null,
+        "has_comment": false
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "priority_author_uid": null,
+    "verseNo": "dr25.457, mc0.420, ms18Sn_528, pts-vp-pli80,bj25.134, cck25.336, ms18Sn_529, sya25.413,ms18Sn_530,ms18Sn_531, vnp455, vns458,csp1ed18.346, csp2ed18.346, ms18Sn_532, ndp20.335, vnp456, vns459, vri48.150,dr25.458, mc0.421, ms18Sn_533, pts-vp-pli81, vnp457, vns460,ms18Sn_534, vns461,ms18Sn_535, sya25.414, vnp458, vns462,ms18Sn_536, vns463,cck25.337, ms18Sn_537, vnp459, vns464,bj25.136, ms18Sn_538, vnp460, vns465,dr25.459, ms18Sn_539, pts-vp-pli82, vnp461, vns466,ms18Sn_540, ndp20.336,csp1ed18.347, csp2ed18.347, mc0.422, ms18Sn_541, sya25.415, vnp462, vns467,ms18Sn_542, vnp463, vns468,ms18Sn_543, vnp464, vns469, vri48.151,cck25.338, ms18Sn_544, vnp465, vns470,dr25.460, ms18Sn_545, vnp466, vns471,bj25.138, mc0.423, ms18Sn_546, pts-vp-pli83, vnp467, vns472,ms18Sn_547, ndp20.337, sya25.416, vnp468, vns473,csp1ed18.348, csp2ed18.348, ms18Sn_548, vnp469, vns474,ms18Sn_549, vnp470, vns475,cck25.339, dr25.461, ms18Sn_550, vnp471, vns476,mc0.424, ms18Sn_551, sya25.417, vnp472, vns477,ms18Sn_552, pts-vp-pli84, vnp473, vns478,bj25.140, ms18Sn_553, ndp20.338, vnp474, vns479, vri48.152,ms18Sn_554, vnp475, vns480,csp1ed18.349, csp2ed18.349, ms18Sn_555, vnp476, vns481,cck25.340, dr25.462, ms18Sn_556, sya25.418, vnp477, vns482,mc0.425, ms18Sn_557, vnp478, vns483,ms18Sn_558, pts-vp-pli85, vnp479, vns484,bj25.142, ms18Sn_559, ndp20.339, vnp480, vns485,ms18Sn_560, vnp481, vns486,cck25.341, csp1ed18.350, csp2ed18.350, dr25.463, mc0.426, ms18Sn_561, sya25.419, vnp482, vns487,ms18Sn_562, vnp483, vns488,ms18Sn_563, vnp484, vns489, vri48.153,ms18Sn_564, vnp485, vns490,ms18Sn_565, pts-vp-pli86, vnp486, vns491,dr25.464, ms18Sn_566, sya25.420",
+    "previous": {
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_root_text": {
+    "uid": "snp3.4",
+    "author": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500",
+    "author_short": "ms",
+    "author_uid": "ms",
+    "lang": "pli",
+    "title": "Pūraḷāsa (sundarikabhāradvāja) sutta",
+    "previous": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    },
+    "next": {
+      "author_uid": "ms",
+      "lang": "pli",
+      "name": null,
+      "uid": null
+    }
+  },
+  "bilara_translated_text": null,
+  "candidate_authors": [
+    "sujato",
+    "mills"
+  ]
+}
