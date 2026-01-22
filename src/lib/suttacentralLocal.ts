@@ -100,9 +100,10 @@ export async function fetchLocalSuttaHtml(suttaId: string, lang: NikayaLanguage)
     const json = await fetchSuttaJson(suttaId, lang)
     if (!json) return null
 
+    // Strategy 1: Look for HTML content in text fields
     const htmlContent = json.translation?.text || json.root_text?.text
 
-    if (htmlContent) {
+    if (htmlContent && typeof htmlContent === 'string') {
         // Return raw HTML, strip refs
         const parser = new DOMParser()
         const doc = parser.parseFromString(htmlContent, 'text/html')
@@ -114,11 +115,23 @@ export async function fetchLocalSuttaHtml(suttaId: string, lang: NikayaLanguage)
         return htmlContent
     }
 
+    // Strategy 2: Check for bilara segments (keys like "dn1:1.1", "dn1:1.2" etc)
+    // Only process if it looks like segment data, not just metadata
     if (json.bilara_translated_text) {
-        const segments = Object.entries(json.bilara_translated_text)
-            .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
-            .map(([, text]) => `<p>${text}</p>`)
-        return segments.join('\n')
+        const keys = Object.keys(json.bilara_translated_text)
+        // Check if keys look like segment IDs (contain colon)
+        const hasSegments = keys.some(k => k.includes(':'))
+
+        if (hasSegments) {
+            const segments = Object.entries(json.bilara_translated_text)
+                .filter(([key]) => key.includes(':')) // Only include actual segment keys
+                .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
+                .map(([, text]) => typeof text === 'string' ? `<p>${text}</p>` : '')
+
+            if (segments.length > 0) {
+                return segments.join('\n')
+            }
+        }
     }
 
     return null
