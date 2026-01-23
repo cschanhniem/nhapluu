@@ -8,7 +8,7 @@
     // This script takes the current URL and converts it into a redirect to index.html
     // with the URL path as a query parameter
     (function() {
-      var pathSegmentsToKeep = 1; // Adjust if your app is deployed in a subdirectory
+      var pathSegmentsToKeep = 0; // Set to 0 for root deployment, 1 for subdirectory (e.g., /repo-name)
       
       var l = window.location;
       l.replace(
