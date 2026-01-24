@@ -83,6 +83,7 @@ export function SuttaDetail() {
   }, [handleScroll])
 
   const sutta = suttas.find((s) => s.id === suttaId)
+  const suttaSummary = sutta?.summary ?? ''
 
   usePageMeta({
     title: sutta ? sutta.title : t('library.notFound'),
@@ -104,10 +105,10 @@ export function SuttaDetail() {
   })
 
   useEffect(() => {
-    if (sutta) {
-      setShareQuote(sutta.summary)
+    if (suttaSummary) {
+      setShareQuote(suttaSummary)
     }
-  }, [suttaId])
+  }, [suttaSummary])
 
   if (!sutta) {
     return (

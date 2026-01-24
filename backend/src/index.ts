@@ -1,4 +1,5 @@
 import { Hono } from 'hono'
+import type { Context } from 'hono'
 import { cors } from 'hono/cors'
 import { logger } from 'hono/logger'
 import { sign, verify } from 'hono/jwt'
@@ -10,6 +11,60 @@ type Bindings = {
 }
 
 const app = new Hono<{ Bindings: Bindings }>()
+
+type AuthPayload = {
+  userId: string
+  email?: string
+  exp?: number
+}
+
+type AuthRequestBody = {
+  email?: string
+  password?: string
+}
+
+type MeditationInput = {
+  id?: string
+  date: string
+  duration: number
+  type: string
+  quality?: number | null
+  notes?: string | null
+}
+
+type PreceptsRecordInput = {
+  id: string
+  date: string
+  type: string
+  precepts: Record<string, boolean>
+  notes?: string | null
+}
+
+type ProgramProgressInput = {
+  startDate: string
+  currentWeek: number
+  completedDays: string[]
+  milestones: { week: number; completed: boolean; date?: string }[]
+}
+
+type SyncRequestBody = {
+  data?: {
+    meditationSessions?: MeditationInput[]
+    preceptsRecords?: PreceptsRecordInput[]
+    programProgress?: ProgramProgressInput
+  }
+  lastSync?: number
+}
+
+function isAuthPayload(payload: unknown): payload is AuthPayload {
+  return typeof payload === 'object' && payload !== null && 'userId' in payload
+}
+
+function getErrorMessage(error: unknown): string {
+  if (error instanceof Error) return error.message
+  if (typeof error === 'string') return error
+  return 'Unknown error'
+}
 
 // Helper: Hash password using SHA-256
 async function hashPassword(password: string): Promise<string> {
@@ -58,7 +113,9 @@ app.get('/api/health', (c) => {
 // Auth routes
 app.post('/api/auth/register', async (c) => {
   try {
-    const { email, password } = await c.req.json()
+    const body = await c.req.json<AuthRequestBody>()
+    const email = body.email?.trim()
+    const password = body.password
 
     // Validation
     if (!email || !email.includes('@')) {
@@ -94,8 +151,9 @@ app.post('/api/auth/register', async (c) => {
       user: { id: userId, email },
       token
     })
-  } catch (error: any) {
-    if (error.message?.includes('UNIQUE constraint')) {
+  } catch (error) {
+    const message = getErrorMessage(error)
+    if (message.includes('UNIQUE constraint')) {
       return c.json({ error: 'Email đã được đăng ký' }, 409)
     }
     return c.json({ error: 'Registration failed' }, 500)
@@ -104,7 +162,9 @@ app.post('/api/auth/register', async (c) => {
 
 app.post('/api/auth/login', async (c) => {
   try {
-    const { email, password } = await c.req.json()
+    const body = await c.req.json<AuthRequestBody>()
+    const email = body.email?.trim()
+    const password = body.password
 
     // Validation
     if (!email || !password) {
@@ -114,7 +174,7 @@ app.post('/api/auth/login', async (c) => {
     // Find user
     const user = await c.env.DB.prepare(
       'SELECT id, email, password_hash FROM users WHERE email = ?'
-    ).bind(email).first()
+    ).bind(email).first<{ id: string; email: string; password_hash: string }>()
 
     if (!user) {
       return c.json({ error: 'Email hoặc mật khẩu không đúng' }, 401)
@@ -140,19 +200,21 @@ app.post('/api/auth/login', async (c) => {
       token
     })
   } catch (error) {
+    console.error('Login error:', getErrorMessage(error))
     return c.json({ error: 'Login failed' }, 500)
   }
 })
 
 // Helper to verify token
-async function verifyToken(c: any) {
+async function verifyToken(c: Context<{ Bindings: Bindings }>): Promise<AuthPayload | null> {
   const authHeader = c.req.header('Authorization')
   if (!authHeader) return null
 
   const token = authHeader.replace('Bearer ', '')
   try {
-    return await verify(token, c.env.JWT_SECRET)
-  } catch (e) {
+    const payload = await verify(token, c.env.JWT_SECRET)
+    return isAuthPayload(payload) ? payload : null
+  } catch {
     return null
   }
 }
@@ -165,16 +227,17 @@ app.get('/api/meditations', async (c) => {
       return c.json({ error: 'Unauthorized' }, 401)
     }
 
-    const { userId } = payload as any
+    const { userId } = payload
 
     const sessions = await c.env.DB.prepare(
       'SELECT * FROM meditation_sessions WHERE user_id = ? ORDER BY date DESC LIMIT 100'
     ).bind(userId).all()
 
     return c.json({ sessions: sessions.results })
-  } catch (error: any) {
-    console.error('Failed to fetch sessions:', error)
-    return c.json({ error: 'Failed to fetch sessions', message: error.message }, 500)
+  } catch (error) {
+    const message = getErrorMessage(error)
+    console.error('Failed to fetch sessions:', message)
+    return c.json({ error: 'Failed to fetch sessions', message }, 500)
   }
 })
 
@@ -185,8 +248,8 @@ app.post('/api/meditations', async (c) => {
       return c.json({ error: 'Unauthorized' }, 401)
     }
 
-    const { userId } = payload as any
-    const session = await c.req.json()
+    const { userId } = payload
+    const session = await c.req.json<MeditationInput>()
 
     const id = session.id || crypto.randomUUID()
     const now = Date.now()
@@ -200,9 +263,10 @@ app.post('/api/meditations', async (c) => {
     ).run()
 
     return c.json({ success: true, id })
-  } catch (error: any) {
-    console.error('Failed to save session:', error)
-    return c.json({ error: 'Failed to save session', message: error.message }, 500)
+  } catch (error) {
+    const message = getErrorMessage(error)
+    console.error('Failed to save session:', message)
+    return c.json({ error: 'Failed to save session', message }, 500)
   }
 })
 
@@ -214,11 +278,14 @@ app.post('/api/sync', async (c) => {
       return c.json({ error: 'Unauthorized' }, 401)
     }
 
-    const { userId } = payload as any
-    const { data, lastSync } = await c.req.json()
+    const { userId } = payload
+    const body = await c.req.json<SyncRequestBody>()
+    const data = body.data ?? {}
+    const lastSync = typeof body.lastSync === 'number' ? body.lastSync : 0
 
     // Simple sync: push all local data to server
     const now = Date.now()
+    const lastPull = lastSync > 0 ? lastSync : now
 
     // Insert/update meditation sessions
     if (data.meditationSessions?.length) {
@@ -261,12 +328,13 @@ app.post('/api/sync', async (c) => {
     // Update sync metadata
     await c.env.DB.prepare(
       `INSERT OR REPLACE INTO sync_metadata (user_id, last_pull, last_push) VALUES (?, ?, ?)`
-    ).bind(userId, now, now).run()
+    ).bind(userId, lastPull, now).run()
 
     return c.json({ success: true, synced_at: now })
-  } catch (error: any) {
-    console.error('Sync error:', error)
-    return c.json({ error: 'Sync failed', message: error.message }, 500)
+  } catch (error) {
+    const message = getErrorMessage(error)
+    console.error('Sync error:', message)
+    return c.json({ error: 'Sync failed', message }, 500)
   }
 })
 

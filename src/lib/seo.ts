@@ -103,16 +103,9 @@ export function applyPageMeta(meta: PageMeta) {
 }
 
 export function usePageMeta(meta: PageMeta) {
+  const { title, description, image, url, type, canonical, jsonLd, jsonLdId } = meta
+
   useEffect(() => {
-    applyPageMeta(meta)
-  }, [
-    meta.title,
-    meta.description,
-    meta.image,
-    meta.url,
-    meta.type,
-    meta.canonical,
-    meta.jsonLd,
-    meta.jsonLdId
-  ])
+    applyPageMeta({ title, description, image, url, type, canonical, jsonLd, jsonLdId })
+  }, [title, description, image, url, type, canonical, jsonLd, jsonLdId])
 }

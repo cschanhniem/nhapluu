@@ -77,14 +77,14 @@ export function NikayaDetail() {
     }[]>([])
 
     usePageMeta({
-        title: metadata ? metadata.title : t('nikaya.metaTitle'),
+        title: metadata ? (metadata.translated_title || metadata.original_title) : t('nikaya.metaTitle'),
         description: metadata?.blurb || t('nikaya.metaDescription'),
         url: suttaId ? `/nikaya/${suttaId}` : undefined,
         jsonLd: metadata
             ? {
                 '@context': 'https://schema.org',
                 '@type': 'Article',
-                headline: metadata.title,
+                headline: metadata.translated_title || metadata.original_title,
                 description: metadata.blurb,
                 url: `/nikaya/${metadata.uid}`
             }

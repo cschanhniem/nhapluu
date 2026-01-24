@@ -30,16 +30,25 @@ export function NikayaLibrary() {
         description: t('nikaya.metaDescription')
     })
 
+    type NikayaIndexItem = {
+        id: string
+        title: string
+        paliTitle?: string
+        collection: NikayaCollection
+        blurb?: string
+        difficulty?: number
+    }
+
     // Fetch suttas index on mount
     useEffect(() => {
         const fetchIndex = async () => {
             try {
                 const res = await fetch('/data/suttacentral-json/nikaya_index.json')
                 if (!res.ok) throw new Error('Failed to load index')
-                const data = await res.json()
+                const data = await res.json() as NikayaIndexItem[]
 
                 // Map index data to NikayaSuttaInfo
-                const mappedSuttas: NikayaSuttaInfo[] = data.map((item: any) => {
+                const mappedSuttas: NikayaSuttaInfo[] = data.map((item) => {
                     // Formatting code: mn10 -> MN 10
                     const match = item.id.match(/([a-z]+)(\d+.*)/i)
                     const code = match ? `${match[1].toUpperCase()} ${match[2]}` : item.id.toUpperCase()

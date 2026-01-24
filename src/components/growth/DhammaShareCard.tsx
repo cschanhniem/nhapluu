@@ -139,7 +139,7 @@ export function DhammaShareCard({ quote, source, title, onQuoteChange }: DhammaS
           <Copy className="h-4 w-4" />
           {t('growth.shareCard.copy')}
         </button>
-        {navigator.share && (
+        {typeof navigator.share === 'function' && (
           <button
             onClick={handleShare}
             className="inline-flex items-center gap-2 px-3 py-2 rounded-md bg-muted text-muted-foreground text-sm font-medium hover:bg-muted/80"
