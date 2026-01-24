@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import { Home, Timer, Users, LogOut, Cloud, MapPin, Shield, LogIn, Trophy, Sun, Moon, Languages, BookOpen, ScrollText } from 'lucide-react'
+import { Home, Timer, Users, LogOut, Cloud, MapPin, Shield, LogIn, Trophy, Sun, Moon, Languages, BookOpen, ScrollText, Heart } from 'lucide-react'
 import { useAuth } from '@/contexts/AuthContext'
 import { useTheme } from '@/contexts/ThemeContext'
 import { useAppState } from '@/hooks/useAppState'
@@ -23,6 +23,7 @@ export function Header() {
     { name: t('nav.program'), href: '/chuong-trinh', icon: Trophy },
     { name: t('nav.practice'), href: '/thien-dinh', icon: Timer },
     { name: 'Pháp Bảo', href: '/phap-bao', icon: BookOpen },
+    { name: 'Đồng Hành', href: '/giao-phap/dong-hanh-tu-tap', icon: Heart },
     { name: 'Kinh Điển', href: '/nikaya', icon: ScrollText },
     { name: t('nav.findSangha'), href: '/tim-sangha', icon: MapPin },
     { name: t('nav.community'), href: '/cong-dong', icon: Users },

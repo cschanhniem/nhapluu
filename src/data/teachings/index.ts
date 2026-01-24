@@ -1,6 +1,7 @@
 import tienTrinhMinhSat from './tien-trinh-minh-sat'
 import conDuongMahasi from './con-duong-mahasi'
 import huongDanNhapThat from './huong-dan-nhap-that'
+import loTrinhDuLuu from './lo-trinh-du-luu'
 import baMuoiBayPham from './37-pham-tro-dao'
 import viDieuPhap from './vi-dieu-phap-ung-dung'
 import tuDieuDe from './tu-dieu-de-duyen-khoi'
@@ -24,6 +25,7 @@ import samvega from './samvega'
 import muoiKietSu from './muoi-kiet-su'
 import sotapattiSamyutta from './sotapatti-samyutta'
 import anupubbikatha from './anupubbikatha'
+import dongHanhTuTap from './dong-hanh-tu-tap'
 
 export const teachings = [
     // === CRITICAL FOUNDATIONS ===
@@ -56,17 +58,20 @@ export const teachings = [
 
     // === PATH ===
     tienTrinhMinhSat,     // Map (16 Nanas)
+    loTrinhDuLuu,         // Stream-entry Path (1-page + practice)
     conDuongMahasi,       // Guide 1 (Path)
     huongDanNhapThat,     // Guide 2 (Retreat)
 
     // === DAILY LIFE ===
     daoDoi,               // Ethics (Daily Life)
     chanhNiemHangNgay,    // Mindfulness (Daily Practice)
+    dongHanhTuTap,        // Support Others (Family/Friends/Colleagues)
     congCuDanhGia,        // Tools (Progress Assessment)
 ]
 
 export {
     tienTrinhMinhSat,
+    loTrinhDuLuu,
     conDuongMahasi,
     huongDanNhapThat,
     baMuoiBayPham,
@@ -86,6 +91,7 @@ export {
     chanhNiemHangNgay,
     trangThaiThienSau,
     congCuDanhGia,
+    dongHanhTuTap,
     nhuLyTacY,
     thienTriThuc,
     samvega,
@@ -93,4 +99,3 @@ export {
     sotapattiSamyutta,
     anupubbikatha
 }
-
